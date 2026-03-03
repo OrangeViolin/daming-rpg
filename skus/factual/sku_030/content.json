@@ -1,0 +1,30 @@
+{
+  "system_name": "责打九款八式七十二法",
+  "punishment_levels": [
+    {
+      "level": "最重",
+      "name": "廷杖杖脊",
+      "description": "手毒者几杖下去便可取人性命"
+    },
+    {
+      "level": "最轻",
+      "name": "篾片拍臀",
+      "description": "犹如父母责打孩童，让你知痛便了"
+    }
+  ],
+  "techniques": [
+    {
+      "name": "抽",
+      "description": "一片下去往后一拖，不到半个时辰屁股便淤肿呈乌黑色，半个月都得趴着"
+    },
+    {
+      "name": "拍",
+      "description": "一片下去及时抬起，半个时辰后屁股虽肿却不淤，最多有些青红，三天便行走正常"
+    }
+  ],
+  "special_punishment": {
+    "name": "鸳鸯板",
+    "description": "互相轮着打，你打了我，我再打你，互相留情，便会悉心拿捏手法，雷声大，雨点却小",
+    "purpose": "最留情的责打方式"
+  }
+}

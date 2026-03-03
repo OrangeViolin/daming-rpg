@@ -1,0 +1,28 @@
+{
+  "selection_criteria": [
+    {
+      "name": "擅走",
+      "description": "一人每天能走一百六十里以上"
+    },
+    {
+      "name": "擅跳",
+      "description": "两丈高的墙，跃起来双手一攀，翻身便能过去"
+    },
+    {
+      "name": "擅斗",
+      "description": "有拳脚兵器功夫，更要有狠劲，同时掐着对方咽喉，自己咽喉破了也不死"
+    }
+  ],
+  "legendary_skill": {
+    "name": "马功",
+    "description": "能七天七晚不坐不躺，两条腿轮流踩在地上睡觉，七天头上双脚着地还能空手杀死一头狼"
+  },
+  "physical_appearance": {
+    "nickname": "虎臂蜂腰螳螂腿",
+    "description": "肩特别宽，腰被带子一束显得特别细，腿青筋暴露硬如铁柱"
+  },
+  "identification": {
+    "item": "北镇抚司腰牌",
+    "description": "挂在蓝色腰带上"
+  }
+}

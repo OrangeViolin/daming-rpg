@@ -1,0 +1,7 @@
+# imperial-decree-verification-and-reading
+
+- **分类**: procedural
+- **来源**: 大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna’s Archive_chunk_015
+- **字符数**: 532
+
+明代特发上谕的接收、验证封印、开启和宣读流程，适用于钦差大臣接收皇帝密旨的场景。

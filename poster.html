@@ -1,0 +1,269 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<title>大明王朝1566 · 游戏海报</title>
+<style>
+*{margin:0;padding:0;box-sizing:border-box}
+body{background:#111;display:flex;flex-direction:column;align-items:center;padding:70px 20px 80px;font-family:'Noto Serif SC','Songti SC','STSong',serif}
+.toolbar{position:fixed;top:0;left:0;right:0;background:rgba(17,17,17,.95);backdrop-filter:blur(10px);border-bottom:1px solid rgba(255,255,255,.1);padding:12px 20px;display:flex;align-items:center;justify-content:center;gap:12px;z-index:100}
+.toolbar button{padding:10px 28px;border:none;border-radius:8px;font-size:14px;font-weight:600;cursor:pointer;font-family:inherit}
+.toolbar .dl{background:#d4af37;color:#0a0a0f}
+.toolbar .dl:hover{background:#e5c348}
+.hint{color:#555;font-size:13px;margin-top:16px}
+
+.poster{
+  width:540px;height:960px;
+  position:relative;overflow:hidden;
+  border-radius:8px;
+  box-shadow:0 8px 40px rgba(0,0,0,.6);
+}
+.bg{
+  position:absolute;inset:0;
+  background:radial-gradient(ellipse at 50% 30%, #1a1a28 0%, #0a0a0f 70%);
+}
+/* subtle texture overlay */
+.bg::after{
+  content:'';position:absolute;inset:0;
+  background:
+    radial-gradient(circle at 50% 20%, rgba(212,175,55,.06) 0%, transparent 50%),
+    radial-gradient(circle at 20% 80%, rgba(212,175,55,.03) 0%, transparent 40%),
+    radial-gradient(circle at 80% 70%, rgba(212,175,55,.03) 0%, transparent 40%);
+}
+.content{
+  position:absolute;inset:0;
+  display:flex;flex-direction:column;align-items:center;
+  z-index:2;padding:48px 40px;
+}
+
+/* decorative top border */
+.top-deco{
+  width:120px;height:2px;
+  background:linear-gradient(90deg,transparent,rgba(212,175,55,.5),transparent);
+  margin-bottom:32px;
+}
+
+/* main title */
+.title{
+  font-size:64px;font-weight:900;
+  color:#d4af37;letter-spacing:14px;
+  text-shadow:0 0 30px rgba(212,175,55,.3);
+  margin-bottom:8px;
+}
+.subtitle{
+  font-size:18px;color:rgba(212,175,55,.5);
+  letter-spacing:8px;margin-bottom:28px;
+}
+
+/* decorative divider */
+.divider{
+  display:flex;align-items:center;gap:12px;margin-bottom:28px;
+}
+.divider .line{width:60px;height:1px;background:linear-gradient(90deg,transparent,rgba(212,175,55,.4),transparent)}
+.divider .diamond{width:6px;height:6px;background:#d4af37;transform:rotate(45deg)}
+
+/* tagline */
+.tagline{
+  font-size:15px;color:rgba(212,175,55,.6);
+  letter-spacing:4px;margin-bottom:6px;
+  font-style:italic;
+}
+.tagline2{
+  font-size:13px;color:rgba(255,255,255,.25);
+  letter-spacing:3px;margin-bottom:36px;
+}
+
+/* features */
+.features{
+  display:flex;gap:20px;margin-bottom:36px;
+}
+.feat{
+  text-align:center;padding:12px 8px;
+}
+.feat-num{
+  font-size:28px;font-weight:900;color:#d4af37;
+  font-family:-apple-system,'PingFang SC',sans-serif;
+}
+.feat-label{
+  font-size:11px;color:rgba(255,255,255,.35);
+  letter-spacing:2px;margin-top:4px;
+}
+
+/* divider 2 */
+.divider2{
+  width:200px;height:1px;
+  background:linear-gradient(90deg,transparent,rgba(212,175,55,.25),transparent);
+  margin-bottom:32px;
+}
+
+/* QR section */
+.qr-section{
+  display:flex;flex-direction:column;align-items:center;
+}
+.qr-box{
+  width:160px;height:160px;
+  background:#fff;border-radius:8px;
+  padding:10px;margin-bottom:14px;
+  box-shadow:0 0 20px rgba(212,175,55,.15);
+}
+.qr-box canvas{width:100%!important;height:100%!important}
+.qr-hint{
+  font-size:12px;color:rgba(255,255,255,.3);
+  letter-spacing:2px;margin-bottom:4px;
+  font-family:-apple-system,'PingFang SC',sans-serif;
+}
+.qr-url{
+  font-size:10px;color:rgba(212,175,55,.35);
+  letter-spacing:1px;
+  font-family:'SF Mono','Menlo',monospace;
+}
+
+/* bottom decoration */
+.bottom-deco{
+  position:absolute;bottom:32px;left:0;right:0;
+  display:flex;flex-direction:column;align-items:center;
+}
+.bottom-line{
+  width:120px;height:1px;
+  background:linear-gradient(90deg,transparent,rgba(212,175,55,.3),transparent);
+  margin-bottom:12px;
+}
+.bottom-text{
+  font-size:10px;color:rgba(255,255,255,.15);letter-spacing:3px;
+  font-family:-apple-system,'PingFang SC',sans-serif;
+}
+.bottom-gzh{
+  font-size:11px;color:rgba(255,255,255,.3);letter-spacing:1px;
+  margin-top:8px;
+  font-family:-apple-system,'PingFang SC',sans-serif;
+}
+.gzh-name{
+  color:#d4af37;font-weight:700;letter-spacing:2px;
+}
+
+/* corner decorations */
+.corner{position:absolute;width:24px;height:24px;z-index:3}
+.corner.tl{top:20px;left:20px;border-top:1px solid rgba(212,175,55,.2);border-left:1px solid rgba(212,175,55,.2)}
+.corner.tr{top:20px;right:20px;border-top:1px solid rgba(212,175,55,.2);border-right:1px solid rgba(212,175,55,.2)}
+.corner.bl{bottom:20px;left:20px;border-bottom:1px solid rgba(212,175,55,.2);border-left:1px solid rgba(212,175,55,.2)}
+.corner.br{bottom:20px;right:20px;border-bottom:1px solid rgba(212,175,55,.2);border-right:1px solid rgba(212,175,55,.2)}
+</style>
+</head>
+<body>
+
+<div class="toolbar">
+  <button class="dl" onclick="downloadPoster()">下载海报 PNG</button>
+</div>
+
+<div class="poster" id="poster">
+  <div class="bg"></div>
+  <div class="corner tl"></div>
+  <div class="corner tr"></div>
+  <div class="corner bl"></div>
+  <div class="corner br"></div>
+
+  <div class="content">
+    <div class="top-deco"></div>
+    <div class="title">大明王朝</div>
+    <div class="subtitle">嘉 靖 与 海 瑞</div>
+
+    <div class="divider">
+      <div class="line"></div>
+      <div class="diamond"></div>
+      <div class="line"></div>
+    </div>
+
+    <div class="tagline">沉浸式权谋RPG</div>
+    <div class="tagline2">选你的角色 · 做你的选择 · 改写历史</div>
+
+    <div class="features">
+      <div class="feat">
+        <div class="feat-num">8</div>
+        <div class="feat-label">角 色</div>
+      </div>
+      <div class="feat">
+        <div class="feat-num">7</div>
+        <div class="feat-label">章 回</div>
+      </div>
+      <div class="feat">
+        <div class="feat-num">6</div>
+        <div class="feat-label">势 力</div>
+      </div>
+      <div class="feat">
+        <div class="feat-num">4+</div>
+        <div class="feat-label">结 局</div>
+      </div>
+    </div>
+
+    <div class="divider2"></div>
+
+    <div class="qr-section">
+      <div class="qr-box" id="qrcode"></div>
+      <div class="qr-hint">扫码即玩 · 手机浏览器直接打开</div>
+      <div class="qr-url">orangeviolin.github.io/ming1566-game</div>
+    </div>
+  </div>
+
+  <div class="bottom-deco">
+    <div class="bottom-line"></div>
+    <div class="bottom-text">基于刘和平《大明王朝1566》· AI 生成</div>
+    <div class="bottom-gzh">关注公众号 <span class="gzh-name">01fish</span> 了解游戏背后的制作过程</div>
+  </div>
+</div>
+
+<div class="hint">点击上方按钮下载海报 PNG（1080×1920 高清）</div>
+
+<script src="https://cdn.jsdelivr.net/npm/qrcode-generator@1.4.4/qrcode.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/html2canvas@1.4.1/dist/html2canvas.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/file-saver@2.0.5/dist/FileSaver.min.js"></script>
+<script>
+// Generate QR code
+const qr = qrcode(0, 'M');
+qr.addData('https://orangeviolin.github.io/ming1566-game/');
+qr.make();
+
+const el = document.getElementById('qrcode');
+const moduleCount = qr.getModuleCount();
+const canvas = document.createElement('canvas');
+const size = 280;
+canvas.width = size;
+canvas.height = size;
+const ctx = canvas.getContext('2d');
+const cellSize = size / moduleCount;
+
+// White background
+ctx.fillStyle = '#ffffff';
+ctx.fillRect(0, 0, size, size);
+
+// Draw modules with slight rounding
+ctx.fillStyle = '#0a0a0f';
+for (let row = 0; row < moduleCount; row++) {
+  for (let col = 0; col < moduleCount; col++) {
+    if (qr.isDark(row, col)) {
+      const x = col * cellSize;
+      const y = row * cellSize;
+      const r = cellSize * 0.1;
+      ctx.beginPath();
+      ctx.roundRect(x, y, cellSize + 0.5, cellSize + 0.5, r);
+      ctx.fill();
+    }
+  }
+}
+
+el.appendChild(canvas);
+
+async function downloadPoster() {
+  const poster = document.getElementById('poster');
+  const c = await html2canvas(poster, {
+    scale: 2,
+    useCORS: true,
+    backgroundColor: null,
+    width: 540,
+    height: 960,
+    logging: false
+  });
+  c.toBlob(blob => saveAs(blob, '大明王朝1566-游戏海报.png'), 'image/png');
+}
+</script>
+</body>
+</html>

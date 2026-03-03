@@ -1,0 +1,33 @@
+{
+  "grain_sources": [
+    {
+      "source": "省里拨付",
+      "status": "只能发一天"
+    },
+    {
+      "source": "向本县大户借",
+      "amount": "三天赈灾粮",
+      "arranger": "田有禄"
+    },
+    {
+      "source": "沈一石粮船",
+      "amount": "上百船",
+      "distribution": "六成半给淳安，三成半给建德"
+    },
+    {
+      "source": "胡宗宪从江苏借",
+      "amount": "几十船",
+      "arrival": "一两日内由高翰文运到"
+    }
+  ],
+  "distribution_method": {
+    "type": "施粥",
+    "frequency": "一日两顿",
+    "equipment": "千人锅"
+  },
+  "medical_response": {
+    "issue": "瘟疫",
+    "doctor": "李时珍",
+    "action": "重新开方，纠正海瑞按《千金方》抓的药"
+  }
+}

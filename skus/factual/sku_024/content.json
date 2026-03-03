@@ -1,0 +1,15 @@
+{
+  "population": "在籍百姓二十七万人",
+  "land_total": "入册田亩四十四万亩",
+  "land_silk": "十五万亩桑田（丝绸大户）",
+  "land_rice": "二十九万亩稻田（耕农）",
+  "yield_per_mu_good": "丰年产谷二石五斗",
+  "yield_per_mu_bad": "歉年产谷不到两石",
+  "annual_grain_per_capita": "全年不足三百斤",
+  "daily_rice_per_capita": "脱粒后每人每天不足七两米",
+  "post_disaster_scenario": {
+    "flooded_land": "约十四万亩（一半百姓的田）",
+    "rental_income_rice": "若租田耕种（五五分租），每人每年稻谷一百五十斤",
+    "daily_rice_rental": "每人每天白米三两五钱"
+  }
+}

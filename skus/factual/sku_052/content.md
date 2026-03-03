@@ -1,0 +1,5 @@
+- **Before Jiajing Year 30**: Maritime shipping was unobstructed.
+  - Inland price: 10 taels of silver per bolt.
+  - Western market price: 15 taels of silver per bolt.
+- **After Jiajing Year 30**: Wokou pirates disrupted maritime shipping.
+  - Inland price: 6 to 7 taels of silver per bolt.

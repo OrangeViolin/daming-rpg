@@ -1,0 +1,14 @@
+{
+  "created_at": "2026-02-21T10:38:42.210447",
+  "source_skus_dir": "/Users/mac/Desktop/Anything2Workspace/output/batch-0220-ming/skus",
+  "workspace_dir": "/Users/mac/Desktop/Anything2Workspace/workspace/batch-0220-ming",
+  "factual_count": 175,
+  "procedural_count": 123,
+  "has_relational": true,
+  "has_mapping": true,
+  "has_eureka": true,
+  "has_spec": false,
+  "has_readme": true,
+  "total_files_copied": 605,
+  "paths_rewritten": 646
+}

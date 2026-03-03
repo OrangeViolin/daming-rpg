@@ -1,0 +1,297 @@
+{
+  "created_at": "2026-02-21T08:33:17.448265",
+  "buckets_scanned": 2,
+  "pairs_flagged": 27,
+  "pairs_resolved": 27,
+  "total_deleted": 1,
+  "total_rewritten": 0,
+  "total_merged": 1,
+  "total_kept": 25,
+  "total_contradictions": 1,
+  "actions": [
+    {
+      "sku_a": "sku_003",
+      "sku_b": "sku_005",
+      "action": "keep",
+      "detail": "SKU A主要涵盖中央朝廷及裕王府的核心人物（如内阁成员、司礼监、皇族），描述较为具体详细；SKU B主要涵盖浙江地方官员及相关人员（如胡宗宪、郑泌昌、杨金水等），虽然包含部分重叠人物（如严嵩、徐阶等），但描述的详略程度和侧重点不同（例如SKU A中谭纶为'裕王府詹事'，SKU B中为'参军'；SKU A中严世蕃有具体官职，SKU B中仅注为'严嵩之子'）。两者覆盖的人群主体不同，属于互补关系而非重复或矛盾。",
+      "deleted_skus": [],
+      "rewritten_skus": [],
+      "new_content": null,
+      "merged_content": null
+    },
+    {
+      "sku_a": "sku_005",
+      "sku_b": "sku_013",
+      "action": "keep",
+      "detail": "SKU A和SKU B在数据维度和粒度上存在显著差异，互为补充。SKU A提供了更完整的官职头衔（如胡宗宪的'兼浙江巡抚'）并将徐阶、高拱、张居正统一归类为'内阁大臣'；而SKU B提供了更丰富的人物列表（增加了李妃、沈一石等）以及关键的'派系'（affiliation）维度，但对部分人物的官职描述侧重于具体职衔（如'侍讲学士'）。两者信息不完全重叠，保留两者有助于提供更全面的视角。",
+      "deleted_skus": [],
+      "rewritten_skus": [],
+      "new_content": null,
+      "merged_content": null
+    },
+    {
+      "sku_a": "sku_009",
+      "sku_b": "sku_071",
+      "action": "keep",
+      "detail": "SKU A是结构化的JSON列表，涵盖了皇宫、王府及浙江等多地主要地点；SKU B是描述性文本，侧重于新安江及淳安县衙的具体建筑细节。两者格式不同，内容侧重点不同（宏观列表 vs 局部细节），虽有地理重叠但非重复数据。",
+      "deleted_skus": [],
+      "rewritten_skus": [],
+      "new_content": null,
+      "merged_content": null
+    },
+    {
+      "sku_a": "sku_010",
+      "sku_b": "sku_017",
+      "action": "keep",
+      "detail": "SKU A 提供的是宏观的时间背景设定（朝代、节日、季节），属于背景信息；SKU B 提供的是具体的剧情事件时间线，属于叙事细节。两者粒度不同，功能互补，不存在重复或矛盾。",
+      "deleted_skus": [],
+      "rewritten_skus": [],
+      "new_content": null,
+      "merged_content": null
+    },
+    {
+      "sku_a": "sku_016",
+      "sku_b": "sku_007",
+      "action": "keep",
+      "detail": "SKU A侧重于政策的背景、目的及政治博弈（胡宗宪与严世蕃的分歧）的叙述性描述，属于定性内容；SKU B侧重于政策的具体量化数据（完成率、经济效益、产量目标）和税收规则，属于结构化数据。两者互为补充，视角不同，不存在矛盾或重复。",
+      "deleted_skus": [],
+      "rewritten_skus": [],
+      "new_content": null,
+      "merged_content": null
+    },
+    {
+      "sku_a": "sku_031",
+      "sku_b": "sku_003",
+      "action": "keep",
+      "detail": "SKU A侧重于定义明朝官职的品级、职责及相关示例（职位实体），而SKU B侧重于列举具体人物及其身份（人物实体）。两者主题维度不同，互为补充，不存在重复或矛盾。",
+      "deleted_skus": [],
+      "rewritten_skus": [],
+      "new_content": null,
+      "merged_content": null
+    },
+    {
+      "sku_a": "sku_032",
+      "sku_b": "sku_009",
+      "action": "keep",
+      "detail": "SKU A 侧重于地理距离、路线和相对位置的具体描述（如“淳安到杭州二百余里”），属于地理空间数据；SKU B 侧重于列举文档中出现的主要地点实体（如“玉熙宫”、“裕王府”），属于地点名录。两者关注点不同，无重复或矛盾。",
+      "deleted_skus": [],
+      "rewritten_skus": [],
+      "new_content": null,
+      "merged_content": null
+    },
+    {
+      "sku_a": "sku_033",
+      "sku_b": "sku_064",
+      "action": "keep",
+      "detail": "SKU A主要关注情感、家庭及核心剧情人物关系（如杨金水、芸娘、沈一石等），格式为文本描述；SKU B侧重于师承和政治派系关系（如徐阶与张居正、严嵩与胡宗宪），格式为结构化JSON。两者覆盖的人物对象和关系类型不同，互为补充，不构成重复或矛盾。",
+      "deleted_skus": [],
+      "rewritten_skus": [],
+      "new_content": null,
+      "merged_content": null
+    },
+    {
+      "sku_a": "sku_044",
+      "sku_b": "sku_043",
+      "action": "keep",
+      "detail": "SKU A (sku_044) 侧重于绸缎行的库存变动流水和财务状况（如丝绸调拨、分润、卖出、现银），属于运营数据；而 SKU B (sku_043) 侧重于作坊的固定资产和生产能力指标（如织机数量、日产量、原材料库存），属于资产数据。两者数据维度不同，互为补充，不存在重复或矛盾。",
+      "deleted_skus": [],
+      "rewritten_skus": [],
+      "new_content": null,
+      "merged_content": null
+    },
+    {
+      "sku_a": "sku_052",
+      "sku_b": "sku_063",
+      "action": "keep",
+      "detail": "SKU A 记录的是嘉靖年间丝绸的具体市场价格数据（每匹价格），属于历史经济指标；SKU B 记录的是一笔具体的丝绸交易量（五十万匹）及财政背景（国库空虚）。两者关注点不同（价格 vs 交易量/背景），互不冲突且非重复，应予以保留。",
+      "deleted_skus": [],
+      "rewritten_skus": [],
+      "new_content": null,
+      "merged_content": null
+    },
+    {
+      "sku_a": "sku_066",
+      "sku_b": "sku_052",
+      "action": "keep",
+      "detail": "SKU A 关注桑蚕养殖的生产端数据（产量、赋税、亩产收益），而 SKU B 关注嘉靖年间的市场端价格及贸易历史。两者主题相关但侧重点完全不同，互为补充，不存在重复或矛盾。",
+      "deleted_skus": [],
+      "rewritten_skus": [],
+      "new_content": null,
+      "merged_content": null
+    },
+    {
+      "sku_a": "sku_067",
+      "sku_b": "sku_076",
+      "action": "keep",
+      "detail": "SKU A侧重于海瑞的祖先姓名和宗教信仰（伊斯兰教），而SKU B侧重于海瑞的直系亲属成员（父母、妻女）及基本生平信息（籍贯、官职）。两者内容互补，侧重点不同，不存在重复或矛盾。",
+      "deleted_skus": [],
+      "rewritten_skus": [],
+      "new_content": null,
+      "merged_content": null
+    },
+    {
+      "sku_a": "sku_068",
+      "sku_b": "sku_035",
+      "action": "keep",
+      "detail": "SKU A (sku_068) 专注于描述一个具体的军事后勤任务（运送义民），包含详细的数据指标（人数、时间、路线）；SKU B (sku_035) 则概括了海瑞在淳安县的多种行政与司法决策（如审案、借粮、推行政策）。两者侧重点不同，一个是具体任务详情，一个是综合行动列表，互为补充，不存在重复或矛盾。",
+      "deleted_skus": [],
+      "rewritten_skus": [],
+      "new_content": null,
+      "merged_content": null
+    },
+    {
+      "sku_a": "sku_069",
+      "sku_b": "sku_040",
+      "action": "keep",
+      "detail": "SKU A描述的是李时珍在淳安县救治灾民的场景和进度，对象是灾民；SKU B描述的是李时珍对嘉靖帝和海瑞的具体诊断建议，对象是帝王与官员。两者的对象、地点、内容主题完全不同，互不冲突也不重复。",
+      "deleted_skus": [],
+      "rewritten_skus": [],
+      "new_content": null,
+      "merged_content": null
+    },
+    {
+      "sku_a": "sku_077",
+      "sku_b": "sku_067",
+      "action": "keep",
+      "detail": "SKU A 的主体是李时珍，SKU B 的主体是海瑞。两者描述的是完全不同的历史人物及其背景信息，不存在内容重复或矛盾，应予以保留。",
+      "deleted_skus": [],
+      "rewritten_skus": [],
+      "new_content": null,
+      "merged_content": null
+    },
+    {
+      "sku_a": "sku_078",
+      "sku_b": "sku_053",
+      "action": "contradiction",
+      "detail": "两个SKU虽然主题相关，但存在核心数据的直接矛盾。SKU A列出'二十年上缴丝绸'为'四百万匹'，而SKU B列出'palace_deliveries'（宫廷上缴）同期仅为'2,100,000 bolts'（二百一十万匹）。此外，SKU A侧重于被抄家后的实物资产清单（如桑田、织机、粮食），而SKU B侧重于财务统计（如贪腐估值、银两）。两者信息互补但关键数据冲突，应标记为矛盾并保留两者以待人工核实。",
+      "deleted_skus": [],
+      "rewritten_skus": [],
+      "new_content": null,
+      "merged_content": null
+    },
+    {
+      "sku_a": "sku_079",
+      "sku_b": "sku_043",
+      "action": "keep",
+      "detail": "SKU A描述的是徽商收购沈一石作坊的谈判条件和义务（如上缴丝绸数量、免税政策等），属于商业契约条款；SKU B描述的是沈一石作坊的资产现状和生产能力数据（如织机数量、日产量、库存等），属于资产盘点数据。两者主题不同，内容互补，不存在重复或矛盾。",
+      "deleted_skus": [],
+      "rewritten_skus": [],
+      "new_content": null,
+      "merged_content": null
+    },
+    {
+      "sku_a": "skill_006",
+      "sku_b": "skill_014",
+      "action": "keep",
+      "detail": "两者虽然名称和核心框架（思危、思退、思变）一致，但内容侧重点显著不同，互为补充。SKU A (skill_006) 侧重于具体的行动指南和操作流程，包含明确的‘关键行动’和循环‘决策点’，适合执行；SKU B (skill_014) 侧重于分析框架和评估维度，包含‘无退路者’等情境分析，适合战略研判。两者视角不同，不存在矛盾，合并会导致内容过于冗长，保留两者能提供更立体的方法论支持。",
+      "deleted_skus": [],
+      "rewritten_skus": [],
+      "new_content": null,
+      "merged_content": null
+    },
+    {
+      "sku_a": "skill_008",
+      "sku_b": "skill_017",
+      "action": "merge",
+      "detail": "两个SKU名称完全相同，但内容侧重点互补。SKU A提供了详细的执行流程和具体的警示案例（如桑苗案例），侧重实操；SKU B补充了关键的政治风险评估维度和逻辑判断框架。合并后能形成一个既有实操流程又有全面评估维度的完整技能，解决同名冲突并提升质量。",
+      "deleted_skus": [
+        "skill_017"
+      ],
+      "rewritten_skus": [],
+      "new_content": null,
+      "merged_content": "---\nname: policy-implementation-assessment\ndescription: 推行重大政策前进行系统性评估，综合考量实施条件、民生影响、社会稳定及政治风险，避免执行不当引发社会动荡。\n---\n\n# 政策执行评估框架\n\n## 概述\n在推行重大政策前，必须系统评估实施条件、潜在风险和社会影响，综合考虑政策目标、执行条件、民生影响、社会稳定及政治风险，避免机械执行或盲目推行导致严重后果。\n\n## 评估维度\n\n### 一、政策目标分析\n- 政策的核心要求是什么？\n- 必须完成的硬性指标有哪些？\n- 完成期限和数量要求？\n\n### 二、实施条件评估\n- 时间窗口是否合理？\n- 资源配置是否到位？\n- 技术条件是否成熟？\n- 配套措施是否完善？\n\n### 三、民生影响评估\n- 政策执行对百姓生计的影响？\n- 是否会造成粮食短缺或大规模失业？\n- 百姓是否有替代生存方案？\n- 基本生存需求能否保障？\n\n### 四、社会稳定风险评估\n- 可能引发多少不满民众？是否会引发群体性事件或民变？\n- 地域特殊性（如动荡地区）是否考虑？\n- 风险与收益是否成比例？\n\n### 五、政治风险评估\n- 是否会被政治势力利用？\n- 党争因素对政策的影响？\n- 执行者的立场和处境风险？\n\n## 决策流程\n\n1. **政策必须办** → 确认执行\n2. **条件是否具备？**\n   - 具备 → 正常执行\n   - 不具备 → 先解决前置条件或分阶段实施\n3. **民生是否有保障？**\n   - 有保障 → 推进执行\n   - 无保障 → 先解决粮食/生计问题，完善配套保障\n4. **风险是否可控？**\n   - 可控 → 执行\n   - 不可控 → 上报请求支援或调整\n\n**决策逻辑参考：**\n- 若民生影响大 + 社会风险高 → 建议暂缓或调整\n- 若实施条件不足 → 建议分阶段实施\n- 若政治风险高 → 建议明确责任边界\n\n## 缓解策略与配套措施\n- **分阶段实施**：合理规划时间节点（如将三年任务分摊）。\n- **完善保障**：建立风险预警机制，提供粮食借贷等配套保障。\n- **向上管理**：向上级如实汇报困难，请求资源支持。\n- **责任界定**：明确责任边界，避免成为政治斗争牺牲品。\n\n## 典型案例警示\n**案例背景**：推行改稻为桑政策。\n**问题**：桑苗插下去到秋后也没有几片嫩叶养中秋晚秋的蚕；官府不借贷粮食，只叫稻农把稻田改了，秋后便没有饭吃。\n**后果**：如果为了多产三十万匹丝绸，出了三十万个反民，一颗人头交代不下来。\n**教训**：先解决百姓生计问题，再推行政策；对囤积居奇者施压，而非逼迫百姓。\n\n## 预期结果\n形成全面的风险评估报告，在完成政策目标的同时，保障民生稳定，避免引发社会动荡或政治危机。"
+    },
+    {
+      "sku_a": "skill_012",
+      "sku_b": "skill_022",
+      "action": "keep",
+      "detail": "两者虽然主题相似，但侧重点和方法论不同。SKU A侧重于微观层面的'设身处地'和动机分析，强调换位思考与心理博弈；SKU B侧重于宏观层面的势力划分、矛盾识别和策略制定，框架性更强，适用于更系统的局势拆解。两者互补，非重复。",
+      "deleted_skus": [],
+      "rewritten_skus": [],
+      "new_content": null,
+      "merged_content": null
+    },
+    {
+      "sku_a": "skill_030",
+      "sku_b": "skill_029",
+      "action": "keep",
+      "detail": "SKU A (skill_030) 侧重于明朝官员监斩的司法程序和法律审查流程（如案卷核对、勾朱、冤情处理），属于法律审判执行范畴；SKU B (skill_029) 侧重于公开处决的后勤组织、场地布置和安保戒严，属于行政组织范畴。两者关注点不同，互为补充，不存在重复或矛盾。",
+      "deleted_skus": [],
+      "rewritten_skus": [],
+      "new_content": null,
+      "merged_content": null
+    },
+    {
+      "sku_a": "skill_035",
+      "sku_b": "skill_066",
+      "action": "keep",
+      "detail": "SKU A侧重于文书传递的物流和操作机制（如驿站接力、勘合、鸡毛标记），属于'传输层'的技术规范；SKU B侧重于紧急文书上报的行政流程和决策路径（如司礼监处理、呈送御前），属于'应用层'的业务流程。两者视角不同，互为补充，并非重复或矛盾。",
+      "deleted_skus": [],
+      "rewritten_skus": [],
+      "new_content": null,
+      "merged_content": null
+    },
+    {
+      "sku_a": "skill_041",
+      "sku_b": "skill_060",
+      "action": "keep",
+      "detail": "SKU A (skill_041) 侧重于接收诏命后的具体行政执行流程（如组建办案队伍、查抄、追捕），属于业务执行层面；SKU B (skill_060) 侧重于接到圣旨前的个人应急准备和礼仪规范（如更衣、安抚家人、前往接旨），属于个人响应与礼仪层面。两者关注点不同，互为补充，非重复或矛盾。",
+      "deleted_skus": [],
+      "rewritten_skus": [],
+      "new_content": null,
+      "merged_content": null
+    },
+    {
+      "sku_a": "skill_058",
+      "sku_b": "skill_070",
+      "action": "keep",
+      "detail": "两者虽然都涉及明代审讯，但侧重点和适用场景细节不同。SKU A (skill_058) 侧重于具体的审讯技术操作流程，如'明暗两间'的场所布置、口供固定的具体步骤（阅看、画押、告知后果），更偏向于技术规范。SKU B (skill_070) 侧重于'钦案'的行政组织架构，详细规定了审案班子的人员配置（主审官、领办官、锦衣卫）、公堂供奉圣谕的礼仪以及涉及皇权的政治敏感决策。两者互为补充，非完全重复。",
+      "deleted_skus": [],
+      "rewritten_skus": [],
+      "new_content": null,
+      "merged_content": null
+    },
+    {
+      "sku_a": "skill_064",
+      "sku_b": "skill_065",
+      "action": "keep",
+      "detail": "SKU A (skill_064) 专注于'惩戒流程'（认定过错、执行处罚），属于纪律执行机制；而 SKU B (skill_065) 专注于'拜见礼节'（大堂拜旨、大礼参拜），属于日常交际规范。两者主题不同，内容无重叠，不构成重复或矛盾。",
+      "deleted_skus": [],
+      "rewritten_skus": [],
+      "new_content": null,
+      "merged_content": null
+    },
+    {
+      "sku_a": "skill_076",
+      "sku_b": "skill_026",
+      "action": "keep",
+      "detail": "SKU A (skill_076) 是针对明朝司礼监发送“廷寄”这一特定公文类型的特定业务流程，包含特定的内部审批层级（秉笔太监、掌印太监）和宫廷背景。SKU B (skill_026) 是通用的紧急公文传递协议，侧重于驿站系统的传递等级选择、保密处理和反监视措施。两者的应用场景、适用范围和具体步骤均有显著差异，互为补充而非重复。",
+      "deleted_skus": [],
+      "rewritten_skus": [],
+      "new_content": null,
+      "merged_content": null
+    },
+    {
+      "sku_a": "skill_069",
+      "sku_b": "skill_041",
+      "action": "keep",
+      "detail": "SKU A (skill_069) 侧重于圣旨的接收礼仪与宣读流程，核心是验证封印、开启及宣读的细节动作，属于沟通与礼仪范畴；SKU B (skill_041) 侧重于廷寄诏命的行政执行流程，核心是组建办案队伍、查抄与拘捕，属于执法与行政范畴。两者核心关注点不同，互为补充，不存在重复或矛盾。",
+      "deleted_skus": [],
+      "rewritten_skus": [],
+      "new_content": null,
+      "merged_content": null
+    }
+  ],
+  "contradictions": [
+    {
+      "sku_a": "sku_078",
+      "sku_b": "sku_053",
+      "action": "contradiction",
+      "detail": "两个SKU虽然主题相关，但存在核心数据的直接矛盾。SKU A列出'二十年上缴丝绸'为'四百万匹'，而SKU B列出'palace_deliveries'（宫廷上缴）同期仅为'2,100,000 bolts'（二百一十万匹）。此外，SKU A侧重于被抄家后的实物资产清单（如桑田、织机、粮食），而SKU B侧重于财务统计（如贪腐估值、银两）。两者信息互补但关键数据冲突，应标记为矛盾并保留两者以待人工核实。",
+      "deleted_skus": [],
+      "rewritten_skus": [],
+      "new_content": null,
+      "merged_content": null
+    }
+  ]
+}

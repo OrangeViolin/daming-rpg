@@ -1,0 +1,30 @@
+[
+  {
+    "month": "First Month",
+    "event": "Tatars crossed the frozen river in Hexi to invade Shanxi; millions of soldiers and civilians in Shuntian Prefecture lacked grain."
+  },
+  {
+    "month": "Second Month",
+    "event": "Famine in Jinan Prefecture, Shandong."
+  },
+  {
+    "month": "Third Month",
+    "event": "Famine in the capital."
+  },
+  {
+    "month": "Fourth Month",
+    "event": "Famine in Shanxi."
+  },
+  {
+    "month": "Fifth Month",
+    "event": "Internal chaos among chieftains in Dongchuan."
+  },
+  {
+    "month": "Leap Fifth Month",
+    "event": "Refugee rebellion in Jiangxi attacked Taihe; Miao people rebellion in Sichuan invaded Huguang border."
+  },
+  {
+    "month": "Current Month",
+    "event": "Earthquakes in Shanxi, Shaanxi, and Ningxia with countless military and civilian casualties."
+  }
+]

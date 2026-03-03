@@ -1,0 +1,660 @@
+# SKU 映射
+
+本文件将所有标准知识单元（SKU）映射到其使用场景。
+
+---
+
+## 事实型知识
+
+本组包含关于出版物元数据、财政数据、人物、情节、设定及特定事件的事实性信息。
+
+### 出版与元数据
+- **[factual] skus/factual/sku_001**
+  - **场景**: 查询《大明王朝 1566》一书的出版元数据。
+- **[factual] skus/factual/sku_174**
+  - **场景**: 查询作者创作《大明王朝1566》的主要参考书目列表。
+- **[factual] skus/factual/sku_175**
+  - **场景**: 查询关于作品创作原则的说明。
+
+### 财政与经济数据
+- **[factual] skus/factual/sku_002**
+  - **场景**: 查询小说情节中提及的大明嘉靖三十九年财政收支数据。
+- **[factual] skus/factual/sku_006**
+  - **场景**: 查询江南织造局与西洋商人的丝绸交易详情。
+- **[factual] skus/factual/sku_007**
+  - **场景**: 查询改稻田为桑田国策的相关数据。
+- **[factual] skus/factual/sku_014**
+  - **场景**: 查询丝绸贸易的经济数据与生产指标。
+- **[factual] skus/factual/sku_015**
+  - **场景**: 查询新安江决堤水灾的相关数据。
+- **[factual] skus/factual/sku_016**
+  - **场景**: 查询改稻为桑国策的具体内容与背景。
+- **[factual] skus/factual/sku_024**
+  - **场景**: 查询王用汲陈述的建德县民生实情数据。
+- **[factual] skus/factual/sku_041**
+  - **场景**: 查询淳安赈灾的具体安排和物资情况。
+- **[factual] skus/factual/sku_043**
+  - **场景**: 查询沈一石作坊资产和生产能力数据。
+- **[factual] skus/factual/sku_044**
+  - **场景**: 查询沈一石绸缎行库存丝绸变动情况。
+- **[factual] skus/factual/sku_045**
+  - **场景**: 查询沈一石二十年经营汇总数据。
+- **[factual] skus/factual/sku_046**
+  - **场景**: 查询嘉靖三十九年至四十年丝绸贸易时间线。
+- **[factual] skus/factual/sku_052**
+  - **场景**: 查询嘉靖时期海贸中断前后中国内陆与西方市场的丝绸市场价格。
+- **[factual] skus/factual/sku_053**
+  - **场景**: 查询沈一石二十年来的资产、贪墨金额及宫廷供奉等财政统计数据。
+- **[factual] skus/factual/sku_063**
+  - **场景**: 查询丝绸贸易相关数据。
+- **[factual] skus/factual/sku_066**
+  - **场景**: 查询桑蚕养殖的产量、收益与赋税相关数据。
+- **[factual] skus/factual/sku_078**
+  - **场景**: 查询沈一石被抄家后的资产明细。
+- **[factual] skus/factual/sku_079**
+  - **场景**: 查询徽商收购沈一石作坊的谈判条件明细。
+- **[factual] skus/factual/sku_085**
+  - **场景**: 查询沈一石管事计算的每五座作坊收益明细。
+- **[factual] skus/factual/sku_088**
+  - **场景**: 查询丝绸贸易相关数据。
+- **[factual] skus/factual/sku_089**
+  - **场景**: 查询沈一石家产转卖情况。
+- **[factual] skus/factual/sku_090**
+  - **场景**: 查询新安江决堤灾害数据。
+- **[factual] skus/factual/sku_101**
+  - **场景**: 查询沈一石家产清单。
+- **[factual] skus/factual/sku_105**
+  - **场景**: 查询明朝皇室宗亲供给及浙江财政相关数据。
+- **[factual] skus/factual/sku_106**
+  - **场景**: 查询明朝大学士与巡抚的年俸数据。
+- **[factual] skus/factual/sku_135**
+  - **场景**: 查询淳安县丞田有禄为接待胡部堂公子所准备的费用分配。
+- **[factual] skus/factual/sku_137**
+  - **场景**: 查询淳安县当年的受灾情况。
+- **[factual] skus/factual/sku_140**
+  - **场景**: 查询沈一石织坊的丝绸生产任务。
+- **[factual] skus/factual/sku_149**
+  - **场景**: 查询抄没严世蕃等人家财的总额及内阁奏请的分配方案。
+- **[factual] skus/factual/sku_154**
+  - **场景**: 查询为修宫观增加拨款，内阁重新调整各部款项的方案。
+- **[factual] skus/factual/sku_156**
+  - **场景**: 查询嘉靖四十五年年底户部发放官员过年物资的标准。
+- **[factual] skus/factual/sku_157**
+  - **场景**: 查询嘉靖四十五年官员欠俸情况。
+- **[factual] skus/factual/sku_166**
+  - **场景**: 查询淞江棉业扩展计划。
+- **[factual] skus/factual/sku_170**
+  - **场景**: 查询关于淞江棉业利润分配比例的数据。
+
+### 人物与身份
+- **[factual] skus/factual/sku_003**
+  - **场景**: 查询文档片段中登场的主要人物及其官职或身份。
+- **[factual] skus/factual/sku_005**
+  - **场景**: 查询文档中出现的主要人物及其官职身份。
+- **[factual] skus/factual/sku_013**
+  - **场景**: 查询文档中出现的主要人物及其官职身份。
+- **[factual] skus/factual/sku_023**
+  - **场景**: 查询海瑞的个人背景信息。
+- **[factual] skus/factual/sku_031**
+  - **场景**: 查询文档中提及的明朝官职品级、职责及相关人员。
+- **[factual] skus/factual/sku_033**
+  - **场景**: 查询文档中主要人物之间的关系。
+- **[factual] skus/factual/sku_050**
+  - **场景**: 查询嘉靖四十年浙江主要官员。
+- **[factual] skus/factual/sku_051**
+  - **场景**: 查询嘉靖四十年朝廷主要官员。
+- **[factual] skus/factual/sku_058**
+  - **场景**: 查询文档片段中提及的关键人物的年龄与身份细节。
+- **[factual] skus/factual/sku_061**
+  - **场景**: 查询文中人物的字号信息。
+- **[factual] skus/factual/sku_064**
+  - **场景**: 查询文中人物之间的师承和政治关系。
+- **[factual] skus/factual/sku_067**
+  - **场景**: 查询海瑞家族背景与宗教信仰。
+- **[factual] skus/factual/sku_070**
+  - **场景**: 查询海瑞家族的家规与习俗。
+- **[factual] skus/factual/sku_072**
+  - **场景**: 查询三位历史人物的性情与行事特点。
+- **[factual] skus/factual/sku_073**
+  - **场景**: 查询李时珍辞去太医职位的缘由。
+- **[factual] skus/factual/sku_076**
+  - **场景**: 查询海瑞的家庭成员和背景信息。
+- **[factual] skus/factual/sku_077**
+  - **场景**: 查询李时珍的家庭背景信息。
+- **[factual] skus/factual/sku_081**
+  - **场景**: 查询史料记载的海瑞侍母细节。
+- **[factual] skus/factual/sku_083**
+  - **场景**: 查询海瑞家庭的简朴生活状况。
+- **[factual] skus/factual/sku_084**
+  - **场景**: 查询新任浙江巡抚赵贞吉的背景信息。
+- **[factual] skus/factual/sku_086**
+  - **场景**: 查询明朝官员职位信息。
+- **[factual] skus/factual/sku_093**
+  - **场景**: 查询海瑞家庭情况。
+- **[factual] skus/factual/sku_094**
+  - **场景**: 查询文档中提及的明朝官职及对应人物。
+- **[factual] skus/factual/sku_102**
+  - **场景**: 查询文档中人物关系。
+- **[factual] skus/factual/sku_108**
+  - **场景**: 查询关于严嵩把持朝政的历史记载和统计数据。
+- **[factual] skus/factual/sku_124**
+  - **场景**: 查询太监称谓等级与人物关系。
+- **[factual] skus/factual/sku_132**
+  - **场景**: 查询文档中主要人物的关系网络。
+- **[factual] skus/factual/sku_136**
+  - **场景**: 查询海瑞家庭成员及基本状况。
+- **[factual] skus/factual/sku_138**
+  - **场景**: 查询胡宗宪在浙江的任职情况。
+- **[factual] skus/factual/sku_142**
+  - **场景**: 查询文档中涉及的官员及其职位关系。
+- **[factual] skus/factual/sku_151**
+  - **场景**: 查询海瑞的官职履历、清廉状况及家庭变故。
+- **[factual] skus/factual/sku_153**
+  - **场景**: 查询文档中涉及的主要官员及太监的官职与身份信息。
+- **[factual] skus/factual/sku_159**
+  - **场景**: 查询海瑞的官职背景和处罚情况。
+- **[factual] skus/factual/sku_160**
+  - **场景**: 查询嘉靖皇帝的基本情况。
+- **[factual] skus/factual/sku_161**
+  - **场景**: 查询李时珍的背景信息。
+- **[factual] skus/factual/sku_162**
+  - **场景**: 查询冯保的情况。
+- **[factual] skus/factual/sku_163**
+  - **场景**: 查询高翰文的背景信息。
+
+### 情节与事件
+- **[factual] skus/factual/sku_004**
+  - **场景**: 查询文档片段中描述的关键情节事件。
+- **[factual] skus/factual/sku_011**
+  - **场景**: 查询冯保受罚事件详情。
+- **[factual] skus/factual/sku_012**
+  - **场景**: 查询齐大柱被捕事件。
+- **[factual] skus/factual/sku_019**
+  - **场景**: 查询嘉靖帝对李妃的封赏。
+- **[factual] skus/factual/sku_022**
+  - **场景**: 查询嘉靖帝对胡宗宪职务的调整决定。
+- **[factual] skus/factual/sku_025**
+  - **场景**: 查询沈一石送给高翰文的珍贵文房四宝清单。
+- **[factual] skus/factual/sku_027**
+  - **场景**: 查询浙江官场陷害高翰文与海瑞的手段。
+- **[factual] skus/factual/sku_029**
+  - **场景**: 查询嘉靖四十年杭州改稻为桑事件概要。
+- **[factual] skus/factual/sku_034**
+  - **场景**: 查询沈一石打着织造局牌子赈灾的经过与细节。
+- **[factual] skus/factual/sku_035**
+  - **场景**: 查询海瑞在淳安县的主要行动与决策。
+- **[factual] skus/factual/sku_036**
+  - **场景**: 查询围绕“改稻为桑”国策和织造局买田事件的政治斗争。
+- **[factual] skus/factual/sku_037**
+  - **场景**: 查询嘉靖四十年北京酷暑及玉熙宫内的情景。
+- **[factual] skus/factual/sku_054**
+  - **场景**: 查询胡宗宪呈报的本年度国家灾难、叛乱及军事威胁的按时间顺序列表。
+- **[factual] skus/factual/sku_055**
+  - **场景**: 查询嘉靖帝颁布的内阁与浙江官员人事变动决定。
+- **[factual] skus/factual/sku_056**
+  - **场景**: 查询玉熙宫审查沈一石账册的审计过程描述性细节。
+- **[factual] skus/factual/sku_062**
+  - **场景**: 查询政治事件中的人事变动。
+- **[factual] skus/factual/sku_068**
+  - **场景**: 查询海瑞执行的抗倭支援任务详情。
+- **[factual] skus/factual/sku_069**
+  - **场景**: 查询李时珍在淳安县的医疗工作情况。
+- **[factual] skus/factual/sku_074**
+  - **场景**: 查询海瑞、李时珍、海母三人见面的场景细节。
+- **[factual] skus/factual/sku_080**
+  - **场景**: 查询郑泌昌、何茂才被革职逮捕的详情。
+- **[factual] skus/factual/sku_092**
+  - **场景**: 查询钦案审理相关细节。
+- **[factual] skus/factual/sku_107**
+  - **场景**: 查询海瑞在审案中提及的三大案件。
+- **[factual] skus/factual/sku_110**
+  - **场景**: 查询浙江郑泌昌何茂才案件相关事实。
+- **[factual] skus/factual/sku_114**
+  - **场景**: 查询一日之间三大元老的政治变动。
+- **[factual] skus/factual/sku_115**
+  - **场景**: 查询嘉靖永陵的建设情况。
+- **[factual] skus/factual/sku_116**
+  - **场景**: 查询日月兴酒楼的基本信息。
+- **[factual] skus/factual/sku_117**
+  - **场景**: 查询朝廷公文处理的新规矩。
+- **[factual] skus/factual/sku_118**
+  - **场景**: 查询浙江抗倭军情急报。
+- **[factual] skus/factual/sku_119**
+  - **场景**: 查询军需粮草情况。
+- **[factual] skus/factual/sku_120**
+  - **场景**: 查询徐阶入内阁值房的准备。
+- **[factual] skus/factual/sku_121**
+  - **场景**: 查询严嵩晒书的事实。
+- **[factual] skus/factual/sku_123**
+  - **场景**: 查询场景布局与人物位置安排。
+- **[factual] skus/factual/sku_125**
+  - **场景**: 查询陈洪在司礼监值房通过惩罚和提拔太监来树立威信的具体事件。
+- **[factual] skus/factual/sku_126**
+  - **场景**: 查询严嵩与严世蕃在书房讨论朝局，严嵩指示严世蕃给胡宗宪写信的事件。
+- **[factual] skus/factual/sku_128**
+  - **场景**: 查询浙江巡抚衙门重审郑泌昌、何茂才贪墨案的过程。
+- **[factual] skus/factual/sku_129**
+  - **场景**: 查询杨金水被押解进京，嘉靖帝亲自审问的事件。
+- **[factual] skus/factual/sku_130**
+  - **场景**: 查询嘉靖帝对浙江贪墨案及后续事宜的处置决定。
+- **[factual] skus/factual/sku_141**
+  - **场景**: 查询齐大柱被锦衣卫抓捕的相关信息。
+- **[factual] skus/factual/sku_145**
+  - **场景**: 查询高翰文托王用汲向芸娘提亲的事实。
+- **[factual] skus/factual/sku_147**
+  - **场景**: 查询芸娘与齐大柱老婆进京的行程安排。
+- **[factual] skus/factual/sku_148**
+  - **场景**: 查询嘉靖四十一年至四十四年间严党倒台、严世蕃被诛及海瑞调任等关键政治事件的时间节点。
+- **[factual] skus/factual/sku_150**
+  - **场景**: 查询关于六必居酱菜铺的名称由来、匾额题写及海瑞题字事件。
+- **[factual] skus/factual/sku_164**
+  - **场景**: 查询海瑞所上奏疏的基本信息。
+- **[factual] skus/factual/sku_167**
+  - **场景**: 查询嘉靖四十五年腊月二十七官员上疏被打事件。
+- **[factual] skus/factual/sku_168**
+  - **场景**: 查询关于海瑞上疏被捕及审讯过程的叙述性事实。
+- **[factual] skus/factual/sku_171**
+  - **场景**: 查询关于进献祥瑞神龟的具体数据。
+- **[factual] skus/factual/sku_172**
+  - **场景**: 查询关于海瑞家属遭遇的事实。
+- **[factual] skus/factual/sku_173**
+  - **场景**: 查询关于嘉靖帝驾崩及隆庆帝继位的事实。
+
+### 时空设定
+- **[factual] skus/factual/sku_009**
+  - **场景**: 查询文档中出现的主要地点。
+- **[factual] skus/factual/sku_010**
+  - **场景**: 查询文档中的时间设定。
+- **[factual] skus/factual/sku_017**
+  - **场景**: 查询文档中涉及的关键时间节点。
+- **[factual] skus/factual/sku_018**
+  - **场景**: 查询文档中涉及的地理位置信息。
+- **[factual] skus/factual/sku_020**
+  - **场景**: 查询明朝北京城门开放时间及特殊禁行规定。
+- **[factual] skus/factual/sku_032**
+  - **场景**: 查询文档中提及的地理距离和位置信息。
+- **[factual] skus/factual/sku_057**
+  - **场景**: 查询押解囚犯及传递机密文件的行程速度与时间线。
+- **[factual] skus/factual/sku_059**
+  - **场景**: 查询西苑的地理位置、范围及建筑历史。
+- **[factual] skus/factual/sku_060**
+  - **场景**: 查询内阁值房的迁移情况。
+- **[factual] skus/factual/sku_071**
+  - **场景**: 查询文档中提及的地理位置。
+- **[factual] skus/factual/sku_112**
+  - **场景**: 查询东南军事和地理背景。
+- **[factual] skus/factual/sku_113**
+  - **场景**: 查询嘉靖年间时间节点。
+- **[factual] skus/factual/sku_165**
+  - **场景**: 查询明朝的行政区划。
+
+### 人物智慧与对话
+- **[factual] skus/factual/sku_008**
+  - **场景**: 查询吕芳教导冯保的做官三思之道。
+- **[factual] skus/factual/sku_021**
+  - **场景**: 查询杨金水向嘉靖帝分析胡宗宪的三个心思。
+- **[factual] skus/factual/sku_026**
+  - **场景**: 查询胡宗宪在驿站给高翰文的施政建议。
+- **[factual] skus/factual/sku_028**
+  - **场景**: 查询李时珍为胡宗宪开出的借粮‘处方’。
+- **[factual] skus/factual/sku_040**
+  - **场景**: 查询李时珍对嘉靖帝和海瑞的诊断与建议。
+- **[factual] skus/factual/sku_065**
+  - **场景**: 查询文中引用的典故和名言。
+- **[factual] skus/factual/sku_075**
+  - **场景**: 查询李时珍对海瑞家族体质的医学解释。
+- **[factual] skus/factual/sku_082**
+  - **场景**: 查询李时珍引用的海南俗语。
+- **[factual] skus/factual/sku_144**
+  - **场景**: 查询海瑞父亲留下的诗句及其含义。
+- **[factual] skus/factual/sku_158**
+  - **场景**: 查询当时流传的关于年关的对联。
+
+### 制度与器物
+- **[factual] skus/factual/sku_030**
+  - **场景**: 查询明朝针对太监的责打刑罚体系，包括等级、方式和具体执行细节。
+- **[factual] skus/factual/sku_038**
+  - **场景**: 查询锦衣卫的选拔标准和特征。
+- **[factual] skus/factual/sku_039**
+  - **场景**: 查询明朝银票的材质和特点。
+- **[factual] skus/factual/sku_096**
+  - **场景**: 查询文档中提及的明朝政府机构及地点。
+- **[factual] skus/factual/sku_097**
+  - **场景**: 查询明朝紧急公文传递方式。
+- **[factual] skus/factual/sku_098**
+  - **场景**: 查询北镇抚司诏狱的结构与功能。
+- **[factual] skus/factual/sku_099**
+  - **场景**: 查询明朝官场礼节规定。
+- **[factual] skus/factual/sku_100**
+  - **场景**: 查询明朝卫所制度。
+- **[factual] skus/factual/sku_103**
+  - **场景**: 查询明朝圣旨的分类及其规制说明。
+- **[factual] skus/factual/sku_104**
+  - **场景**: 查询皇帝关于杨金水及江南织造局案的圣旨全文。
+- **[factual] skus/factual/sku_109**
+  - **场景**: 查询嘉靖帝洗脚仪式的历史记载。
+- **[factual] skus/factual/sku_111**
+  - **场景**: 查询明朝宫廷机构设置。
+- **[factual] skus/factual/sku_122**
+  - **场景**: 查询金印盒的外观描述及其所含物品。
+- **[factual] skus/factual/sku_131**
+  - **场景**: 查询文档中提及的明朝官职与品级信息。
+- **[factual] skus/factual/sku_133**
+  - **场景**: 查询浙江省的行政与司法体系。
+- **[factual] skus/factual/sku_134**
+  - **场景**: 查询明朝内廷（司礼监）的组织架构与职能。
+- **[factual] skus/factual/sku_143**
+  - **场景**: 查询明朝与唐朝抓人制度的对比。
+- **[factual] skus/factual/sku_146**
+  - **场景**: 查询芸娘持有的司礼监牒文详情。
+- **[factual] skus/factual/sku_152**
+  - **场景**: 查询明朝北京九门以内关于行轿走马的规制。
+- **[factual] skus/factual/sku_155**
+  - **场景**: 查询户部广盈库的建筑规格和结构详情。
+- **[factual] skus/factual/sku_169**
+  - **场景**: 查询关于“金步摇”刑具的定义与描述。
+
+### 军事与战役
+- **[factual] skus/factual/sku_042**
+  - **场景**: 查询明嘉靖四十年（1561年）台州抗倭战役的基本事实。
+- **[factual] skus/factual/sku_047**
+  - **场景**: 查询戚家军龙山战役战果。
+- **[factual] skus/factual/sku_048**
+  - **场景**: 查询戚家军鸳鸯阵战术。
+- **[factual] skus/factual/sku_049**
+  - **场景**: 查询倭寇战船部署情况。
+- **[factual] skus/factual/sku_087**
+  - **场景**: 查询嘉靖四十年夏浙江长沙抗倭战役结果。
+- **[factual] skus/factual/sku_091**
+  - **场景**: 查询齐大柱军事任命。
+- **[factual] skus/factual/sku_095**
+  - **场景**: 查询文档中海瑞陈述的倭寇侵扰海南历史事件。
+- **[factual] skus/factual/sku_127**
+  - **场景**: 查询嘉靖四十年七月，胡宗宪督戚家军在台州发动第八次抗倭大战并取得大捷的事实。
+- **[factual] skus/factual/sku_139**
+  - **场景**: 查询明嘉靖四十年第九次台州大战的相关信息。
+
+---
+
+## 关系型知识
+
+本组包含领域标签层级和术语词汇表。
+
+- **[relational] output/batch-0220-ming/skus/relational**
+  - **场景**: 查询领域标签层级结构和术语词汇表。
+
+---
+
+## 流程型知识
+
+本组包含明朝特定政务、刑罚、宫廷礼仪、政治策略及实用技能的操作流程。
+
+### 政务与刑罚流程
+- **[procedural] skus/procedural/skill_001**
+  - **场景**: 查询明朝廷杖行刑的标准操作流程，用于对官员执行体罚刑罚。
+- **[procedural] skus/procedural/skill_002**
+  - **场景**: 查询明朝年度财政会议的标准议事流程，用于审议年度收支和来年预算。
+- **[procedural] skus/procedural/skill_004**
+  - **场景**: 查询明朝内阁票拟与司礼监批红的公文处理流程。
+- **[procedural] skus/procedural/skill_019**
+  - **场景**: 查询用于计算赈灾粮发放天数和制定后续方案的流程，适用于灾情评估和资源规划场景。
+- **[procedural] skus/procedural/skill_020**
+  - **场景**: 查询适用于省级衙门召集下级官员议事的标准化流程，确保会议有序进行。
+- **[procedural] skus/procedural/skill_021**
+  - **场景**: 查询新任官员到任履职的标准流程，适用于知府、知县等地方官员上任场景。
+- **[procedural] skus/procedural/skill_024**
+  - **场景**: 查询重大刑事案件（如通倭）的审理程序，适用于地方官员处理敏感案件场景。
+- **[procedural] skus/procedural/skill_026**
+  - **场景**: 查询当需要快速传递紧急公文或情报时使用的方法，确保信息以最快速度送达。
+- **[procedural] skus/procedural/skill_027**
+  - **场景**: 查询当需要以合法名义调拨资源解决紧急民生问题时使用的方法。
+- **[procedural] skus/procedural/skill_029**
+  - **场景**: 查询当需要组织公开处决行动时使用的方法，确保秩序和威慑效果。
+- **[procedural] skus/procedural/skill_030**
+  - **场景**: 查询明朝官员监斩行刑的标准程序，适用于县令及以上官员执行死刑案件。
+- **[procedural] skus/procedural/skill_031**
+  - **场景**: 查询明朝县衙牢狱的日常管理制度，包括牢饭分发、安全防范等。
+- **[procedural] skus/procedural/skill_032**
+  - **场景**: 查询明朝官员在灾荒时期向大户借粮赈济灾民的程序。
+- **[procedural] skus/procedural/skill_034**
+  - **场景**: 查询明朝宫中太监责打的等级和方法，特别是鸳鸯板子的执行方式。
+- **[procedural] skus/procedural/skill_035**
+  - **场景**: 查询明朝八百里加急文书传递的程序和方法。
+- **[procedural] skus/procedural/skill_037**
+  - **场景**: 查询明朝官员审理案件时对案卷、口供的审查程序。
+- **[procedural] skus/procedural/skill_041**
+  - **场景**: 查询用于执行朝廷廷寄诏命的行政办案流程。
+- **[procedural] skus/procedural/skill_042**
+  - **场景**: 查询用于查抄涉案商人资产时审查账册的流程。
+- **[procedural] skus/procedural/skill_045**
+  - **场景**: 查询用于大规模财政账册的集中核算与审计流程，适用于需要快速处理大量账目并逐级呈报的场景。
+- **[procedural] skus/procedural/skill_047**
+  - **场景**: 查询用于内阁会议的组织与执行流程，确保会议规制有序，座位和发言顺序符合政治规矩。
+- **[procedural] skus/procedural/skill_058**
+  - **场景**: 查询用于审讯钦犯时规范问案流程，确保口供合法有效并记录在案。
+- **[procedural] skus/procedural/skill_060**
+  - **场景**: 查询用于地方官员接到圣旨等紧急上谕时的应急处理流程。
+- **[procedural] skus/procedural/skill_061**
+  - **场景**: 查询用于判断和调整公务接待规格，确保符合规制且不铺张浪费。
+- **[procedural] skus/procedural/skill_062**
+  - **场景**: 查询用于战后安置无家可归的被救平民，特别是女性平民的婚配安置。
+- **[procedural] skus/procedural/skill_064**
+  - **场景**: 查询上级官员对下属实施惩戒的完整流程，适用于理解古代官场纪律执行机制。
+- **[procedural] skus/procedural/skill_065**
+  - **场景**: 查询下属官员拜见上级的礼节规范，适用于理解明代官场等级秩序和礼制要求。
+- **[procedural] skus/procedural/skill_066**
+  - **场景**: 查询紧急军情或重大事项的八百里急递上报流程，适用于理解古代紧急公文传递机制。
+- **[procedural] skus/procedural/skill_067**
+  - **场景**: 查询明代北镇抚司诏狱的设施布局和审讯安排，适用于理解明代特务司法机构的运作。
+- **[procedural] skus/procedural/skill_069**
+  - **场景**: 查询明代特发上谕的接收、验证封印、开启和宣读流程，适用于钦差大臣接收皇帝密旨的场景。
+- **[procedural] skus/procedural/skill_070**
+  - **场景**: 查询明代钦案审讯的标准流程，包括主审官职责分工、犯人传唤、审讯记录和供词确认。
+- **[procedural] skus/procedural/skill_076**
+  - **场景**: 查询明朝司礼监向地方发送紧急廷寄公文的处理流程。
+- **[procedural] skus/procedural/skill_077**
+  - **场景**: 查询高层权力交接时的过渡安排流程，确保权力平稳转移。
+- **[procedural] skus/procedural/skill_085**
+  - **场景**: 查询面对犯人翻供时，通过证人证言突破、区分公罪私罪的审讯技巧。
+- **[procedural] skus/procedural/skill_089**
+  - **场景**: 查询紧急情况下筹措资金的方法，包括抄家、施压、责任分担。
+- **[procedural] skus/procedural/skill_090**
+  - **场景**: 查询明朝官场接待上级官员亲属的标准流程和礼仪规范。
+- **[procedural] skus/procedural/skill_091**
+  - **场景**: 查询明朝知县开堂审案的完整程序，包括升堂、问案、判决等环节。
+- **[procedural] skus/procedural/skill_095**
+  - **场景**: 查询依据大明律对官员进行问责和惩处的规范程序。
+- **[procedural] skus/procedural/skill_096**
+  - **场景**: 查询验证上级公文有效性和执行权限的判断流程。
+- **[procedural] skus/procedural/skill_097**
+  - **场景**: 查询评估人员安全运输方案的风险，判断护送人员和证件是否足够保障行程安全。
+- **[procedural] skus/procedural/skill_098**
+  - **场景**: 查询核实官方证件真伪和权威性，判断其是否足以提供保护。
+- **[procedural] skus/procedural/skill_099**
+  - **场景**: 查询用于朝廷财政部门核算地方上缴税银账目，确保账实相符、防止贪腐。
+- **[procedural] skus/procedural/skill_101**
+  - **场景**: 查询朝廷奏疏从上呈到批复的完整行政流程。
+- **[procedural] skus/procedural/skill_102**
+  - **场景**: 查询诏狱囚犯处决的时间安排与执行规范。
+- **[procedural] skus/procedural/skill_110**
+  - **场景**: 查询明朝内阁票拟批红流程，适用于理解古代政务文书处理程序。
+- **[procedural] skus/procedural/skill_112**
+  - **场景**: 查询用于地方官员在灾荒时期组织赈济工作，包括粥棚搭建、难民安置和物资调配。
+- **[procedural] skus/procedural/skill_113**
+  - **场景**: 查询用于户部向官员发放俸禄钱粮的标准流程，包括身份核验、签名确认和物资发放。
+- **[procedural] skus/procedural/skill_114**
+  - **场景**: 查询用于官员向皇帝呈递奏疏的正规渠道和程序，包括正常途径和紧急直呈方式。
+- **[procedural] skus/procedural/skill_116**
+  - **场景**: 查询用于组织全体在京官员连夜赶写贺表，在规定时限内集体呈送皇帝。
+- **[procedural] skus/procedural/skill_118**
+  - **场景**: 查询用于处理灾荒时期大量死亡人口的掩埋工作，维护公共卫生。
+- **[procedural] skus/procedural/skill_119**
+  - **场景**: 查询适用于明朝官员犯罪审讯场景，依据《大明律》规定进行合法审讯程序。
+- **[procedural] skus/procedural/skill_120**
+  - **场景**: 查询适用于明朝死刑执行时辰判定，使用日晷确定法定行刑时间。
+- **[procedural] skus/procedural/skill_121**
+  - **场景**: 查询适用于明朝皇帝勾决死刑犯名单的法定程序。
+- **[procedural] skus/procedural/skill_123**
+  - **场景**: 查询适用于明朝重大案件由刑部、大理寺、都察院三法司会同审理的程序。
+- **[procedural] skus/procedural/skill_124**
+  - **场景**: 查询适用于明朝诏狱管理流程，包括囚禁、审讯、处决等环节。
+
+### 宫廷礼仪流程
+- **[procedural] skus/procedural/skill_003**
+  - **场景**: 查询宫廷发现祥瑞后的报喜流程，用于向皇帝报告吉祥征兆。
+- **[procedural] skus/procedural/skill_005**
+  - **场景**: 查询皇孙诞生后的宫廷赏赐与人员配置流程。
+- **[procedural] skus/procedural/skill_046**
+  - **场景**: 查询用于皇帝秘密召见外臣的流程，确保召见过程保密且符合宫廷规制。
+- **[procedural] skus/procedural/skill_049**
+  - **场景**: 查询用于内阁宣读圣旨的正式流程，确保仪式规范、礼节周全。
+- **[procedural] skus/procedural/skill_073**
+  - **场景**: 查询明朝宫廷太监迎接上级长官（如司礼监掌印太监）时的标准礼仪流程。
+- **[procedural] skus/procedural/skill_074**
+  - **场景**: 查询明朝嘉靖皇帝洗脚养生的特定仪式流程，注重松木香气体验。
+- **[procedural] skus/procedural/skill_100**
+  - **场景**: 查询皇帝召见内阁大臣商议国是的礼仪规范与奏对流程。
+- **[procedural] skus/procedural/skill_103**
+  - **场景**: 查询宫廷膳食呈献给皇帝前的安全检验流程。
+- **[procedural] skus/procedural/skill_105**
+  - **场景**: 查询皇室成员或大臣向皇帝进献贡物的礼仪流程。
+
+### 人事与选拔流程
+- **[procedural] skus/procedural/skill_033**
+  - **场景**: 查询明朝锦衣卫选拔人员的身体条件和技能要求。
+- **[procedural] skus/procedural/skill_036**
+  - **场景**: 查询明朝选拔官员时对相貌的要求和评判标准。
+- **[procedural] skus/procedural/skill_104**
+  - **场景**: 查询都察院对各级官员进行年度考绩评定的流程。
+
+### 政治与职场策略
+- **[procedural] skus/procedural/skill_006**
+  - **场景**: 查询官场或职场中遇到危机时的应对策略，用于规避风险、保存实力并寻求转机。
+- **[procedural] skus/procedural/skill_007**
+  - **场景**: 查询当处于多方敌视、无路可退的绝境时，通过主动进入危险环境寻求转机的策略。
+- **[procedural] skus/procedural/skill_008**
+  - **场景**: 查询推行重大政策前进行系统性评估的方法，避免因执行不当引发社会动荡。
+- **[procedural] skus/procedural/skill_009**
+  - **场景**: 查询争取潜在盟友的方法，特别是那些表面依附对手但有独立见解的人。
+- **[procedural] skus/procedural/skill_012**
+  - **场景**: 查询用于分析复杂政治局势，评估各方立场、利益关系和行动动机的方法，适用于需要权衡多方势力的决策场景。
+- **[procedural] skus/procedural/skill_013**
+  - **场景**: 查询用于处理重大危机事件时保留证据、明确责任的方法，适用于需要防范日后追责或政治风险的场景。
+- **[procedural] skus/procedural/skill_014**
+  - **场景**: 查询用于官员或管理者在复杂局势中进行自我审视和战略规划的方法，适用于政治或组织环境中的进退决策。
+- **[procedural] skus/procedural/skill_015**
+  - **场景**: 查询用于将敏感事务的责任和风险转移给更高层级的方法，适用于需要避免独自承担政治责任的场景。
+  - **场景**: 查询用于评估政策实施的可行性和风险的方法，适用于重大政策推行前的风险评估场景。
+- **[procedural] skus/procedural/skill_018**
+  - **场景**: 查询用于通过对话引导对方暴露真实意图或承认事实的方法，适用于需要获取信息或明确对方立场的场景。
+- **[procedural] skus/procedural/skill_022**
+  - **场景**: 查询用于分析复杂政治局势中各方势力和利益冲突的决策框架，适用于官场博弈场景。
+- **[procedural] skus/procedural/skill_025**
+  - **场景**: 查询当需要解读上级或皇帝隐含意图时使用的方法，通过字面含义推导深层政治指示。
+- **[procedural] skus/procedural/skill_028**
+  - **场景**: 查询当需要安全传递敏感情报时使用的方法，避免信息泄露风险。
+- **[procedural] skus/procedural/skill_043**
+  - **场景**: 查询用于官员在政治危机中自我保护和应对的策略。
+- **[procedural] skus/procedural/skill_048**
+  - **场景**: 查询用于官场中人在复杂政治环境中的处世自保策略，平衡各方关系，避免卷入政治漩涡。
+- **[procedural] skus/procedural/skill_050**
+  - **场景**: 查询适用于官员及其下属建立廉洁从政行为规范，防止利益输送和不当馈赠。
+- **[procedural] skus/procedural/skill_056**
+  - **场景**: 查询用于应对上级不合理或无法执行的行政命令的方法，通过策略性拖延化解困境。
+- **[procedural] skus/procedural/skill_068**
+  - **场景**: 查询分析官场人物真实意图和立场的判断框架，适用于理解复杂政治环境中的博弈策略。
+- **[procedural] skus/procedural/skill_071**
+  - **场景**: 查询处理牵涉朝廷高层或皇上的重大案件时的政治智慧，平衡追查真相与政治风险。
+- **[procedural] skus/procedural/skill_072**
+  - **场景**: 查询身涉重案者面对审讯时的应对策略，利用案件牵连关系寻求自保或减轻罪责。
+- **[procedural] skus/procedural/skill_075**
+  - **场景**: 查询处理可能引发政治动荡的敏感文件时，上级私下协调各方达成共识的流程。
+- **[procedural] skus/procedural/skill_084**
+  - **场景**: 查询新任领导者接管团队时建立权威、立规矩、分化拉拢的完整流程。
+- **[procedural] skus/procedural/skill_086**
+  - **场景**: 查询面对上级拉拢、政治施压时的应对策略，包括装聋作哑、以退为进。
+- **[procedural] skus/procedural/skill_088**
+  - **场景**: 查询用人识人的核心原则，包括人才分类、用人策略、留人手段。
+- **[procedural] skus/procedural/skill_106**
+  - **场景**: 查询朝廷政治斗争中针对政敌的策略性反击流程。
+- **[procedural] skus/procedural/skill_111**
+  - **场景**: 查询政治危机中的生存策略，适用于身处险境需要韬光养晦的情况。
+
+### 实用生存与商业技能
+- **[procedural] skus/procedural/skill_010**
+  - **场景**: 查询处理冻僵人员的急救方法，适用于严寒天气下长时间暴露导致的冻伤。
+- **[procedural] skus/procedural/skill_011**
+  - **场景**: 查询高端产品的展示销售技巧，通过氛围营造和渐进式展示提升产品价值感。
+- **[procedural] skus/procedural/skill_016**
+  - **场景**: 查询用于安抚哭闹的婴幼儿并完成必要操作的方法，适用于需要让婴儿配合的场景。
+- **[procedural] skus/procedural/skill_023**
+  - **场景**: 查询灾年土地买卖价格谈判的指导原则和流程，适用于灾后土地兼并场景。
+- **[procedural] skus/procedural/skill_051**
+  - **场景**: 查询适用于子女向父母行礼请安、汇报事务的传统礼仪流程。
+- **[procedural] skus/procedural/skill_052**
+  - **场景**: 查询适用于邀请医师上门诊治时的传统礼仪和准备工作。
+- **[procedural] skus/procedural/skill_053**
+  - **场景**: 查询用于与固执、抗拒诊疗的患者建立信任关系的方法，使其配合医疗检查。
+- **[procedural] skus/procedural/skill_054**
+  - **场景**: 查询用于诊断家族遗传性体质特征的方法，区分先天禀赋与病理状态。
+- **[procedural] skus/procedural/skill_055**
+  - **场景**: 查询用于治疗因夫妻关系淡漠导致的不孕问题的方法，通过行为干预改善夫妻情感。
+- **[procedural] skus/procedural/skill_057**
+  - **场景**: 查询用于复杂商业谈判的方法，通过分步披露信息和利益计算引导对方决策。
+- **[procedural] skus/procedural/skill_063**
+  - **场景**: 查询明代官员清晨起居梳洗的完整流程，适用于历史研究或文学创作中还原古代官员日常起居细节。
+- **[procedural] skus/procedural/skill_092**
+  - **场景**: 查询牛肉的正确切割方法，确保烹饪后肉质嫩滑可食用。
+- **[procedural] skus/procedural/skill_094**
+  - **场景**: 查询传统中药煎煮的正确方法和火候控制。
+- **[procedural] skus/procedural/skill_107**
+  - **场景**: 查询传统食品包装技法，适用于需要用天然材料（荷叶、棕叶）包装食品的场景。
+- **[procedural] skus/procedural/skill_108**
+  - **场景**: 查询帮助经济困难的同僚安顿家眷的流程，适用于同僚调任时需要协助安排住所的情况。
+- **[procedural] skus/procedural/skill_109**
+  - **场景**: 查询中医针灸急救流程，适用于患者突然昏厥、牙关紧闭等紧急情况。
+- **[procedural] skus/procedural/skill_115**
+  - **场景**: 查询用于中医急救处理因过度劳累、风寒侵袭导致的昏厥重症，采用发汗和艾灸疗法。
+
+### 军事策略与战术
+- **[procedural] skus/procedural/skill_038**
+  - **场景**: 查询用于通过观察部分敌情推断整体敌军部署和动向的军事判断方法。
+- **[procedural] skus/procedural/skill_039**
+  - **场景**: 查询用于在敌情明确后制定军事部署和伏击计划的决策流程。
+- **[procedural] skus/procedural/skill_040**
+  - **场景**: 查询用于步兵对抗倭寇的戚家军鸳鸯阵战术部署方法。
+- **[procedural] skus/procedural/skill_044**
+  - **场景**: 查询用于在战斗中解救被敌军劫持百姓的战术方法。
+- **[procedural] skus/procedural/skill_059**
+  - **场景**: 查询用于指挥多路军队协同作战，在敌军挟持平民时实施救援攻击。
+- **[procedural] skus/procedural/skill_093**
+  - **场景**: 查询结合天气变化制定军事作战计划的决策流程。
+
+### 情报与文书处理
+- **[procedural] skus/procedural/skill_078**
+  - **场景**: 查询官员出行前准备和清点物资的流程，确保所需物品齐全无遗漏。
+- **[procedural] skus/procedural/skill_079**
+  - **场景**: 查询传统藏书人家定期晾晒书籍防止霉虫损害的流程。
+- **[procedural] skus/procedural/skill_080**
+  - **场景**: 查询官员向内阁递交公文的标准流程，适用于禁门管控时期。
+- **[procedural] skus/procedural/skill_081**
+  - **场景**: 查询在有监视的环境下进行秘密书面沟通的方法。
+- **[procedural] skus/procedural/skill_082**
+  - **场景**: 查询派人监视特定地点并收集情报的流程。
+- **[procedural] skus/procedural/skill_083**
+  - **场景**: 查询处理紧急军情报告的流程，确保军国大事得到及时决断。
+- **[procedural] skus/procedural/skill_087**
+  - **场景**: 查询重要公文的封印、传递、保密处理流程，包括烤漆封口、羽毛标记。
+- **[procedural] skus/procedural/skill_117**
+  - **场景**: 查询用于撰写重要奏疏并安全封存，确保内容保密、格式规范。
+- **[procedural] skus/procedural/skill_122**
+  - **场景**: 查询适用于明朝宫廷情报收集与报告制度，监控官员动向。
+
+---
+
+## 元数据知识
+
+本组包含关于知识库自身的路由与洞察信息。
+
+- **[meta] output/batch-0220-ming/skus/meta**
+  - **场景**: 查询 SKU 路由文档 及创意洞察文档。

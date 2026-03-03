@@ -1,0 +1,5 @@
+- **Location**: Yuxi Palace Main Hall.
+- **Participants**: 12 eunuchs temporarily transferred from the Needlework Bureau, Women's Bureau, and Directorate of Imperial Accoutrement.
+- **Equipment**: Two giant redwood abacuses, each 1 zhang (approx. 3.3m) long and 1 chi (approx. 33cm) wide, placed on red sandalwood tables.
+- **Method**: Six eunuchs per abacus worked simultaneously, scanning accounts, manipulating abacus beads with left hands, and recording with right hands in neat running script.
+- **Scope**: Account books covered the years from Jiajing 21 to Jiajing 40.

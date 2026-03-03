@@ -1,0 +1,33 @@
+{
+  "cabinet_changes": {
+    "removed_members": [
+      {
+        "name": "Yan Shifan",
+        "retained_position": "Vice Minister of Works"
+      },
+      {
+        "name": "Gao Gong",
+        "retained_position": "Original ministry post"
+      },
+      {
+        "name": "Zhang Juzheng",
+        "retained_position": "Original ministry post"
+      }
+    ],
+    "new_members": [
+      "Li Chunfang",
+      "Chen Yiqin"
+    ],
+    "leadership_structure": {
+      "chief_grand_secretary": "Yan Song",
+      "executive_leader": "Xu Jie"
+    }
+  },
+  "zhejiang_appointments": {
+    "new_governor": "Zhao Zhenji (transferred from Nanzhili Governor)",
+    "investigation_assistants": [
+      "Hai Rui (Magistrate of Chun'an)",
+      "Wang Yongji (Magistrate of Jiande)"
+    ]
+  }
+}

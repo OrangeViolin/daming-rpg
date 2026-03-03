@@ -1,0 +1,2421 @@
+{
+  "created_at": "2026-02-21T08:33:17.445143",
+  "total_skus": 299,
+  "total_buckets": 2,
+  "max_bucket_tokens": 100000,
+  "similarity_weights": {
+    "literal": 0.2,
+    "label": 0.3,
+    "vector": 0.5
+  },
+  "factual_buckets": [
+    {
+      "bucket_id": "factual_bucket_001",
+      "total_tokens": 34426,
+      "sku_count": 175,
+      "entries": [
+        {
+          "sku_id": "sku_001",
+          "name": "book_publication_info",
+          "description": "《大明王朝 1566》一书的出版元数据",
+          "classification": "factual",
+          "token_count": 226,
+          "label_path": []
+        },
+        {
+          "sku_id": "sku_002",
+          "name": "fiscal_year_39_statistics",
+          "description": "小说情节中提及的大明嘉靖三十九年财政收支数据",
+          "classification": "factual",
+          "token_count": 333,
+          "label_path": []
+        },
+        {
+          "sku_id": "sku_003",
+          "name": "character_roles_list",
+          "description": "文档片段中登场的主要人物及其官职或身份",
+          "classification": "factual",
+          "token_count": 400,
+          "label_path": []
+        },
+        {
+          "sku_id": "sku_004",
+          "name": "key_narrative_events",
+          "description": "文档片段中描述的关键情节事件",
+          "classification": "factual",
+          "token_count": 422,
+          "label_path": []
+        },
+        {
+          "sku_id": "sku_005",
+          "name": "character-positions",
+          "description": "文档中出现的主要人物及其官职身份",
+          "classification": "factual",
+          "token_count": 498,
+          "label_path": []
+        },
+        {
+          "sku_id": "sku_006",
+          "name": "silk-trade-deal",
+          "description": "江南织造局与西洋商人的丝绸交易详情",
+          "classification": "factual",
+          "token_count": 141,
+          "label_path": []
+        },
+        {
+          "sku_id": "sku_007",
+          "name": "land-policy-details",
+          "description": "改稻田为桑田国策的相关数据",
+          "classification": "factual",
+          "token_count": 117,
+          "label_path": []
+        },
+        {
+          "sku_id": "sku_008",
+          "name": "philosophy-three-thoughts",
+          "description": "吕芳教导冯保的做官三思之道",
+          "classification": "factual",
+          "token_count": 120,
+          "label_path": []
+        },
+        {
+          "sku_id": "sku_009",
+          "name": "locations",
+          "description": "文档中出现的主要地点",
+          "classification": "factual",
+          "token_count": 183,
+          "label_path": []
+        },
+        {
+          "sku_id": "sku_010",
+          "name": "time-setting",
+          "description": "文档中的时间设定",
+          "classification": "factual",
+          "token_count": 51,
+          "label_path": []
+        },
+        {
+          "sku_id": "sku_011",
+          "name": "feng-bao-incident",
+          "description": "冯保受罚事件详情",
+          "classification": "factual",
+          "token_count": 86,
+          "label_path": []
+        },
+        {
+          "sku_id": "sku_012",
+          "name": "qi-dazhu-case",
+          "description": "齐大柱被捕事件",
+          "classification": "factual",
+          "token_count": 66,
+          "label_path": []
+        },
+        {
+          "sku_id": "sku_013",
+          "name": "character-roles-positions",
+          "description": "文档中出现的主要人物及其官职身份",
+          "classification": "factual",
+          "token_count": 996,
+          "label_path": []
+        },
+        {
+          "sku_id": "sku_014",
+          "name": "silk-trade-economics",
+          "description": "丝绸贸易的经济数据与生产指标",
+          "classification": "factual",
+          "token_count": 274,
+          "label_path": []
+        },
+        {
+          "sku_id": "sku_015",
+          "name": "flood-disaster-data",
+          "description": "新安江决堤水灾的相关数据",
+          "classification": "factual",
+          "token_count": 138,
+          "label_path": []
+        },
+        {
+          "sku_id": "sku_016",
+          "name": "policy-details-gaitao-weisang",
+          "description": "改稻为桑国策的具体内容与背景",
+          "classification": "factual",
+          "token_count": 187,
+          "label_path": []
+        },
+        {
+          "sku_id": "sku_017",
+          "name": "timeline-key-events",
+          "description": "文档中涉及的关键时间节点",
+          "classification": "factual",
+          "token_count": 237,
+          "label_path": []
+        },
+        {
+          "sku_id": "sku_018",
+          "name": "geographic-information",
+          "description": "文档中涉及的地理位置信息",
+          "classification": "factual",
+          "token_count": 198,
+          "label_path": []
+        },
+        {
+          "sku_id": "sku_019",
+          "name": "imperial-rewards",
+          "description": "嘉靖帝对李妃的封赏",
+          "classification": "factual",
+          "token_count": 96,
+          "label_path": []
+        },
+        {
+          "sku_id": "sku_020",
+          "name": "beijing-city-gate-regulations",
+          "description": "明朝北京城门开放时间及特殊禁行规定",
+          "classification": "factual",
+          "token_count": 98,
+          "label_path": []
+        },
+        {
+          "sku_id": "sku_021",
+          "name": "yangjinshui-analysis-hu-zongxian",
+          "description": "杨金水向嘉靖帝分析胡宗宪的三个心思",
+          "classification": "factual",
+          "token_count": 152,
+          "label_path": []
+        },
+        {
+          "sku_id": "sku_022",
+          "name": "jiajing-emperor-decision-hu-zongxian",
+          "description": "嘉靖帝对胡宗宪职务的调整决定",
+          "classification": "factual",
+          "token_count": 116,
+          "label_path": []
+        },
+        {
+          "sku_id": "sku_023",
+          "name": "hai-rui-profile",
+          "description": "海瑞的个人背景信息",
+          "classification": "factual",
+          "token_count": 191,
+          "label_path": []
+        },
+        {
+          "sku_id": "sku_024",
+          "name": "jiande-county-livelihood-data",
+          "description": "王用汲陈述的建德县民生实情数据",
+          "classification": "factual",
+          "token_count": 280,
+          "label_path": []
+        },
+        {
+          "sku_id": "sku_025",
+          "name": "shen-yishi-gift-gao-hanwen",
+          "description": "沈一石送给高翰文的珍贵文房四宝清单",
+          "classification": "factual",
+          "token_count": 177,
+          "label_path": []
+        },
+        {
+          "sku_id": "sku_026",
+          "name": "hu-zongxian-advice-gao-hanwen",
+          "description": "胡宗宪在驿站给高翰文的施政建议",
+          "classification": "factual",
+          "token_count": 153,
+          "label_path": []
+        },
+        {
+          "sku_id": "sku_027",
+          "name": "zhejiang-officials-schemes",
+          "description": "浙江官场陷害高翰文与海瑞的手段",
+          "classification": "factual",
+          "token_count": 168,
+          "label_path": []
+        },
+        {
+          "sku_id": "sku_028",
+          "name": "li-shizhen-prescription-hu-zongxian",
+          "description": "李时珍为胡宗宪开出的借粮'处方'",
+          "classification": "factual",
+          "token_count": 68,
+          "label_path": []
+        },
+        {
+          "sku_id": "sku_029",
+          "name": "jiajing-forty-hangzhou-events",
+          "description": "嘉靖四十年杭州改稻为桑事件概要",
+          "classification": "factual",
+          "token_count": 169,
+          "label_path": []
+        },
+        {
+          "sku_id": "sku_030",
+          "name": "ming-dynasty-eunuch-punishment-system",
+          "description": "明朝针对太监的责打刑罚体系，包括等级、方式和具体执行细节。",
+          "classification": "factual",
+          "token_count": 370,
+          "label_path": []
+        },
+        {
+          "sku_id": "sku_031",
+          "name": "ming-dynasty-official-ranks-and-duties",
+          "description": "文档中提及的明朝官职品级、职责及相关人员。",
+          "classification": "factual",
+          "token_count": 433,
+          "label_path": []
+        },
+        {
+          "sku_id": "sku_032",
+          "name": "geographical-distances-and-locations",
+          "description": "文档中提及的地理距离和位置信息。",
+          "classification": "factual",
+          "token_count": 149,
+          "label_path": []
+        },
+        {
+          "sku_id": "sku_033",
+          "name": "character-relationships",
+          "description": "文档中主要人物之间的关系。",
+          "classification": "factual",
+          "token_count": 312,
+          "label_path": []
+        },
+        {
+          "sku_id": "sku_034",
+          "name": "shen-yishi-grain-relief-operation",
+          "description": "沈一石打着织造局牌子赈灾的经过与细节。",
+          "classification": "factual",
+          "token_count": 276,
+          "label_path": []
+        },
+        {
+          "sku_id": "sku_035",
+          "name": "hai-rui-actions-in-chunan",
+          "description": "海瑞在淳安县的主要行动与决策。",
+          "classification": "factual",
+          "token_count": 289,
+          "label_path": []
+        },
+        {
+          "sku_id": "sku_036",
+          "name": "political-struggle-over-grain-purchase",
+          "description": "围绕“改稻为桑”国策和织造局买田事件的政治斗争。",
+          "classification": "factual",
+          "token_count": 388,
+          "label_path": []
+        },
+        {
+          "sku_id": "sku_037",
+          "name": "imperial-court-scene-jiajing-40th-year",
+          "description": "嘉靖四十年北京酷暑及玉熙宫内的情景。",
+          "classification": "factual",
+          "token_count": 256,
+          "label_path": []
+        },
+        {
+          "sku_id": "sku_038",
+          "name": "jin-yi-wei-characteristics",
+          "description": "锦衣卫的选拔标准和特征。",
+          "classification": "factual",
+          "token_count": 378,
+          "label_path": []
+        },
+        {
+          "sku_id": "sku_039",
+          "name": "ming-dynasty-silver-note-characteristics",
+          "description": "明朝银票的材质和特点。",
+          "classification": "factual",
+          "token_count": 97,
+          "label_path": []
+        },
+        {
+          "sku_id": "sku_040",
+          "name": "li-shizhen-medical-diagnosis",
+          "description": "李时珍对嘉靖帝和海瑞的诊断与建议。",
+          "classification": "factual",
+          "token_count": 202,
+          "label_path": []
+        },
+        {
+          "sku_id": "sku_041",
+          "name": "disaster-relief-logistics",
+          "description": "淳安赈灾的具体安排和物资情况。",
+          "classification": "factual",
+          "token_count": 285,
+          "label_path": []
+        },
+        {
+          "sku_id": "sku_042",
+          "name": "battle-of-taizhou-1561",
+          "description": "明嘉靖四十年（1561年）台州抗倭战役的基本事实",
+          "classification": "factual",
+          "token_count": 162,
+          "label_path": []
+        },
+        {
+          "sku_id": "sku_043",
+          "name": "shen-yishi-workshop-assets",
+          "description": "沈一石作坊资产和生产能力数据",
+          "classification": "factual",
+          "token_count": 202,
+          "label_path": []
+        },
+        {
+          "sku_id": "sku_044",
+          "name": "shen-yishi-silk-inventory",
+          "description": "沈一石绸缎行库存丝绸变动情况",
+          "classification": "factual",
+          "token_count": 223,
+          "label_path": []
+        },
+        {
+          "sku_id": "sku_045",
+          "name": "shen-yishi-20year-summary",
+          "description": "沈一石二十年经营汇总数据",
+          "classification": "factual",
+          "token_count": 193,
+          "label_path": []
+        },
+        {
+          "sku_id": "sku_046",
+          "name": "silk-trade-timeline-1559-1560",
+          "description": "嘉靖三十九年至四十年丝绸贸易时间线",
+          "classification": "factual",
+          "token_count": 507,
+          "label_path": []
+        },
+        {
+          "sku_id": "sku_047",
+          "name": "qi-jiajun-longshan-battle",
+          "description": "戚家军龙山战役战果",
+          "classification": "factual",
+          "token_count": 128,
+          "label_path": []
+        },
+        {
+          "sku_id": "sku_048",
+          "name": "qi-jiajun-yuanyang-formation",
+          "description": "戚家军鸳鸯阵战术",
+          "classification": "factual",
+          "token_count": 137,
+          "label_path": []
+        },
+        {
+          "sku_id": "sku_049",
+          "name": "wokou-fleet-disposition",
+          "description": "倭寇战船部署情况",
+          "classification": "factual",
+          "token_count": 98,
+          "label_path": []
+        },
+        {
+          "sku_id": "sku_050",
+          "name": "ming-officials-zhejiang-1561",
+          "description": "嘉靖四十年浙江主要官员",
+          "classification": "factual",
+          "token_count": 194,
+          "label_path": []
+        },
+        {
+          "sku_id": "sku_051",
+          "name": "ming-court-officials-1561",
+          "description": "嘉靖四十年朝廷主要官员",
+          "classification": "factual",
+          "token_count": 157,
+          "label_path": []
+        },
+        {
+          "sku_id": "sku_052",
+          "name": "silk-market-prices-jiajing-era",
+          "description": "Market prices for silk in inland China and Western markets before and after the disruption of maritime shipping in the Jiajing era.",
+          "classification": "factual",
+          "token_count": 84,
+          "label_path": []
+        },
+        {
+          "sku_id": "sku_053",
+          "name": "shen-yishi-financial-summary",
+          "description": "Financial statistics regarding Shen Yishi's assets, corruption amounts, and palace deliveries over a twenty-year period.",
+          "classification": "factual",
+          "token_count": 160,
+          "label_path": []
+        },
+        {
+          "sku_id": "sku_054",
+          "name": "national-disasters-timeline",
+          "description": "A chronological list of national disasters, rebellions, and military threats reported by Hu Zongxian for the current year.",
+          "classification": "factual",
+          "token_count": 233,
+          "label_path": []
+        },
+        {
+          "sku_id": "sku_055",
+          "name": "cabinet-and-zhejiang-reshuffle",
+          "description": "Personnel changes to the Grand Secretariat (Cabinet) and Zhejiang administration as decreed by the Jiajing Emperor.",
+          "classification": "factual",
+          "token_count": 225,
+          "label_path": []
+        },
+        {
+          "sku_id": "sku_056",
+          "name": "yuxi-palace-audit-details",
+          "description": "Descriptive details of the accounting audit process conducted in Yuxi Palace regarding Shen Yishi's account books.",
+          "classification": "factual",
+          "token_count": 145,
+          "label_path": []
+        },
+        {
+          "sku_id": "sku_057",
+          "name": "logistics-and-travel-data",
+          "description": "Travel speeds and timelines for the delivery of prisoners and secret documents.",
+          "classification": "factual",
+          "token_count": 125,
+          "label_path": []
+        },
+        {
+          "sku_id": "sku_058",
+          "name": "character-profile-details",
+          "description": "Specific age and status details of key characters mentioned in the fragment.",
+          "classification": "factual",
+          "token_count": 150,
+          "label_path": []
+        },
+        {
+          "sku_id": "sku_059",
+          "name": "xiyuan-location-description",
+          "description": "西苑的地理位置、范围及建筑历史",
+          "classification": "factual",
+          "token_count": 140,
+          "label_path": []
+        },
+        {
+          "sku_id": "sku_060",
+          "name": "cabinet-office-relocation",
+          "description": "内阁值房的迁移情况",
+          "classification": "factual",
+          "token_count": 58,
+          "label_path": []
+        },
+        {
+          "sku_id": "sku_061",
+          "name": "person-courtesy-names",
+          "description": "文中人物的字号信息",
+          "classification": "factual",
+          "token_count": 80,
+          "label_path": []
+        },
+        {
+          "sku_id": "sku_062",
+          "name": "political-personnel-events",
+          "description": "政治事件中的人事变动",
+          "classification": "factual",
+          "token_count": 117,
+          "label_path": []
+        },
+        {
+          "sku_id": "sku_063",
+          "name": "economic-data-silk-trade",
+          "description": "丝绸贸易相关数据",
+          "classification": "factual",
+          "token_count": 56,
+          "label_path": []
+        },
+        {
+          "sku_id": "sku_064",
+          "name": "person-relationships",
+          "description": "文中人物之间的师承和政治关系",
+          "classification": "factual",
+          "token_count": 114,
+          "label_path": []
+        },
+        {
+          "sku_id": "sku_065",
+          "name": "literary-quotations",
+          "description": "文中引用的典故和名言",
+          "classification": "factual",
+          "token_count": 115,
+          "label_path": []
+        },
+        {
+          "sku_id": "sku_066",
+          "name": "silk-production-economics",
+          "description": "桑蚕养殖的产量、收益与赋税相关数据",
+          "classification": "factual",
+          "token_count": 193,
+          "label_path": []
+        },
+        {
+          "sku_id": "sku_067",
+          "name": "hai-rui-family-background",
+          "description": "海瑞家族背景与宗教信仰",
+          "classification": "factual",
+          "token_count": 42,
+          "label_path": []
+        },
+        {
+          "sku_id": "sku_068",
+          "name": "hai-rui-military-mission",
+          "description": "海瑞执行的抗倭支援任务详情",
+          "classification": "factual",
+          "token_count": 112,
+          "label_path": []
+        },
+        {
+          "sku_id": "sku_069",
+          "name": "li-shizhen-medical-work",
+          "description": "李时珍在淳安县的医疗工作情况",
+          "classification": "factual",
+          "token_count": 113,
+          "label_path": []
+        },
+        {
+          "sku_id": "sku_070",
+          "name": "hai-family-customs",
+          "description": "海瑞家族的家规与习俗",
+          "classification": "factual",
+          "token_count": 167,
+          "label_path": []
+        },
+        {
+          "sku_id": "sku_071",
+          "name": "geographic-locations",
+          "description": "文档中提及的地理位置",
+          "classification": "factual",
+          "token_count": 48,
+          "label_path": []
+        },
+        {
+          "sku_id": "sku_072",
+          "name": "character-traits-historical-background",
+          "description": "三位历史人物的性情与行事特点",
+          "classification": "factual",
+          "token_count": 208,
+          "label_path": []
+        },
+        {
+          "sku_id": "sku_073",
+          "name": "li-shizhen-resignation",
+          "description": "李时珍辞去太医职位的缘由",
+          "classification": "factual",
+          "token_count": 103,
+          "label_path": []
+        },
+        {
+          "sku_id": "sku_074",
+          "name": "meeting-scene-details",
+          "description": "海瑞、李时珍、海母三人见面的场景细节",
+          "classification": "factual",
+          "token_count": 282,
+          "label_path": []
+        },
+        {
+          "sku_id": "sku_075",
+          "name": "极阳之体医学定义",
+          "description": "李时珍对海瑞家族体质的医学解释",
+          "classification": "factual",
+          "token_count": 136,
+          "label_path": []
+        },
+        {
+          "sku_id": "sku_076",
+          "name": "海瑞家庭背景",
+          "description": "海瑞的家庭成员和背景信息",
+          "classification": "factual",
+          "token_count": 267,
+          "label_path": []
+        },
+        {
+          "sku_id": "sku_077",
+          "name": "李时珍个人背景",
+          "description": "李时珍的家庭背景信息",
+          "classification": "factual",
+          "token_count": 97,
+          "label_path": []
+        },
+        {
+          "sku_id": "sku_078",
+          "name": "沈一石资产清单",
+          "description": "沈一石被抄家后的资产明细",
+          "classification": "factual",
+          "token_count": 244,
+          "label_path": []
+        },
+        {
+          "sku_id": "sku_079",
+          "name": "徽商收购沈一石作坊条件",
+          "description": "徽商收购沈一石作坊的谈判条件明细",
+          "classification": "factual",
+          "token_count": 215,
+          "label_path": []
+        },
+        {
+          "sku_id": "sku_080",
+          "name": "郑泌昌何茂才被捕事件",
+          "description": "郑泌昌、何茂才被革职逮捕的详情",
+          "classification": "factual",
+          "token_count": 127,
+          "label_path": []
+        },
+        {
+          "sku_id": "sku_081",
+          "name": "海瑞侍母史料记载",
+          "description": "史料记载的海瑞侍母细节",
+          "classification": "factual",
+          "token_count": 103,
+          "label_path": []
+        },
+        {
+          "sku_id": "sku_082",
+          "name": "海南俗语",
+          "description": "李时珍引用的海南俗语",
+          "classification": "factual",
+          "token_count": 33,
+          "label_path": []
+        },
+        {
+          "sku_id": "sku_083",
+          "name": "海瑞家庭财产状况",
+          "description": "海瑞家庭的简朴生活状况",
+          "classification": "factual",
+          "token_count": 162,
+          "label_path": []
+        },
+        {
+          "sku_id": "sku_084",
+          "name": "赵贞吉背景",
+          "description": "新任浙江巡抚赵贞吉的背景信息",
+          "classification": "factual",
+          "token_count": 153,
+          "label_path": []
+        },
+        {
+          "sku_id": "sku_085",
+          "name": "五座作坊收益计算",
+          "description": "沈一石管事计算的每五座作坊收益明细",
+          "classification": "factual",
+          "token_count": 282,
+          "label_path": []
+        },
+        {
+          "sku_id": "sku_086",
+          "name": "ming-dynasty-officials-positions",
+          "description": "明朝官员职位信息",
+          "classification": "factual",
+          "token_count": 336,
+          "label_path": []
+        },
+        {
+          "sku_id": "sku_087",
+          "name": "changsha-battle-results",
+          "description": "嘉靖四十年夏浙江长沙抗倭战役结果",
+          "classification": "factual",
+          "token_count": 167,
+          "label_path": []
+        },
+        {
+          "sku_id": "sku_088",
+          "name": "silk-trade-data",
+          "description": "丝绸贸易相关数据",
+          "classification": "factual",
+          "token_count": 155,
+          "label_path": []
+        },
+        {
+          "sku_id": "sku_089",
+          "name": "shen-yishi-property-transfer",
+          "description": "沈一石家产转卖情况",
+          "classification": "factual",
+          "token_count": 156,
+          "label_path": []
+        },
+        {
+          "sku_id": "sku_090",
+          "name": "flood-disaster-data",
+          "description": "新安江决堤灾害数据",
+          "classification": "factual",
+          "token_count": 94,
+          "label_path": []
+        },
+        {
+          "sku_id": "sku_091",
+          "name": "qi-dazhu-military-appointment",
+          "description": "齐大柱军事任命",
+          "classification": "factual",
+          "token_count": 87,
+          "label_path": []
+        },
+        {
+          "sku_id": "sku_092",
+          "name": "investigation-case-details",
+          "description": "钦案审理相关细节",
+          "classification": "factual",
+          "token_count": 172,
+          "label_path": []
+        },
+        {
+          "sku_id": "sku_093",
+          "name": "hai-rui-family",
+          "description": "海瑞家庭情况",
+          "classification": "factual",
+          "token_count": 79,
+          "label_path": []
+        },
+        {
+          "sku_id": "sku_094",
+          "name": "ming-dynasty-official-positions",
+          "description": "文档中提及的明朝官职及对应人物",
+          "classification": "factual",
+          "token_count": 546,
+          "label_path": []
+        },
+        {
+          "sku_id": "sku_095",
+          "name": "wokou-invasions-hainan-timeline",
+          "description": "文档中海瑞陈述的倭寇侵扰海南历史事件",
+          "classification": "factual",
+          "token_count": 436,
+          "label_path": []
+        },
+        {
+          "sku_id": "sku_096",
+          "name": "ming-dynasty-government-locations",
+          "description": "文档中提及的明朝政府机构及地点",
+          "classification": "factual",
+          "token_count": 251,
+          "label_path": []
+        },
+        {
+          "sku_id": "sku_097",
+          "name": "ming-dynasty-document-transmission",
+          "description": "明朝紧急公文传递方式",
+          "classification": "factual",
+          "token_count": 161,
+          "label_path": []
+        },
+        {
+          "sku_id": "sku_098",
+          "name": "ming-dynasty-prison-system",
+          "description": "北镇抚司诏狱的结构与功能",
+          "classification": "factual",
+          "token_count": 189,
+          "label_path": []
+        },
+        {
+          "sku_id": "sku_099",
+          "name": "ming-dynasty-official-etiquette",
+          "description": "明朝官场礼节规定",
+          "classification": "factual",
+          "token_count": 168,
+          "label_path": []
+        },
+        {
+          "sku_id": "sku_100",
+          "name": "ming-dynasty-military-system",
+          "description": "明朝卫所制度",
+          "classification": "factual",
+          "token_count": 152,
+          "label_path": []
+        },
+        {
+          "sku_id": "sku_101",
+          "name": "shen-yishi-assets",
+          "description": "沈一石家产清单",
+          "classification": "factual",
+          "token_count": 105,
+          "label_path": []
+        },
+        {
+          "sku_id": "sku_102",
+          "name": "character-relationships",
+          "description": "文档中人物关系",
+          "classification": "factual",
+          "token_count": 385,
+          "label_path": []
+        },
+        {
+          "sku_id": "sku_103",
+          "name": "ming_dynasty_imperial_decree_types",
+          "description": "明朝圣旨的分类及其规制说明",
+          "classification": "factual",
+          "token_count": 189,
+          "label_path": []
+        },
+        {
+          "sku_id": "sku_104",
+          "name": "imperial_decree_for_yang_jinshui",
+          "description": "皇帝关于杨金水及江南织造局案的圣旨全文",
+          "classification": "factual",
+          "token_count": 469,
+          "label_path": []
+        },
+        {
+          "sku_id": "sku_105",
+          "name": "ming_royal_expenditure_statistics",
+          "description": "明朝皇室宗亲供给及浙江财政相关数据",
+          "classification": "factual",
+          "token_count": 210,
+          "label_path": []
+        },
+        {
+          "sku_id": "sku_106",
+          "name": "ming_official_salary_data",
+          "description": "明朝大学士与巡抚的年俸数据",
+          "classification": "factual",
+          "token_count": 65,
+          "label_path": []
+        },
+        {
+          "sku_id": "sku_107",
+          "name": "hai_rui_three_major_cases",
+          "description": "海瑞在审案中提及的三大案件",
+          "classification": "factual",
+          "token_count": 80,
+          "label_path": []
+        },
+        {
+          "sku_id": "sku_108",
+          "name": "yan-song-governance-facts",
+          "description": "关于严嵩把持朝政的历史记载和统计数据",
+          "classification": "factual",
+          "token_count": 193,
+          "label_path": []
+        },
+        {
+          "sku_id": "sku_109",
+          "name": "jiajing-foot-washing-ritual",
+          "description": "嘉靖帝洗脚仪式的历史记载",
+          "classification": "factual",
+          "token_count": 231,
+          "label_path": []
+        },
+        {
+          "sku_id": "sku_110",
+          "name": "zhejiang-case-details",
+          "description": "浙江郑泌昌何茂才案件相关事实",
+          "classification": "factual",
+          "token_count": 257,
+          "label_path": []
+        },
+        {
+          "sku_id": "sku_111",
+          "name": "ming-court-structure",
+          "description": "明朝宫廷机构设置",
+          "classification": "factual",
+          "token_count": 197,
+          "label_path": []
+        },
+        {
+          "sku_id": "sku_112",
+          "name": "military-geographic-context",
+          "description": "东南军事和地理背景",
+          "classification": "factual",
+          "token_count": 181,
+          "label_path": []
+        },
+        {
+          "sku_id": "sku_113",
+          "name": "jiajing-reign-timeline",
+          "description": "嘉靖年间时间节点",
+          "classification": "factual",
+          "token_count": 126,
+          "label_path": []
+        },
+        {
+          "sku_id": "sku_114",
+          "name": "political-changes-one-day",
+          "description": "一日之间三大元老的政治变动",
+          "classification": "factual",
+          "token_count": 138,
+          "label_path": []
+        },
+        {
+          "sku_id": "sku_115",
+          "name": "yongling-construction-status",
+          "description": "嘉靖永陵的建设情况",
+          "classification": "factual",
+          "token_count": 121,
+          "label_path": []
+        },
+        {
+          "sku_id": "sku_116",
+          "name": "riyuexing-teahouse-info",
+          "description": "日月兴酒楼的基本信息",
+          "classification": "factual",
+          "token_count": 113,
+          "label_path": []
+        },
+        {
+          "sku_id": "sku_117",
+          "name": "new-document-rules",
+          "description": "朝廷公文处理的新规矩",
+          "classification": "factual",
+          "token_count": 96,
+          "label_path": []
+        },
+        {
+          "sku_id": "sku_118",
+          "name": "zhejiang-anti-wako-intelligence",
+          "description": "浙江抗倭军情急报",
+          "classification": "factual",
+          "token_count": 190,
+          "label_path": []
+        },
+        {
+          "sku_id": "sku_119",
+          "name": "military-supplies-situation",
+          "description": "军需粮草情况",
+          "classification": "factual",
+          "token_count": 79,
+          "label_path": []
+        },
+        {
+          "sku_id": "sku_120",
+          "name": "xu-ji-preparation",
+          "description": "徐阶入内阁值房的准备",
+          "classification": "factual",
+          "token_count": 77,
+          "label_path": []
+        },
+        {
+          "sku_id": "sku_121",
+          "name": "yan-song-book-drying",
+          "description": "严嵩晒书的事实",
+          "classification": "factual",
+          "token_count": 133,
+          "label_path": []
+        },
+        {
+          "sku_id": "sku_122",
+          "name": "golden-seal-box-description",
+          "description": "金印盒的外观描述及其所含物品",
+          "classification": "factual",
+          "token_count": 102,
+          "label_path": []
+        },
+        {
+          "sku_id": "sku_123",
+          "name": "scene-layout-details",
+          "description": "场景布局与人物位置安排",
+          "classification": "factual",
+          "token_count": 127,
+          "label_path": []
+        },
+        {
+          "sku_id": "sku_124",
+          "name": "character-titles-hierarchy",
+          "description": "太监称谓等级与人物关系",
+          "classification": "factual",
+          "token_count": 176,
+          "label_path": []
+        },
+        {
+          "sku_id": "sku_125",
+          "name": "chen-hong-establishes-authority",
+          "description": "陈洪在司礼监值房通过惩罚和提拔太监来树立威信的具体事件。",
+          "classification": "factual",
+          "token_count": 185,
+          "label_path": []
+        },
+        {
+          "sku_id": "sku_126",
+          "name": "yan-song-yan-shifan-discussion",
+          "description": "严嵩与严世蕃在书房讨论朝局，严嵩指示严世蕃给胡宗宪写信。",
+          "classification": "factual",
+          "token_count": 212,
+          "label_path": []
+        },
+        {
+          "sku_id": "sku_127",
+          "name": "taizhou-anti-wokou-battle",
+          "description": "嘉靖四十年七月，胡宗宪督戚家军在台州发动第八次抗倭大战并取得大捷。",
+          "classification": "factual",
+          "token_count": 205,
+          "label_path": []
+        },
+        {
+          "sku_id": "sku_128",
+          "name": "zhejiang-case-retrial-process",
+          "description": "浙江巡抚衙门重审郑泌昌、何茂才贪墨案的过程。",
+          "classification": "factual",
+          "token_count": 235,
+          "label_path": []
+        },
+        {
+          "sku_id": "sku_129",
+          "name": "yang-jinshui-escorted-to-beijing",
+          "description": "杨金水被押解进京，嘉靖帝亲自审问。",
+          "classification": "factual",
+          "token_count": 233,
+          "label_path": []
+        },
+        {
+          "sku_id": "sku_130",
+          "name": "jiajing-decisions-on-zhejiang-case",
+          "description": "嘉靖帝对浙江贪墨案及后续事宜的处置决定。",
+          "classification": "factual",
+          "token_count": 282,
+          "label_path": []
+        },
+        {
+          "sku_id": "sku_131",
+          "name": "official-ranks-and-positions",
+          "description": "文档中提及的明朝官职与品级信息。",
+          "classification": "factual",
+          "token_count": 544,
+          "label_path": []
+        },
+        {
+          "sku_id": "sku_132",
+          "name": "character-relationships",
+          "description": "文档中主要人物的关系网络。",
+          "classification": "factual",
+          "token_count": 852,
+          "label_path": []
+        },
+        {
+          "sku_id": "sku_133",
+          "name": "zhejiang-administrative-system",
+          "description": "浙江省的行政与司法体系。",
+          "classification": "factual",
+          "token_count": 355,
+          "label_path": []
+        },
+        {
+          "sku_id": "sku_134",
+          "name": "inner-court-structure",
+          "description": "明朝内廷（司礼监）的组织架构与职能。",
+          "classification": "factual",
+          "token_count": 355,
+          "label_path": []
+        },
+        {
+          "sku_id": "sku_135",
+          "name": "接待胡公子费用明细",
+          "description": "淳安县丞田有禄为接待胡部堂公子所准备的费用分配",
+          "classification": "factual",
+          "token_count": 128,
+          "label_path": []
+        },
+        {
+          "sku_id": "sku_136",
+          "name": "海瑞家庭基本情况",
+          "description": "海瑞家庭成员及基本状况",
+          "classification": "factual",
+          "token_count": 152,
+          "label_path": []
+        },
+        {
+          "sku_id": "sku_137",
+          "name": "淳安县灾情概况",
+          "description": "淳安县当年的受灾情况",
+          "classification": "factual",
+          "token_count": 107,
+          "label_path": []
+        },
+        {
+          "sku_id": "sku_138",
+          "name": "胡宗宪官职履历",
+          "description": "胡宗宪在浙江的任职情况",
+          "classification": "factual",
+          "token_count": 95,
+          "label_path": []
+        },
+        {
+          "sku_id": "sku_139",
+          "name": "台州大战基本信息",
+          "description": "明嘉靖四十年第九次台州大战的相关信息",
+          "classification": "factual",
+          "token_count": 118,
+          "label_path": []
+        },
+        {
+          "sku_id": "sku_140",
+          "name": "织造局丝绸任务",
+          "description": "沈一石织坊的丝绸生产任务",
+          "classification": "factual",
+          "token_count": 112,
+          "label_path": []
+        },
+        {
+          "sku_id": "sku_141",
+          "name": "齐大柱被抓事件",
+          "description": "齐大柱被锦衣卫抓捕的相关信息",
+          "classification": "factual",
+          "token_count": 117,
+          "label_path": []
+        },
+        {
+          "sku_id": "sku_142",
+          "name": "官员任职关系",
+          "description": "文档中涉及的官员及其职位关系",
+          "classification": "factual",
+          "token_count": 324,
+          "label_path": []
+        },
+        {
+          "sku_id": "sku_143",
+          "name": "明朝抓人制度演变",
+          "description": "明朝与唐朝抓人制度的对比",
+          "classification": "factual",
+          "token_count": 137,
+          "label_path": []
+        },
+        {
+          "sku_id": "sku_144",
+          "name": "海瑞父亲相关典故",
+          "description": "海瑞父亲留下的诗句及其含义",
+          "classification": "factual",
+          "token_count": 111,
+          "label_path": []
+        },
+        {
+          "sku_id": "sku_145",
+          "name": "gao-hanwen-marriage-intention",
+          "description": "高翰文托王用汲向芸娘提亲的事实",
+          "classification": "factual",
+          "token_count": 76,
+          "label_path": []
+        },
+        {
+          "sku_id": "sku_146",
+          "name": "yunniang-travel-document",
+          "description": "芸娘持有的司礼监牒文详情",
+          "classification": "factual",
+          "token_count": 53,
+          "label_path": []
+        },
+        {
+          "sku_id": "sku_147",
+          "name": "capital-travel-plan",
+          "description": "芸娘与齐大柱老婆进京的行程安排",
+          "classification": "factual",
+          "token_count": 46,
+          "label_path": []
+        },
+        {
+          "sku_id": "sku_148",
+          "name": "嘉靖朝严党倒台与后续政治事件时间线",
+          "description": "嘉靖四十一年至四十四年间严党倒台、严世蕃被诛及海瑞调任等关键政治事件的时间节点。",
+          "classification": "factual",
+          "token_count": 236,
+          "label_path": []
+        },
+        {
+          "sku_id": "sku_149",
+          "name": "抄没严党家财及分配方案",
+          "description": "抄没严世蕃等人家财的总额及内阁奏请的分配方案。",
+          "classification": "factual",
+          "token_count": 448,
+          "label_path": []
+        },
+        {
+          "sku_id": "sku_150",
+          "name": "六必居相关事实",
+          "description": "关于六必居酱菜铺的名称由来、匾额题写及海瑞题字事件。",
+          "classification": "factual",
+          "token_count": 191,
+          "label_path": []
+        },
+        {
+          "sku_id": "sku_151",
+          "name": "海瑞个人及家庭背景",
+          "description": "海瑞的官职履历、清廉状况及家庭变故。",
+          "classification": "factual",
+          "token_count": 223,
+          "label_path": []
+        },
+        {
+          "sku_id": "sku_152",
+          "name": "明朝北京交通规制",
+          "description": "明朝北京九门以内关于行轿走马的规制。",
+          "classification": "factual",
+          "token_count": 141,
+          "label_path": []
+        },
+        {
+          "sku_id": "sku_153",
+          "name": "主要人物官职与身份变动",
+          "description": "文档中涉及的主要官员及太监的官职与身份信息。",
+          "classification": "factual",
+          "token_count": 377,
+          "label_path": []
+        },
+        {
+          "sku_id": "sku_154",
+          "name": "内阁财政调整方案",
+          "description": "为修宫观增加拨款，内阁重新调整各部款项的方案。",
+          "classification": "factual",
+          "token_count": 302,
+          "label_path": []
+        },
+        {
+          "sku_id": "sku_155",
+          "name": "guangyingku-specifications",
+          "description": "户部广盈库的建筑规格和结构详情",
+          "classification": "factual",
+          "token_count": 216,
+          "label_path": []
+        },
+        {
+          "sku_id": "sku_156",
+          "name": "official-rations-distribution",
+          "description": "嘉靖四十五年年底户部发放官员过年物资的标准",
+          "classification": "factual",
+          "token_count": 205,
+          "label_path": []
+        },
+        {
+          "sku_id": "sku_157",
+          "name": "official-salary-arrears",
+          "description": "嘉靖四十五年官员欠俸情况",
+          "classification": "factual",
+          "token_count": 230,
+          "label_path": []
+        },
+        {
+          "sku_id": "sku_158",
+          "name": "nianwan-couplet",
+          "description": "当时流传的关于年关的对联",
+          "classification": "factual",
+          "token_count": 54,
+          "label_path": []
+        },
+        {
+          "sku_id": "sku_159",
+          "name": "hairui-background",
+          "description": "海瑞的官职背景和处罚情况",
+          "classification": "factual",
+          "token_count": 137,
+          "label_path": []
+        },
+        {
+          "sku_id": "sku_160",
+          "name": "jiajing-emperor-status",
+          "description": "嘉靖皇帝的基本情况",
+          "classification": "factual",
+          "token_count": 149,
+          "label_path": []
+        },
+        {
+          "sku_id": "sku_161",
+          "name": "lishizhen-background",
+          "description": "李时珍的背景信息",
+          "classification": "factual",
+          "token_count": 103,
+          "label_path": []
+        },
+        {
+          "sku_id": "sku_162",
+          "name": "fengbao-situation",
+          "description": "冯保的情况",
+          "classification": "factual",
+          "token_count": 115,
+          "label_path": []
+        },
+        {
+          "sku_id": "sku_163",
+          "name": "gaohanwen-background",
+          "description": "高翰文的背景信息",
+          "classification": "factual",
+          "token_count": 147,
+          "label_path": []
+        },
+        {
+          "sku_id": "sku_164",
+          "name": "hairui-memorial",
+          "description": "海瑞所上奏疏的基本信息",
+          "classification": "factual",
+          "token_count": 138,
+          "label_path": []
+        },
+        {
+          "sku_id": "sku_165",
+          "name": "ming-dynasty-administrative-divisions",
+          "description": "明朝的行政区划",
+          "classification": "factual",
+          "token_count": 33,
+          "label_path": []
+        },
+        {
+          "sku_id": "sku_166",
+          "name": "cotton-industry-plan",
+          "description": "淞江棉业扩展计划",
+          "classification": "factual",
+          "token_count": 132,
+          "label_path": []
+        },
+        {
+          "sku_id": "sku_167",
+          "name": "officials-beaten-incident",
+          "description": "嘉靖四十五年腊月二十七官员上疏被打事件",
+          "classification": "factual",
+          "token_count": 199,
+          "label_path": []
+        },
+        {
+          "sku_id": "sku_168",
+          "name": "hai_rui_arrest_and_interrogation",
+          "description": "关于海瑞上疏被捕及审讯过程的叙述性事实",
+          "classification": "factual",
+          "token_count": 194,
+          "label_path": []
+        },
+        {
+          "sku_id": "sku_169",
+          "name": "golden_step_shake_torture_device",
+          "description": "关于“金步摇”刑具的定义与描述",
+          "classification": "factual",
+          "token_count": 193,
+          "label_path": []
+        },
+        {
+          "sku_id": "sku_170",
+          "name": "songjiang_cotton_distribution_ratio",
+          "description": "关于淞江棉业利润分配比例的数据",
+          "classification": "factual",
+          "token_count": 108,
+          "label_path": []
+        },
+        {
+          "sku_id": "sku_171",
+          "name": "divine_tortoise_xiangrui_details",
+          "description": "关于进献祥瑞神龟的具体数据",
+          "classification": "factual",
+          "token_count": 158,
+          "label_path": []
+        },
+        {
+          "sku_id": "sku_172",
+          "name": "hai_rui_family_tragedy",
+          "description": "关于海瑞家属遭遇的事实",
+          "classification": "factual",
+          "token_count": 107,
+          "label_path": []
+        },
+        {
+          "sku_id": "sku_173",
+          "name": "jiajing_emperor_death_and_succession",
+          "description": "关于嘉靖帝驾崩及隆庆帝继位的事实",
+          "classification": "factual",
+          "token_count": 196,
+          "label_path": []
+        },
+        {
+          "sku_id": "sku_174",
+          "name": "reference_books_list",
+          "description": "作者创作《大明王朝1566》的主要参考书目列表",
+          "classification": "factual",
+          "token_count": 654,
+          "label_path": []
+        },
+        {
+          "sku_id": "sku_175",
+          "name": "creative_principles_notes",
+          "description": "关于作品创作原则的说明",
+          "classification": "factual",
+          "token_count": 151,
+          "label_path": []
+        }
+      ]
+    }
+  ],
+  "procedural_buckets": [
+    {
+      "bucket_id": "procedural_bucket_001",
+      "total_tokens": 58916,
+      "sku_count": 124,
+      "entries": [
+        {
+          "sku_id": "skill_001",
+          "name": "ming-dynasty-court-flogging-execution",
+          "description": "明朝廷杖行刑的标准操作流程，用于对官员执行体罚刑罚",
+          "classification": "procedural",
+          "token_count": 662,
+          "label_path": []
+        },
+        {
+          "sku_id": "skill_002",
+          "name": "ming-dynasty-fiscal-conference-protocol",
+          "description": "明朝年度财政会议的标准议事流程，用于审议年度收支和来年预算",
+          "classification": "procedural",
+          "token_count": 510,
+          "label_path": []
+        },
+        {
+          "sku_id": "skill_003",
+          "name": "palace-auspicious-sign-reporting",
+          "description": "宫廷发现祥瑞后的报喜流程，用于向皇帝报告吉祥征兆",
+          "classification": "procedural",
+          "token_count": 433,
+          "label_path": []
+        },
+        {
+          "sku_id": "skill_004",
+          "name": "imperial-document-approval-process",
+          "description": "明朝内阁票拟与司礼监批红的公文处理流程",
+          "classification": "procedural",
+          "token_count": 454,
+          "label_path": []
+        },
+        {
+          "sku_id": "skill_005",
+          "name": "imperial-grandson-birth-reward-ceremony",
+          "description": "皇孙诞生后的宫廷赏赐与人员配置流程",
+          "classification": "procedural",
+          "token_count": 390,
+          "label_path": []
+        },
+        {
+          "sku_id": "skill_006",
+          "name": "three-reflections-method",
+          "description": "官场或职场中遇到危机时的应对策略，用于规避风险、保存实力并寻求转机",
+          "classification": "procedural",
+          "token_count": 542,
+          "label_path": []
+        },
+        {
+          "sku_id": "skill_007",
+          "name": "desperate-situation-reversal",
+          "description": "当处于多方敌视、无路可退的绝境时，通过主动进入危险环境寻求转机的策略",
+          "classification": "procedural",
+          "token_count": 544,
+          "label_path": []
+        },
+        {
+          "sku_id": "skill_008",
+          "name": "policy-implementation-assessment",
+          "description": "推行重大政策前进行系统性评估，避免因执行不当引发社会动荡",
+          "classification": "procedural",
+          "token_count": 741,
+          "label_path": []
+        },
+        {
+          "sku_id": "skill_009",
+          "name": "ally-recruitment-strategy",
+          "description": "争取潜在盟友的方法，特别是那些表面依附对手但有独立见解的人",
+          "classification": "procedural",
+          "token_count": 561,
+          "label_path": []
+        },
+        {
+          "sku_id": "skill_010",
+          "name": "frostbite-emergency-treatment",
+          "description": "处理冻僵人员的急救方法，适用于严寒天气下长时间暴露导致的冻伤",
+          "classification": "procedural",
+          "token_count": 685,
+          "label_path": []
+        },
+        {
+          "sku_id": "skill_011",
+          "name": "product-presentation-technique",
+          "description": "高端产品的展示销售技巧，通过氛围营造和渐进式展示提升产品价值感",
+          "classification": "procedural",
+          "token_count": 688,
+          "label_path": []
+        },
+        {
+          "sku_id": "skill_012",
+          "name": "political-situation-analysis",
+          "description": "用于分析复杂政治局势，评估各方立场、利益关系和行动动机，适用于需要权衡多方势力的决策场景",
+          "classification": "procedural",
+          "token_count": 459,
+          "label_path": []
+        },
+        {
+          "sku_id": "skill_013",
+          "name": "crisis-documentation-strategy",
+          "description": "用于处理重大危机事件时保留证据、明确责任，适用于需要防范日后追责或政治风险的场景",
+          "classification": "procedural",
+          "token_count": 423,
+          "label_path": []
+        },
+        {
+          "sku_id": "skill_014",
+          "name": "three-reflections-method",
+          "description": "用于官员或管理者在复杂局势中进行自我审视和战略规划，适用于政治或组织环境中的进退决策",
+          "classification": "procedural",
+          "token_count": 406,
+          "label_path": []
+        },
+        {
+          "sku_id": "skill_015",
+          "name": "political-risk-transfer",
+          "description": "用于将敏感事务的责任和风险转移给更高层级，适用于需要避免独自承担政治责任的场景",
+          "classification": "procedural",
+          "token_count": 485,
+          "label_path": []
+        },
+        {
+          "sku_id": "skill_016",
+          "name": "infant-soothing-technique",
+          "description": "用于安抚哭闹的婴幼儿并完成必要操作（如穿戴衣物），适用于需要让婴儿配合的场景",
+          "classification": "procedural",
+          "token_count": 483,
+          "label_path": []
+        },
+        {
+          "sku_id": "skill_017",
+          "name": "policy-implementation-assessment",
+          "description": "用于评估政策实施的可行性和风险，适用于重大政策推行前的风险评估场景",
+          "classification": "procedural",
+          "token_count": 556,
+          "label_path": []
+        },
+        {
+          "sku_id": "skill_018",
+          "name": "interrogation-trap-technique",
+          "description": "用于通过对话引导对方暴露真实意图或承认事实，适用于需要获取信息或明确对方立场的场景",
+          "classification": "procedural",
+          "token_count": 500,
+          "label_path": []
+        },
+        {
+          "sku_id": "skill_019",
+          "name": "disaster-relief-grain-calculation",
+          "description": "用于计算赈灾粮发放天数和制定后续方案的流程，适用于灾情评估和资源规划场景。",
+          "classification": "procedural",
+          "token_count": 572,
+          "label_path": []
+        },
+        {
+          "sku_id": "skill_020",
+          "name": "provincial-government-meeting-procedure",
+          "description": "适用于省级衙门召集下级官员议事的标准化流程，确保会议有序进行。",
+          "classification": "procedural",
+          "token_count": 458,
+          "label_path": []
+        },
+        {
+          "sku_id": "skill_021",
+          "name": "new-official-arrival-procedure",
+          "description": "新任官员到任履职的标准流程，适用于知府、知县等地方官员上任场景。",
+          "classification": "procedural",
+          "token_count": 430,
+          "label_path": []
+        },
+        {
+          "sku_id": "skill_022",
+          "name": "political-situation-analysis-framework",
+          "description": "用于分析复杂政治局势中各方势力和利益冲突的决策框架，适用于官场博弈场景。",
+          "classification": "procedural",
+          "token_count": 551,
+          "label_path": []
+        },
+        {
+          "sku_id": "skill_023",
+          "name": "land-price-negotiation-in-disaster",
+          "description": "灾年土地买卖价格谈判的指导原则和流程，适用于灾后土地兼并场景。",
+          "classification": "procedural",
+          "token_count": 545,
+          "label_path": []
+        },
+        {
+          "sku_id": "skill_024",
+          "name": "criminal-case-handling-procedure",
+          "description": "重大刑事案件（如通倭）的审理程序，适用于地方官员处理敏感案件场景。",
+          "classification": "procedural",
+          "token_count": 490,
+          "label_path": []
+        },
+        {
+          "sku_id": "skill_025",
+          "name": "political-message-interpretation",
+          "description": "当需要解读上级或皇帝隐含意图时使用，通过字面含义推导深层政治指示",
+          "classification": "procedural",
+          "token_count": 364,
+          "label_path": []
+        },
+        {
+          "sku_id": "skill_026",
+          "name": "emergency-dispatch-protocol",
+          "description": "当需要快速传递紧急公文或情报时使用，确保信息以最快速度送达",
+          "classification": "procedural",
+          "token_count": 322,
+          "label_path": []
+        },
+        {
+          "sku_id": "skill_027",
+          "name": "military-grain-requisition",
+          "description": "当需要以合法名义调拨资源解决紧急民生问题时使用",
+          "classification": "procedural",
+          "token_count": 357,
+          "label_path": []
+        },
+        {
+          "sku_id": "skill_028",
+          "name": "intelligence-secure-transmission",
+          "description": "当需要安全传递敏感情报时使用，避免信息泄露风险",
+          "classification": "procedural",
+          "token_count": 337,
+          "label_path": []
+        },
+        {
+          "sku_id": "skill_029",
+          "name": "execution-preparation-protocol",
+          "description": "当需要组织公开处决行动时使用，确保秩序和威慑效果",
+          "classification": "procedural",
+          "token_count": 351,
+          "label_path": []
+        },
+        {
+          "sku_id": "skill_030",
+          "name": "ming-dynasty-judicial-execution-protocol",
+          "description": "明朝官员监斩行刑的标准程序，适用于县令及以上官员执行死刑案件。",
+          "classification": "procedural",
+          "token_count": 432,
+          "label_path": []
+        },
+        {
+          "sku_id": "skill_031",
+          "name": "ming-dynasty-prison-management",
+          "description": "明朝县衙牢狱的日常管理制度，包括牢饭分发、安全防范等。",
+          "classification": "procedural",
+          "token_count": 413,
+          "label_path": []
+        },
+        {
+          "sku_id": "skill_032",
+          "name": "ming-dynasty-emergency-grain-relief",
+          "description": "明朝官员在灾荒时期向大户借粮赈济灾民的程序。",
+          "classification": "procedural",
+          "token_count": 366,
+          "label_path": []
+        },
+        {
+          "sku_id": "skill_033",
+          "name": "ming-dynasty-jinyiwei-selection-criteria",
+          "description": "明朝锦衣卫选拔人员的身体条件和技能要求。",
+          "classification": "procedural",
+          "token_count": 406,
+          "label_path": []
+        },
+        {
+          "sku_id": "skill_034",
+          "name": "ming-dynasty-eunuch-punishment-system",
+          "description": "明朝宫中太监责打的等级和方法，特别是鸳鸯板子的执行方式。",
+          "classification": "procedural",
+          "token_count": 425,
+          "label_path": []
+        },
+        {
+          "sku_id": "skill_035",
+          "name": "ming-dynasty-urgent-message-delivery",
+          "description": "明朝八百里加急文书传递的程序和方法。",
+          "classification": "procedural",
+          "token_count": 284,
+          "label_path": []
+        },
+        {
+          "sku_id": "skill_036",
+          "name": "ming-dynasty-official-appearance-standards",
+          "description": "明朝选拔官员时对相貌的要求和评判标准。",
+          "classification": "procedural",
+          "token_count": 282,
+          "label_path": []
+        },
+        {
+          "sku_id": "skill_037",
+          "name": "ming-dynasty-case-review-procedure",
+          "description": "明朝官员审理案件时对案卷、口供的审查程序。",
+          "classification": "procedural",
+          "token_count": 364,
+          "label_path": []
+        },
+        {
+          "sku_id": "skill_038",
+          "name": "military-force-estimation",
+          "description": "用于通过观察部分敌情推断整体敌军部署和动向的军事判断方法",
+          "classification": "procedural",
+          "token_count": 343,
+          "label_path": []
+        },
+        {
+          "sku_id": "skill_039",
+          "name": "military-deployment-planning",
+          "description": "用于在敌情明确后制定军事部署和伏击计划的决策流程",
+          "classification": "procedural",
+          "token_count": 357,
+          "label_path": []
+        },
+        {
+          "sku_id": "skill_040",
+          "name": "yuanyang-formation-tactics",
+          "description": "用于步兵对抗倭寇的戚家军鸳鸯阵战术部署方法",
+          "classification": "procedural",
+          "token_count": 475,
+          "label_path": []
+        },
+        {
+          "sku_id": "skill_041",
+          "name": "imperial-order-execution",
+          "description": "用于执行朝廷廷寄诏命的行政办案流程",
+          "classification": "procedural",
+          "token_count": 370,
+          "label_path": []
+        },
+        {
+          "sku_id": "skill_042",
+          "name": "account-book-examination",
+          "description": "用于查抄涉案商人资产时审查账册的流程",
+          "classification": "procedural",
+          "token_count": 338,
+          "label_path": []
+        },
+        {
+          "sku_id": "skill_043",
+          "name": "political-crisis-response",
+          "description": "用于官员在政治危机中自我保护和应对的策略",
+          "classification": "procedural",
+          "token_count": 363,
+          "label_path": []
+        },
+        {
+          "sku_id": "skill_044",
+          "name": "rescue-civilians-in-battle",
+          "description": "用于在战斗中解救被敌军劫持百姓的战术方法",
+          "classification": "procedural",
+          "token_count": 432,
+          "label_path": []
+        },
+        {
+          "sku_id": "skill_045",
+          "name": "imperial-fiscal-audit-workflow",
+          "description": "用于大规模财政账册的集中核算与审计，适用于需要快速处理大量账目并逐级呈报的场景。",
+          "classification": "procedural",
+          "token_count": 611,
+          "label_path": []
+        },
+        {
+          "sku_id": "skill_046",
+          "name": "secret-imperial-summons-process",
+          "description": "用于皇帝秘密召见外臣，确保召见过程保密且符合宫廷规制。",
+          "classification": "procedural",
+          "token_count": 602,
+          "label_path": []
+        },
+        {
+          "sku_id": "skill_047",
+          "name": "grand-secretariat-meeting-protocol",
+          "description": "用于内阁会议的组织与执行，确保会议规制有序，座位和发言顺序符合政治规矩。",
+          "classification": "procedural",
+          "token_count": 573,
+          "label_path": []
+        },
+        {
+          "sku_id": "skill_048",
+          "name": "official-survival-wisdom",
+          "description": "用于官场中人在复杂政治环境中的处世自保，平衡各方关系，避免卷入政治漩涡。",
+          "classification": "procedural",
+          "token_count": 627,
+          "label_path": []
+        },
+        {
+          "sku_id": "skill_049",
+          "name": "edict-reading-ceremony",
+          "description": "用于内阁宣读圣旨的正式场合，确保仪式规范、礼节周全。",
+          "classification": "procedural",
+          "token_count": 556,
+          "label_path": []
+        },
+        {
+          "sku_id": "skill_050",
+          "name": "official-integrity-conduct-guidelines",
+          "description": "适用于官员及其下属建立廉洁从政行为规范，防止利益输送和不当馈赠。",
+          "classification": "procedural",
+          "token_count": 418,
+          "label_path": []
+        },
+        {
+          "sku_id": "skill_051",
+          "name": "traditional-filial-respect-ritual",
+          "description": "适用于子女向父母行礼请安、汇报事务的传统礼仪流程。",
+          "classification": "procedural",
+          "token_count": 432,
+          "label_path": []
+        },
+        {
+          "sku_id": "skill_052",
+          "name": "traditional-medical-visit-protocol",
+          "description": "适用于邀请医师上门诊治时的传统礼仪和准备工作。",
+          "classification": "procedural",
+          "token_count": 454,
+          "label_path": []
+        },
+        {
+          "sku_id": "skill_053",
+          "name": "stubborn-patient-rapport-building",
+          "description": "用于与固执、抗拒诊疗的患者建立信任关系，使其配合医疗检查",
+          "classification": "procedural",
+          "token_count": 501,
+          "label_path": []
+        },
+        {
+          "sku_id": "skill_054",
+          "name": "hereditary-constitution-diagnosis",
+          "description": "用于诊断家族遗传性体质特征，区分先天禀赋与病理状态",
+          "classification": "procedural",
+          "token_count": 438,
+          "label_path": []
+        },
+        {
+          "sku_id": "skill_055",
+          "name": "couple-relationship-therapy-intervention",
+          "description": "用于治疗因夫妻关系淡漠导致的不孕问题，通过行为干预改善夫妻情感",
+          "classification": "procedural",
+          "token_count": 525,
+          "label_path": []
+        },
+        {
+          "sku_id": "skill_056",
+          "name": "unreasonable-official-order-response",
+          "description": "用于应对上级不合理或无法执行的行政命令，通过策略性拖延化解困境",
+          "classification": "procedural",
+          "token_count": 470,
+          "label_path": []
+        },
+        {
+          "sku_id": "skill_057",
+          "name": "complex-business-negotiation-strategy",
+          "description": "用于复杂商业谈判，通过分步披露信息和利益计算引导对方决策",
+          "classification": "procedural",
+          "token_count": 500,
+          "label_path": []
+        },
+        {
+          "sku_id": "skill_058",
+          "name": "judicial-interrogation-procedure",
+          "description": "用于审讯钦犯时规范问案流程，确保口供合法有效并记录在案",
+          "classification": "procedural",
+          "token_count": 661,
+          "label_path": []
+        },
+        {
+          "sku_id": "skill_059",
+          "name": "military-coordinated-attack",
+          "description": "用于指挥多路军队协同作战，在敌军挟持平民时实施救援攻击",
+          "classification": "procedural",
+          "token_count": 808,
+          "label_path": []
+        },
+        {
+          "sku_id": "skill_060",
+          "name": "imperial-edict-emergency-response",
+          "description": "用于地方官员接到圣旨等紧急上谕时的应急处理流程",
+          "classification": "procedural",
+          "token_count": 513,
+          "label_path": []
+        },
+        {
+          "sku_id": "skill_061",
+          "name": "official-reception-standards",
+          "description": "用于判断和调整公务接待规格，确保符合规制且不铺张浪费",
+          "classification": "procedural",
+          "token_count": 507,
+          "label_path": []
+        },
+        {
+          "sku_id": "skill_062",
+          "name": "rescued-civilian-settlement",
+          "description": "用于战后安置无家可归的被救平民，特别是女性平民的婚配安置",
+          "classification": "procedural",
+          "token_count": 569,
+          "label_path": []
+        },
+        {
+          "sku_id": "skill_063",
+          "name": "ming-official-morning-preparation",
+          "description": "明代官员清晨起居梳洗的完整流程，适用于历史研究或文学创作中还原古代官员日常起居细节。",
+          "classification": "procedural",
+          "token_count": 594,
+          "label_path": []
+        },
+        {
+          "sku_id": "skill_064",
+          "name": "official-disciplinary-action",
+          "description": "上级官员对下属实施惩戒的完整流程，适用于理解古代官场纪律执行机制。",
+          "classification": "procedural",
+          "token_count": 431,
+          "label_path": []
+        },
+        {
+          "sku_id": "skill_065",
+          "name": "official-meeting-protocol",
+          "description": "下属官员拜见上级的礼节规范，适用于理解明代官场等级秩序和礼制要求。",
+          "classification": "procedural",
+          "token_count": 431,
+          "label_path": []
+        },
+        {
+          "sku_id": "skill_066",
+          "name": "urgent-report-submission",
+          "description": "紧急军情或重大事项的八百里急递上报流程，适用于理解古代紧急公文传递机制。",
+          "classification": "procedural",
+          "token_count": 517,
+          "label_path": []
+        },
+        {
+          "sku_id": "skill_067",
+          "name": "prison-interrogation-setup",
+          "description": "明代北镇抚司诏狱的设施布局和审讯安排，适用于理解明代特务司法机构的运作。",
+          "classification": "procedural",
+          "token_count": 510,
+          "label_path": []
+        },
+        {
+          "sku_id": "skill_068",
+          "name": "political-assessment-framework",
+          "description": "分析官场人物真实意图和立场的判断框架，适用于理解复杂政治环境中的博弈策略。",
+          "classification": "procedural",
+          "token_count": 515,
+          "label_path": []
+        },
+        {
+          "sku_id": "skill_069",
+          "name": "imperial-decree-verification-and-reading",
+          "description": "明代特发上谕的接收、验证封印、开启和宣读流程，适用于钦差大臣接收皇帝密旨的场景。",
+          "classification": "procedural",
+          "token_count": 511,
+          "label_path": []
+        },
+        {
+          "sku_id": "skill_070",
+          "name": "imperial-case-interrogation-procedure",
+          "description": "明代钦案审讯的标准流程，包括主审官职责分工、犯人传唤、审讯记录和供词确认。",
+          "classification": "procedural",
+          "token_count": 616,
+          "label_path": []
+        },
+        {
+          "sku_id": "skill_071",
+          "name": "political-case-handling-wisdom",
+          "description": "处理牵涉朝廷高层或皇上的重大案件时的政治智慧，平衡追查真相与政治风险。",
+          "classification": "procedural",
+          "token_count": 649,
+          "label_path": []
+        },
+        {
+          "sku_id": "skill_072",
+          "name": "interrogation-resistance-tactics",
+          "description": "身涉重案者面对审讯时的应对策略，利用案件牵连关系寻求自保或减轻罪责。",
+          "classification": "procedural",
+          "token_count": 419,
+          "label_path": []
+        },
+        {
+          "sku_id": "skill_073",
+          "name": "ming-dynasty-palace-reception-protocol",
+          "description": "明朝宫廷太监迎接上级长官（如司礼监掌印太监）时的标准礼仪流程",
+          "classification": "procedural",
+          "token_count": 502,
+          "label_path": []
+        },
+        {
+          "sku_id": "skill_074",
+          "name": "jiajing-emperor-foot-bathing-ritual",
+          "description": "明朝嘉靖皇帝洗脚养生的特定仪式流程，注重松木香气体验",
+          "classification": "procedural",
+          "token_count": 666,
+          "label_path": []
+        },
+        {
+          "sku_id": "skill_075",
+          "name": "sensitive-document-crisis-handling",
+          "description": "处理可能引发政治动荡的敏感文件时，上级私下协调各方达成共识的流程",
+          "classification": "procedural",
+          "token_count": 594,
+          "label_path": []
+        },
+        {
+          "sku_id": "skill_076",
+          "name": "urgent-court-dispatch-procedure",
+          "description": "明朝司礼监向地方发送紧急廷寄公文的处理流程",
+          "classification": "procedural",
+          "token_count": 405,
+          "label_path": []
+        },
+        {
+          "sku_id": "skill_077",
+          "name": "power-transition-handover",
+          "description": "高层权力交接时的过渡安排流程，确保权力平稳转移",
+          "classification": "procedural",
+          "token_count": 427,
+          "label_path": []
+        },
+        {
+          "sku_id": "skill_078",
+          "name": "travel-supplies-preparation",
+          "description": "官员出行前准备和清点物资的流程，确保所需物品齐全无遗漏",
+          "classification": "procedural",
+          "token_count": 271,
+          "label_path": []
+        },
+        {
+          "sku_id": "skill_079",
+          "name": "book-sunning-ritual",
+          "description": "传统藏书人家定期晾晒书籍防止霉虫损害的流程",
+          "classification": "procedural",
+          "token_count": 351,
+          "label_path": []
+        },
+        {
+          "sku_id": "skill_080",
+          "name": "official-document-submission",
+          "description": "官员向内阁递交公文的标准流程，适用于禁门管控时期",
+          "classification": "procedural",
+          "token_count": 342,
+          "label_path": []
+        },
+        {
+          "sku_id": "skill_081",
+          "name": "covert-communication-surveillance",
+          "description": "在有监视的环境下进行秘密书面沟通的方法",
+          "classification": "procedural",
+          "token_count": 362,
+          "label_path": []
+        },
+        {
+          "sku_id": "skill_082",
+          "name": "intelligence-surveillance-mission",
+          "description": "派人监视特定地点并收集情报的流程",
+          "classification": "procedural",
+          "token_count": 277,
+          "label_path": []
+        },
+        {
+          "sku_id": "skill_083",
+          "name": "urgent-military-report-handling",
+          "description": "处理紧急军情报告的流程，确保军国大事得到及时决断",
+          "classification": "procedural",
+          "token_count": 338,
+          "label_path": []
+        },
+        {
+          "sku_id": "skill_084",
+          "name": "authority-establishment-workflow",
+          "description": "新任领导者接管团队时建立权威、立规矩、分化拉拢的完整流程",
+          "classification": "procedural",
+          "token_count": 577,
+          "label_path": []
+        },
+        {
+          "sku_id": "skill_085",
+          "name": "interrogation-evidence-method",
+          "description": "面对犯人翻供时，通过证人证言突破、区分公罪私罪的审讯技巧",
+          "classification": "procedural",
+          "token_count": 552,
+          "label_path": []
+        },
+        {
+          "sku_id": "skill_086",
+          "name": "political-crisis-response",
+          "description": "面对上级拉拢、政治施压时的应对策略，包括装聋作哑、以退为进",
+          "classification": "procedural",
+          "token_count": 503,
+          "label_path": []
+        },
+        {
+          "sku_id": "skill_087",
+          "name": "urgent-document-handling",
+          "description": "重要公文的封印、传递、保密处理流程，包括烤漆封口、羽毛标记",
+          "classification": "procedural",
+          "token_count": 478,
+          "label_path": []
+        },
+        {
+          "sku_id": "skill_088",
+          "name": "personnel-management-principles",
+          "description": "用人识人的核心原则，包括人才分类、用人策略、留人手段",
+          "classification": "procedural",
+          "token_count": 549,
+          "label_path": []
+        },
+        {
+          "sku_id": "skill_089",
+          "name": "emergency-fund-raising",
+          "description": "紧急情况下筹措资金的方法，包括抄家、施压、责任分担",
+          "classification": "procedural",
+          "token_count": 501,
+          "label_path": []
+        },
+        {
+          "sku_id": "skill_090",
+          "name": "ming-dynasty-official-reception-protocol",
+          "description": "明朝官场接待上级官员亲属的标准流程和礼仪规范",
+          "classification": "procedural",
+          "token_count": 447,
+          "label_path": []
+        },
+        {
+          "sku_id": "skill_091",
+          "name": "county-magistrate-court-session-procedure",
+          "description": "明朝知县开堂审案的完整程序，包括升堂、问案、判决等环节",
+          "classification": "procedural",
+          "token_count": 536,
+          "label_path": []
+        },
+        {
+          "sku_id": "skill_092",
+          "name": "beef-cutting-technique",
+          "description": "牛肉的正确切割方法，确保烹饪后肉质嫩滑可食用",
+          "classification": "procedural",
+          "token_count": 443,
+          "label_path": []
+        },
+        {
+          "sku_id": "skill_093",
+          "name": "military-strategic-planning-with-weather",
+          "description": "结合天气变化制定军事作战计划的决策流程",
+          "classification": "procedural",
+          "token_count": 433,
+          "label_path": []
+        },
+        {
+          "sku_id": "skill_094",
+          "name": "traditional-chinese-medicine-decoction",
+          "description": "传统中药煎煮的正确方法和火候控制",
+          "classification": "procedural",
+          "token_count": 482,
+          "label_path": []
+        },
+        {
+          "sku_id": "skill_095",
+          "name": "official-accountability-legal-procedure",
+          "description": "依据大明律对官员进行问责和惩处的规范程序",
+          "classification": "procedural",
+          "token_count": 444,
+          "label_path": []
+        },
+        {
+          "sku_id": "skill_096",
+          "name": "document-validity-verification",
+          "description": "验证上级公文有效性和执行权限的判断流程",
+          "classification": "procedural",
+          "token_count": 372,
+          "label_path": []
+        },
+        {
+          "sku_id": "skill_097",
+          "name": "safe-transport-risk-assessment",
+          "description": "评估人员安全运输方案的风险，判断护送人员和证件是否足够保障行程安全",
+          "classification": "procedural",
+          "token_count": 427,
+          "label_path": []
+        },
+        {
+          "sku_id": "skill_098",
+          "name": "credential-verification-workflow",
+          "description": "核实官方证件真伪和权威性，判断其是否足以提供保护",
+          "classification": "procedural",
+          "token_count": 355,
+          "label_path": []
+        },
+        {
+          "sku_id": "skill_099",
+          "name": "salt-tax-audit-workflow",
+          "description": "用于朝廷财政部门核算地方上缴税银账目，确保账实相符、防止贪腐。",
+          "classification": "procedural",
+          "token_count": 528,
+          "label_path": []
+        },
+        {
+          "sku_id": "skill_100",
+          "name": "imperial-court-audience-protocol",
+          "description": "皇帝召见内阁大臣商议国是的礼仪规范与奏对流程。",
+          "classification": "procedural",
+          "token_count": 433,
+          "label_path": []
+        },
+        {
+          "sku_id": "skill_101",
+          "name": "court-memorial-processing",
+          "description": "朝廷奏疏从上呈到批复的完整行政流程。",
+          "classification": "procedural",
+          "token_count": 413,
+          "label_path": []
+        },
+        {
+          "sku_id": "skill_102",
+          "name": "prison-execution-scheduling",
+          "description": "诏狱囚犯处决的时间安排与执行规范。",
+          "classification": "procedural",
+          "token_count": 323,
+          "label_path": []
+        },
+        {
+          "sku_id": "skill_103",
+          "name": "imperial-food-safety-protocol",
+          "description": "宫廷膳食呈献给皇帝前的安全检验流程。",
+          "classification": "procedural",
+          "token_count": 323,
+          "label_path": []
+        },
+        {
+          "sku_id": "skill_104",
+          "name": "official-annual-assessment",
+          "description": "都察院对各级官员进行年度考绩评定的流程。",
+          "classification": "procedural",
+          "token_count": 375,
+          "label_path": []
+        },
+        {
+          "sku_id": "skill_105",
+          "name": "imperial-tribute-presentation",
+          "description": "皇室成员或大臣向皇帝进献贡物的礼仪流程。",
+          "classification": "procedural",
+          "token_count": 403,
+          "label_path": []
+        },
+        {
+          "sku_id": "skill_106",
+          "name": "political-faction-counterattack",
+          "description": "朝廷政治斗争中针对政敌的策略性反击流程。",
+          "classification": "procedural",
+          "token_count": 376,
+          "label_path": []
+        },
+        {
+          "sku_id": "skill_107",
+          "name": "traditional-packaging-technique",
+          "description": "传统食品包装技法，适用于需要用天然材料（荷叶、棕叶）包装食品的场景。",
+          "classification": "procedural",
+          "token_count": 504,
+          "label_path": []
+        },
+        {
+          "sku_id": "skill_108",
+          "name": "colleague-relocation-assistance",
+          "description": "帮助经济困难的同僚安顿家眷的流程，适用于同僚调任时需要协助安排住所的情况。",
+          "classification": "procedural",
+          "token_count": 629,
+          "label_path": []
+        },
+        {
+          "sku_id": "skill_109",
+          "name": "acupuncture-emergency-treatment",
+          "description": "中医针灸急救流程，适用于患者突然昏厥、牙关紧闭等紧急情况。",
+          "classification": "procedural",
+          "token_count": 592,
+          "label_path": []
+        },
+        {
+          "sku_id": "skill_110",
+          "name": "ming-dynasty-government-document-process",
+          "description": "明朝内阁票拟批红流程，适用于理解古代政务文书处理程序。",
+          "classification": "procedural",
+          "token_count": 615,
+          "label_path": []
+        },
+        {
+          "sku_id": "skill_111",
+          "name": "crisis-survival-strategy",
+          "description": "政治危机中的生存策略，适用于身处险境需要韬光养晦的情况。",
+          "classification": "procedural",
+          "token_count": 623,
+          "label_path": []
+        },
+        {
+          "sku_id": "skill_112",
+          "name": "disaster-relief-workflow",
+          "description": "用于地方官员在灾荒时期组织赈济工作，包括粥棚搭建、难民安置和物资调配。",
+          "classification": "procedural",
+          "token_count": 606,
+          "label_path": []
+        },
+        {
+          "sku_id": "skill_113",
+          "name": "salary-distribution-workflow",
+          "description": "用于户部向官员发放俸禄钱粮的标准流程，包括身份核验、签名确认和物资发放。",
+          "classification": "procedural",
+          "token_count": 456,
+          "label_path": []
+        },
+        {
+          "sku_id": "skill_114",
+          "name": "memorial-submission-procedure",
+          "description": "用于官员向皇帝呈递奏疏的正规渠道和程序，包括正常途径和紧急直呈方式。",
+          "classification": "procedural",
+          "token_count": 457,
+          "label_path": []
+        },
+        {
+          "sku_id": "skill_115",
+          "name": "traditional-chinese-emergency-treatment",
+          "description": "用于中医急救处理因过度劳累、风寒侵袭导致的昏厥重症，采用发汗和艾灸疗法。",
+          "classification": "procedural",
+          "token_count": 623,
+          "label_path": []
+        },
+        {
+          "sku_id": "skill_116",
+          "name": "collective-congratulatory-memorial-procedure",
+          "description": "用于组织全体在京官员连夜赶写贺表，在规定时限内集体呈送皇帝。",
+          "classification": "procedural",
+          "token_count": 471,
+          "label_path": []
+        },
+        {
+          "sku_id": "skill_117",
+          "name": "memorial-drafting-and-sealing",
+          "description": "用于撰写重要奏疏并安全封存，确保内容保密、格式规范。",
+          "classification": "procedural",
+          "token_count": 473,
+          "label_path": []
+        },
+        {
+          "sku_id": "skill_118",
+          "name": "refugee-corpse-disposal",
+          "description": "用于处理灾荒时期大量死亡人口的掩埋工作，维护公共卫生。",
+          "classification": "procedural",
+          "token_count": 388,
+          "label_path": []
+        },
+        {
+          "sku_id": "skill_119",
+          "name": "ming-dynasty-official-interrogation-procedure",
+          "description": "适用于明朝官员犯罪审讯场景，依据《大明律》规定进行合法审讯程序",
+          "classification": "procedural",
+          "token_count": 497,
+          "label_path": []
+        },
+        {
+          "sku_id": "skill_120",
+          "name": "autumn-execution-timing-procedure",
+          "description": "适用于明朝死刑执行时辰判定，使用日晷确定法定行刑时间",
+          "classification": "procedural",
+          "token_count": 463,
+          "label_path": []
+        },
+        {
+          "sku_id": "skill_121",
+          "name": "imperial-death-sentence-approval-procedure",
+          "description": "适用于明朝皇帝勾决死刑犯名单的法定程序",
+          "classification": "procedural",
+          "token_count": 409,
+          "label_path": []
+        },
+        {
+          "sku_id": "skill_122",
+          "name": "palace-intelligence-reporting-system",
+          "description": "适用于明朝宫廷情报收集与报告制度，监控官员动向",
+          "classification": "procedural",
+          "token_count": 411,
+          "label_path": []
+        },
+        {
+          "sku_id": "skill_123",
+          "name": "three-judicial-offices-joint-trial-procedure",
+          "description": "适用于明朝重大案件由刑部、大理寺、都察院三法司会同审理的程序",
+          "classification": "procedural",
+          "token_count": 485,
+          "label_path": []
+        },
+        {
+          "sku_id": "skill_124",
+          "name": "prison-detention-management-procedure",
+          "description": "适用于明朝诏狱管理流程，包括囚禁、审讯、处决等环节",
+          "classification": "procedural",
+          "token_count": 499,
+          "label_path": []
+        }
+      ]
+    }
+  ]
+}

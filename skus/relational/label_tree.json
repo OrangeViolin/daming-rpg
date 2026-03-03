@@ -1,0 +1,1101 @@
+{
+  "roots": [
+    {
+      "name": "文学作品",
+      "children": [
+        {
+          "name": "小说",
+          "children": [
+            {
+              "name": "历史小说",
+              "children": []
+            },
+            {
+              "name": "电视小说",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "明朝",
+      "children": [
+        {
+          "name": "嘉靖年间",
+          "children": [
+            {
+              "name": "长沙之战",
+              "children": []
+            },
+            {
+              "name": "台州大捷",
+              "children": []
+            },
+            {
+              "name": "台州大战",
+              "children": []
+            },
+            {
+              "name": "百官上疏事件",
+              "children": []
+            }
+          ]
+        },
+        {
+          "name": "官制",
+          "children": []
+        },
+        {
+          "name": "政治制度",
+          "children": [
+            {
+              "name": "票拟",
+              "children": []
+            },
+            {
+              "name": "批红",
+              "children": []
+            },
+            {
+              "name": "圣旨",
+              "children": [
+                {
+                  "name": "明发上谕",
+                  "children": []
+                },
+                {
+                  "name": "特发上谕",
+                  "children": []
+                },
+                {
+                  "name": "口谕",
+                  "children": []
+                },
+                {
+                  "name": "廷寄",
+                  "children": []
+                },
+                {
+                  "name": "贺表",
+                  "children": []
+                },
+                {
+                  "name": "奏疏",
+                  "children": []
+                },
+                {
+                  "name": "遗诏",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "宫廷",
+          "children": [
+            {
+              "name": "宫殿",
+              "children": [
+                {
+                  "name": "文华殿",
+                  "children": []
+                },
+                {
+                  "name": "午门",
+                  "children": []
+                },
+                {
+                  "name": "万寿宫",
+                  "children": []
+                },
+                {
+                  "name": "仁寿宫",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": "西苑",
+              "children": []
+            },
+            {
+              "name": "玉熙宫",
+              "children": [
+                {
+                  "name": "精舍",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": "海子",
+              "children": []
+            }
+          ]
+        },
+        {
+          "name": "地方行政",
+          "children": [
+            {
+              "name": "教谕",
+              "children": []
+            },
+            {
+              "name": "县丞",
+              "children": []
+            }
+          ]
+        },
+        {
+          "name": "刑罚制度",
+          "children": [
+            {
+              "name": "鸳鸯板子",
+              "children": []
+            },
+            {
+              "name": "廷杖",
+              "children": []
+            },
+            {
+              "name": "绞刑",
+              "children": []
+            },
+            {
+              "name": "秋决",
+              "children": []
+            },
+            {
+              "name": "虎狼套",
+              "children": []
+            }
+          ]
+        },
+        {
+          "name": "军事",
+          "children": [
+            {
+              "name": "鸳鸯阵",
+              "children": []
+            },
+            {
+              "name": "戚家军",
+              "children": []
+            },
+            {
+              "name": "抗倭战争",
+              "children": []
+            },
+            {
+              "name": "台州卫",
+              "children": []
+            },
+            {
+              "name": "义兵",
+              "children": []
+            }
+          ]
+        },
+        {
+          "name": "壬寅宫变",
+          "children": []
+        },
+        {
+          "name": "皇陵",
+          "children": [
+            {
+              "name": "永陵",
+              "children": [
+                {
+                  "name": "吉壤",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "传统习俗",
+          "children": [
+            {
+              "name": "晒书",
+              "children": []
+            },
+            {
+              "name": "中元节",
+              "children": []
+            },
+            {
+              "name": "年关",
+              "children": []
+            }
+          ]
+        },
+        {
+          "name": "宫廷器物",
+          "children": [
+            {
+              "name": "金印盒",
+              "children": []
+            },
+            {
+              "name": "玉玺",
+              "children": []
+            },
+            {
+              "name": "香冠",
+              "children": []
+            },
+            {
+              "name": "铜壶滴漏",
+              "children": []
+            },
+            {
+              "name": "香草冠",
+              "children": []
+            },
+            {
+              "name": "铜磬",
+              "children": []
+            },
+            {
+              "name": "磬杵",
+              "children": []
+            },
+            {
+              "name": "景阳钟",
+              "children": []
+            }
+          ]
+        },
+        {
+          "name": "隆庆年间",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "历史人物",
+      "children": [
+        {
+          "name": "明朝皇帝",
+          "children": []
+        },
+        {
+          "name": "明朝官员",
+          "children": [
+            {
+              "name": "明朝武将",
+              "children": [
+                {
+                  "name": "胡宗宪",
+                  "children": []
+                },
+                {
+                  "name": "戚继光",
+                  "children": []
+                },
+                {
+                  "name": "胡震",
+                  "children": []
+                },
+                {
+                  "name": "陈濠",
+                  "children": []
+                },
+                {
+                  "name": "齐大柱",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": "明朝地方官",
+              "children": [
+                {
+                  "name": "海瑞",
+                  "children": []
+                },
+                {
+                  "name": "王用汲",
+                  "children": []
+                },
+                {
+                  "name": "高翰文",
+                  "children": []
+                },
+                {
+                  "name": "马宁远",
+                  "children": []
+                },
+                {
+                  "name": "常伯熙",
+                  "children": []
+                },
+                {
+                  "name": "张知良",
+                  "children": []
+                },
+                {
+                  "name": "郑泌昌",
+                  "children": []
+                },
+                {
+                  "name": "何茂才",
+                  "children": []
+                },
+                {
+                  "name": "田有禄",
+                  "children": []
+                },
+                {
+                  "name": "李清源",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": "明朝中央官员",
+              "children": [
+                {
+                  "name": "赵贞吉",
+                  "children": []
+                },
+                {
+                  "name": "谭纶",
+                  "children": []
+                },
+                {
+                  "name": "罗龙文",
+                  "children": []
+                },
+                {
+                  "name": "鄢懋卿",
+                  "children": []
+                },
+                {
+                  "name": "叶镗",
+                  "children": []
+                },
+                {
+                  "name": "万寀",
+                  "children": []
+                },
+                {
+                  "name": "邹应龙",
+                  "children": []
+                },
+                {
+                  "name": "徐璠",
+                  "children": []
+                },
+                {
+                  "name": "李春芳",
+                  "children": []
+                },
+                {
+                  "name": "申时行",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "明朝宦官",
+          "children": [
+            {
+              "name": "杨金水",
+              "children": []
+            },
+            {
+              "name": "黄锦",
+              "children": []
+            },
+            {
+              "name": "陈洪",
+              "children": []
+            },
+            {
+              "name": "石公公",
+              "children": []
+            },
+            {
+              "name": "朱七",
+              "children": []
+            }
+          ]
+        },
+        {
+          "name": "明朝皇族",
+          "children": []
+        },
+        {
+          "name": "明朝百姓",
+          "children": [
+            {
+              "name": "王牢头",
+              "children": []
+            },
+            {
+              "name": "海母",
+              "children": []
+            },
+            {
+              "name": "海夫人",
+              "children": []
+            },
+            {
+              "name": "芸娘",
+              "children": []
+            },
+            {
+              "name": "海妻",
+              "children": []
+            },
+            {
+              "name": "海瑞小女儿",
+              "children": []
+            },
+            {
+              "name": "齐大柱妻子",
+              "children": []
+            }
+          ]
+        },
+        {
+          "name": "倭寇",
+          "children": [
+            {
+              "name": "井上十四郎",
+              "children": []
+            }
+          ]
+        },
+        {
+          "name": "明朝商人",
+          "children": [
+            {
+              "name": "沈一石",
+              "children": []
+            },
+            {
+              "name": "徽商",
+              "children": []
+            }
+          ]
+        },
+        {
+          "name": "明朝名医",
+          "children": [
+            {
+              "name": "李时珍",
+              "children": []
+            }
+          ]
+        },
+        {
+          "name": "外族首领",
+          "children": [
+            {
+              "name": "俺答",
+              "children": []
+            }
+          ]
+        },
+        {
+          "name": "方士",
+          "children": [
+            {
+              "name": "蓝真人",
+              "children": []
+            },
+            {
+              "name": "蓝道行",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "机构组织",
+      "children": [
+        {
+          "name": "明朝中央机构",
+          "children": [
+            {
+              "name": "通政司",
+              "children": []
+            },
+            {
+              "name": "户部",
+              "children": [
+                {
+                  "name": "广盈库",
+                  "children": []
+                },
+                {
+                  "name": "十三清吏司",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": "兵部",
+              "children": []
+            },
+            {
+              "name": "吏部",
+              "children": []
+            },
+            {
+              "name": "都察院",
+              "children": []
+            },
+            {
+              "name": "翰林院",
+              "children": []
+            },
+            {
+              "name": "钦天监",
+              "children": []
+            },
+            {
+              "name": "内阁值房",
+              "children": []
+            },
+            {
+              "name": "针工局",
+              "children": []
+            },
+            {
+              "name": "巾帽局",
+              "children": []
+            },
+            {
+              "name": "尚衣监",
+              "children": []
+            },
+            {
+              "name": "工部",
+              "children": []
+            },
+            {
+              "name": "太医院",
+              "children": [
+                {
+                  "name": "御医堂",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": "司礼监值房",
+              "children": []
+            },
+            {
+              "name": "酒醋面局",
+              "children": []
+            },
+            {
+              "name": "盐务司",
+              "children": []
+            },
+            {
+              "name": "浣衣局",
+              "children": []
+            },
+            {
+              "name": "上驷监",
+              "children": []
+            },
+            {
+              "name": "提刑司",
+              "children": []
+            },
+            {
+              "name": "国子监",
+              "children": []
+            },
+            {
+              "name": "大理寺",
+              "children": []
+            },
+            {
+              "name": "三法司",
+              "children": []
+            }
+          ]
+        },
+        {
+          "name": "明朝特务机构",
+          "children": [
+            {
+              "name": "锦衣卫",
+              "children": [
+                {
+                  "name": "北镇抚司",
+                  "children": [
+                    {
+                      "name": "诏狱",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "name": "十三太保",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": "东厂",
+              "children": []
+            }
+          ]
+        },
+        {
+          "name": "明朝地方机构",
+          "children": [
+            {
+              "name": "江南织造局",
+              "children": []
+            },
+            {
+              "name": "河道衙门",
+              "children": []
+            },
+            {
+              "name": "布政使衙门",
+              "children": []
+            },
+            {
+              "name": "按察使衙门",
+              "children": [
+                {
+                  "name": "臬司衙门",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": "织造局",
+              "children": []
+            },
+            {
+              "name": "巡抚衙门",
+              "children": []
+            },
+            {
+              "name": "臬司衙门",
+              "children": []
+            },
+            {
+              "name": "总督衙门",
+              "children": []
+            },
+            {
+              "name": "淳安县衙",
+              "children": []
+            },
+            {
+              "name": "敬一堂",
+              "children": []
+            },
+            {
+              "name": "浙江市舶司",
+              "children": []
+            }
+          ]
+        },
+        {
+          "name": "王府",
+          "children": [
+            {
+              "name": "裕王府",
+              "children": []
+            }
+          ]
+        },
+        {
+          "name": "宗教场所",
+          "children": [
+            {
+              "name": "朝天观",
+              "children": []
+            },
+            {
+              "name": "玄都观",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "地理",
+      "children": [
+        {
+          "name": "浙江",
+          "children": [
+            {
+              "name": "淳安",
+              "children": []
+            },
+            {
+              "name": "建德",
+              "children": []
+            },
+            {
+              "name": "新安江",
+              "children": []
+            },
+            {
+              "name": "杭州",
+              "children": []
+            },
+            {
+              "name": "钱塘",
+              "children": []
+            },
+            {
+              "name": "台州",
+              "children": []
+            },
+            {
+              "name": "桃渚",
+              "children": []
+            },
+            {
+              "name": "龙山",
+              "children": []
+            },
+            {
+              "name": "温岭",
+              "children": []
+            },
+            {
+              "name": "瓶窑",
+              "children": []
+            },
+            {
+              "name": "长沙",
+              "children": []
+            },
+            {
+              "name": "上槐村",
+              "children": []
+            }
+          ]
+        },
+        {
+          "name": "江苏",
+          "children": []
+        },
+        {
+          "name": "北京",
+          "children": [
+            {
+              "name": "地安门",
+              "children": []
+            },
+            {
+              "name": "德胜门",
+              "children": []
+            },
+            {
+              "name": "永定门",
+              "children": []
+            },
+            {
+              "name": "东便门",
+              "children": []
+            },
+            {
+              "name": "烟袋斜街",
+              "children": []
+            },
+            {
+              "name": "钱粮胡同",
+              "children": []
+            },
+            {
+              "name": "前门外大街",
+              "children": []
+            },
+            {
+              "name": "大兴县",
+              "children": []
+            }
+          ]
+        },
+        {
+          "name": "福建",
+          "children": []
+        },
+        {
+          "name": "紫禁城",
+          "children": []
+        },
+        {
+          "name": "中南海",
+          "children": []
+        },
+        {
+          "name": "什刹海",
+          "children": []
+        },
+        {
+          "name": "通惠河",
+          "children": []
+        },
+        {
+          "name": "扬州",
+          "children": []
+        },
+        {
+          "name": "江西",
+          "children": []
+        },
+        {
+          "name": "山东",
+          "children": []
+        },
+        {
+          "name": "湖北",
+          "children": []
+        },
+        {
+          "name": "宣府",
+          "children": []
+        },
+        {
+          "name": "蓟辽",
+          "children": []
+        },
+        {
+          "name": "京杭大运河",
+          "children": []
+        },
+        {
+          "name": "通州",
+          "children": []
+        },
+        {
+          "name": "南京",
+          "children": []
+        },
+        {
+          "name": "淞江",
+          "children": []
+        },
+        {
+          "name": "雷州",
+          "children": []
+        },
+        {
+          "name": "太湖",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "经济政策",
+      "children": [
+        {
+          "name": "改稻为桑",
+          "children": []
+        },
+        {
+          "name": "桑田",
+          "children": []
+        },
+        {
+          "name": "棉业专营",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "文化艺术",
+      "children": [
+        {
+          "name": "青词",
+          "children": []
+        },
+        {
+          "name": "阳明心学",
+          "children": []
+        },
+        {
+          "name": "广陵散",
+          "children": []
+        },
+        {
+          "name": "孝经",
+          "children": []
+        },
+        {
+          "name": "泰州学派",
+          "children": []
+        },
+        {
+          "name": "朱子语类",
+          "children": []
+        },
+        {
+          "name": "祭十二郎文",
+          "children": []
+        },
+        {
+          "name": "沧浪之水",
+          "children": []
+        },
+        {
+          "name": "河图洛书",
+          "children": []
+        },
+        {
+          "name": "围棋",
+          "children": []
+        },
+        {
+          "name": "昆曲",
+          "children": []
+        },
+        {
+          "name": "浣纱记",
+          "children": []
+        },
+        {
+          "name": "治安疏",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "法律制度",
+      "children": [
+        {
+          "name": "大明律",
+          "children": []
+        },
+        {
+          "name": "站笼",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "军事装备",
+      "children": [
+        {
+          "name": "倭刀",
+          "children": []
+        },
+        {
+          "name": "红衣大炮",
+          "children": []
+        },
+        {
+          "name": "火铳",
+          "children": []
+        },
+        {
+          "name": "千里镜",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "宗教信仰",
+      "children": [
+        {
+          "name": "方士",
+          "children": []
+        },
+        {
+          "name": "乾卦",
+          "children": []
+        },
+        {
+          "name": "血经",
+          "children": []
+        },
+        {
+          "name": "张三丰",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "医学",
+      "children": [
+        {
+          "name": "极阳之体",
+          "children": []
+        },
+        {
+          "name": "扯痧",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "宫廷制度",
+      "children": [
+        {
+          "name": "对食",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "历史事件",
+      "children": [
+        {
+          "name": "越中四谏",
+          "children": []
+        },
+        {
+          "name": "戊午三子",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "宫廷用品",
+      "children": [
+        {
+          "name": "花雕",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "商业场所",
+      "children": [
+        {
+          "name": "日月兴酒楼",
+          "children": []
+        },
+        {
+          "name": "六必居",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "军事制度",
+      "children": [
+        {
+          "name": "八百里急递",
+          "children": []
+        }
+      ]
+    }
+  ]
+}

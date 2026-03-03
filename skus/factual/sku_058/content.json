@@ -1,0 +1,19 @@
+[
+  {
+    "name": "Yan Song",
+    "age": 81,
+    "status": "Grand Secretary (Cabinet Chief)",
+    "health": "Eyesight failing, hair white turning yellow"
+  },
+  {
+    "name": "Hu Zongxian",
+    "age": 56,
+    "status": "Governor of Zhejiang and Zhili",
+    "appearance": "Hair 70% white"
+  },
+  {
+    "name": "Jiajing Emperor",
+    "clothing_habits": "Wears cicada-wing silk robe in winter, Songjiang cotton robe in summer",
+    "physical_trait": "Rarely sweats in summer"
+  }
+]

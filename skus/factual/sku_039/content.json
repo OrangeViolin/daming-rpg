@@ -1,0 +1,9 @@
+{
+  "material": "用掺了麻做的纸印成",
+  "texture": "纸质韧硬",
+  "purpose": "便于流通",
+  "difficulty": {
+    "chewing": "十分费劲",
+    "swallowing": "更难受，吞得眼珠子都鼓了出来"
+  }
+}

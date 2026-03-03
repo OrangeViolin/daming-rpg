@@ -1,0 +1,122 @@
+[
+  {
+    "name": "严嵩",
+    "position": "内阁首辅/阁老",
+    "affiliation": "严党领袖"
+  },
+  {
+    "name": "严世蕃",
+    "position": "严嵩之子",
+    "affiliation": "严党"
+  },
+  {
+    "name": "罗龙文",
+    "position": "通政司通政使",
+    "affiliation": "严党"
+  },
+  {
+    "name": "鄢懋卿",
+    "position": "刑部右侍郎",
+    "affiliation": "严党"
+  },
+  {
+    "name": "胡宗宪",
+    "position": "浙直总督",
+    "affiliation": "严嵩提携之人"
+  },
+  {
+    "name": "谭纶",
+    "position": "参军",
+    "affiliation": "裕王府心腹"
+  },
+  {
+    "name": "裕王",
+    "position": "皇子/储君",
+    "affiliation": "皇族"
+  },
+  {
+    "name": "徐阶",
+    "position": "内阁大学士",
+    "affiliation": "裕王一派"
+  },
+  {
+    "name": "高拱",
+    "position": "侍讲学士",
+    "affiliation": "裕王一派"
+  },
+  {
+    "name": "张居正",
+    "position": "翰林院侍读学士",
+    "affiliation": "裕王一派"
+  },
+  {
+    "name": "嘉靖皇帝",
+    "position": "皇帝",
+    "affiliation": "皇族"
+  },
+  {
+    "name": "吕芳",
+    "position": "司礼监掌印太监",
+    "affiliation": "宫内"
+  },
+  {
+    "name": "杨金水",
+    "position": "江南织造局太监",
+    "affiliation": "宫内/吕芳下属"
+  },
+  {
+    "name": "冯保",
+    "position": "太监",
+    "affiliation": "宫内"
+  },
+  {
+    "name": "李妃",
+    "position": "裕王妃",
+    "affiliation": "裕王府"
+  },
+  {
+    "name": "世子",
+    "position": "裕王之子/皇孙",
+    "affiliation": "皇族"
+  },
+  {
+    "name": "郑泌昌",
+    "position": "浙江布政使",
+    "affiliation": "浙江地方官"
+  },
+  {
+    "name": "何茂才",
+    "position": "浙江按察使",
+    "affiliation": "浙江地方官"
+  },
+  {
+    "name": "马宁远",
+    "position": "杭州知府兼新安江河道总管",
+    "affiliation": "浙江地方官"
+  },
+  {
+    "name": "沈一石",
+    "position": "浙江首富/织造商",
+    "affiliation": "商贾"
+  },
+  {
+    "name": "戚继光",
+    "position": "总兵",
+    "affiliation": "军中"
+  },
+  {
+    "name": "李玄",
+    "position": "新安江河道监管",
+    "affiliation": "宫里派驻"
+  },
+  {
+    "name": "常伯熙",
+    "position": "淳安知县",
+    "affiliation": "浙江地方官"
+  },
+  {
+    "name": "张知良",
+    "position": "建德知县",
+    "affiliation": "浙江地方官"
+  }
+]

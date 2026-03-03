@@ -1,0 +1,4771 @@
+{
+  "entries": [
+    {
+      "subject": "刘和平",
+      "predicate": "is-a",
+      "object": "作者",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_001"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "大明王朝1566",
+      "predicate": "has-a",
+      "object": "作者",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_001"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "严嵩",
+      "predicate": "is-a",
+      "object": "内阁首辅",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_001",
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_008"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "严世蕃",
+      "predicate": "is-a",
+      "object": "严嵩之子",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_001"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "徐阶",
+      "predicate": "is-a",
+      "object": "内阁次辅",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_001",
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_008"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "吕芳",
+      "predicate": "is-a",
+      "object": "司礼监掌印太监",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_001",
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_008"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "冯保",
+      "predicate": "is-a",
+      "object": "东厂提督太监",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_001"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "冯保",
+      "predicate": "related-to",
+      "object": "吕芳",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_001",
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_002",
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_024"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "裕王",
+      "predicate": "is-a",
+      "object": "嘉靖帝之子",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_001"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "周云逸",
+      "predicate": "is-a",
+      "object": "钦天监监正",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_001"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "周云逸",
+      "predicate": "caused-by",
+      "object": "廷杖",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_001"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "司礼监",
+      "predicate": "part-of",
+      "object": "明朝宦官机构",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_001"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "东厂",
+      "predicate": "is-a",
+      "object": "明朝特务机构",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_001"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "锦衣卫",
+      "predicate": "is-a",
+      "object": "明朝特务机构",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_001"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "内阁",
+      "predicate": "is-a",
+      "object": "明朝最高行政机构",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_001"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "户部",
+      "predicate": "is-a",
+      "object": "明朝六部",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_001"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "兵部",
+      "predicate": "is-a",
+      "object": "明朝六部",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_001"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "工部",
+      "predicate": "is-a",
+      "object": "明朝六部",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_001"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "吏部",
+      "predicate": "is-a",
+      "object": "明朝六部",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_001"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "批红",
+      "predicate": "requires",
+      "object": "票拟",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_001"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "司礼监",
+      "predicate": "implements",
+      "object": "批红",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_001",
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_003",
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_004",
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_017"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "内阁",
+      "predicate": "implements",
+      "object": "票拟",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_001",
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_003",
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_004",
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_017"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "戚继光",
+      "predicate": "related-to",
+      "object": "俞大猷",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_001"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "戚继光",
+      "predicate": "related-to",
+      "object": "倭寇",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_001",
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_005"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "俞大猷",
+      "predicate": "related-to",
+      "object": "倭寇",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_001"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "玉熙宫",
+      "predicate": "is-a",
+      "object": "谨身精舍",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_001"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "廷杖",
+      "predicate": "causes",
+      "object": "周云逸之死",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_001"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "徐阶",
+      "predicate": "related-to",
+      "object": "裕王",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_001",
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_003"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "高拱",
+      "predicate": "related-to",
+      "object": "裕王",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_001",
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_003"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "张居正",
+      "predicate": "related-to",
+      "object": "裕王",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_001",
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_003"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "高拱",
+      "predicate": "contradicts",
+      "object": "严世蕃",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_001"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "张居正",
+      "predicate": "contradicts",
+      "object": "严世蕃",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_001"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "胡宗宪",
+      "predicate": "is-a",
+      "object": "明朝官员",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_002",
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_004",
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_008"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "胡宗宪",
+      "predicate": "related-to",
+      "object": "严嵩",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_002",
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_004",
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_005",
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_006",
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_008",
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_009",
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_016",
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_020"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "戚继光",
+      "predicate": "is-a",
+      "object": "明朝武将",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_002",
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_007"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "戚继光",
+      "predicate": "depends-on",
+      "object": "胡宗宪",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_002"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "马宁远",
+      "predicate": "depends-on",
+      "object": "胡宗宪",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_002",
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_003"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "冯保",
+      "predicate": "caused-by",
+      "object": "周云逸之死",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_002"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "改稻田为桑田",
+      "predicate": "causes",
+      "object": "百姓遭殃",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_002"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "改稻田为桑田",
+      "predicate": "causes",
+      "object": "土地兼并",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_002"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "江南织造局",
+      "predicate": "is-a",
+      "object": "明朝地方机构",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_002"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "杨金水",
+      "predicate": "depends-on",
+      "object": "吕芳",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_002",
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_007"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "谭纶",
+      "predicate": "related-to",
+      "object": "胡宗宪",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_002"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "戚继光",
+      "predicate": "related-to",
+      "object": "谭纶",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_002"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "三思",
+      "predicate": "related-to",
+      "object": "吕芳",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_002"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "三思",
+      "predicate": "related-to",
+      "object": "冯保",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_002"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "裕王府",
+      "predicate": "is-a",
+      "object": "王府",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_002"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "玉熙宫",
+      "predicate": "part-of",
+      "object": "宫廷",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_002"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "胡宗宪",
+      "predicate": "implements",
+      "object": "改稻田为桑田",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_002"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "严嵩",
+      "predicate": "causes",
+      "object": "改稻田为桑田",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_002"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "严嵩",
+      "predicate": "is-a",
+      "object": "严世蕃的父亲",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_003"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "胡宗宪",
+      "predicate": "depends-on",
+      "object": "严嵩",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_003"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "谭纶",
+      "predicate": "related-to",
+      "object": "裕王",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_003",
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_015",
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_020"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "杨金水",
+      "predicate": "related-to",
+      "object": "吕芳",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_003",
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_004",
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_006",
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_012",
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_013",
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_014",
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_016"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "李玄",
+      "predicate": "related-to",
+      "object": "杨金水",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_003"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "改稻为桑",
+      "predicate": "causes",
+      "object": "毁堤淹田",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_003",
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_004",
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_006"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "毁堤淹田",
+      "predicate": "causes",
+      "object": "民变",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_003"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "江南织造局",
+      "predicate": "part-of",
+      "object": "宫里",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_003"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "沈一石",
+      "predicate": "related-to",
+      "object": "江南织造局",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_003",
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_004",
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_006",
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_007",
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_014",
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_015"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "戚继光",
+      "predicate": "related-to",
+      "object": "胡宗宪",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_003",
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_006",
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_008",
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_020"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "端午汛",
+      "predicate": "causes",
+      "object": "新安江洪水",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_003"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "分洪",
+      "predicate": "caused-by",
+      "object": "毁堤淹田",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_003"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "淳安",
+      "predicate": "part-of",
+      "object": "浙江",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_003",
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_004"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "建德",
+      "predicate": "part-of",
+      "object": "浙江",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_003",
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_004"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "新安江",
+      "predicate": "part-of",
+      "object": "浙江",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_003",
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_008",
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_010"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "李妃",
+      "predicate": "related-to",
+      "object": "裕王",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_003"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "嘉靖帝",
+      "predicate": "is-a",
+      "object": "裕王的父亲",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_003"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "丝绸",
+      "predicate": "requires",
+      "object": "桑田",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_003"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "改稻为桑",
+      "predicate": "requires",
+      "object": "稻田改桑田",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_003"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "罗龙文",
+      "predicate": "related-to",
+      "object": "严嵩",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_003",
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_006"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "鄢懋卿",
+      "predicate": "related-to",
+      "object": "严嵩",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_003",
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_006"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "杨金水",
+      "predicate": "is-a",
+      "object": "明朝宦官",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_004",
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_006",
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_007",
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_012",
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_014"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "海瑞",
+      "predicate": "is-a",
+      "object": "明朝地方官",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_004",
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_007",
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_012"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "海瑞",
+      "predicate": "related-to",
+      "object": "谭纶",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_004",
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_015"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "高翰文",
+      "predicate": "is-a",
+      "object": "明朝地方官",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_004",
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_007"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "高翰文",
+      "predicate": "related-to",
+      "object": "严世蕃",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_004",
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_005",
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_006",
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_009"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "沈一石",
+      "predicate": "is-a",
+      "object": "明朝商人",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_004",
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_007",
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_008",
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_012"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "芸娘",
+      "predicate": "related-to",
+      "object": "沈一石",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_004",
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_005",
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_006",
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_007",
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_019",
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_022",
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_024"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "芸娘",
+      "predicate": "related-to",
+      "object": "杨金水",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_004",
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_006",
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_014",
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_019",
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_022"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "郑泌昌",
+      "predicate": "is-a",
+      "object": "明朝地方官",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_004",
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_007",
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_012"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "何茂才",
+      "predicate": "is-a",
+      "object": "明朝地方官",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_004",
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_007",
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_012"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "赵贞吉",
+      "predicate": "is-a",
+      "object": "明朝地方官",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_004"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "李时珍",
+      "predicate": "related-to",
+      "object": "胡宗宪",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_004"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "毁堤淹田",
+      "predicate": "causes",
+      "object": "淳安建德水灾",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_004"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "以改兼赈",
+      "predicate": "implements",
+      "object": "改稻为桑",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_004"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "江南织造局",
+      "predicate": "part-of",
+      "object": "明朝地方机构",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_004"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "户部",
+      "predicate": "part-of",
+      "object": "明朝中央机构",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_004"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "兵部",
+      "predicate": "part-of",
+      "object": "明朝中央机构",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_004"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "吏部",
+      "predicate": "part-of",
+      "object": "明朝中央机构",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_004"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "都察院",
+      "predicate": "part-of",
+      "object": "明朝中央机构",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_004"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "翰林院",
+      "predicate": "part-of",
+      "object": "明朝中央机构",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_004"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "杭州",
+      "predicate": "part-of",
+      "object": "浙江",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_004"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "票拟",
+      "predicate": "related-to",
+      "object": "批红",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_004"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "通倭",
+      "predicate": "related-to",
+      "object": "大明律",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_004"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "王命旗牌",
+      "predicate": "related-to",
+      "object": "大明律",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_004"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "海母谢氏",
+      "predicate": "related-to",
+      "object": "海瑞",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_004"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "罗龙文",
+      "predicate": "related-to",
+      "object": "严世蕃",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_004"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "鄢懋卿",
+      "predicate": "related-to",
+      "object": "严世蕃",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_004",
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_019"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "井上十四郎",
+      "predicate": "is-a",
+      "object": "倭寇",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_004",
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_005",
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_006"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "齐大柱",
+      "predicate": "is-a",
+      "object": "明朝百姓",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_004"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "齐大柱",
+      "predicate": "related-to",
+      "object": "海瑞",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_004",
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_006",
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_007",
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_013",
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_014",
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_019",
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_020"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "广陵散",
+      "predicate": "related-to",
+      "object": "高翰文",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_004"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "广陵散",
+      "predicate": "related-to",
+      "object": "芸娘",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_004",
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_006"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "对食",
+      "predicate": "related-to",
+      "object": "杨金水",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_004"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "对食",
+      "predicate": "related-to",
+      "object": "芸娘",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_004"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "马宁远",
+      "predicate": "related-to",
+      "object": "毁堤淹田",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_004"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "王用汲",
+      "predicate": "is-a",
+      "object": "明朝地方官",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_004",
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_012"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "王用汲",
+      "predicate": "related-to",
+      "object": "谭纶",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_004",
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_005",
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_015"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "赵贞吉",
+      "predicate": "related-to",
+      "object": "徐阶",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_005",
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_009",
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_012",
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_013",
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_014",
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_015",
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_016"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "青词",
+      "predicate": "related-to",
+      "object": "嘉靖帝",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_005"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "严嵩",
+      "predicate": "related-to",
+      "object": "青词",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_005"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "徐阶",
+      "predicate": "related-to",
+      "object": "青词",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_005"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "内阁值房",
+      "predicate": "part-of",
+      "object": "内阁",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_005"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "西苑",
+      "predicate": "part-of",
+      "object": "宫廷",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_005"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "沈一石",
+      "predicate": "related-to",
+      "object": "织造局",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_005",
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_008"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "胡宗宪",
+      "predicate": "related-to",
+      "object": "赵贞吉",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_005"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "胡宗宪",
+      "predicate": "related-to",
+      "object": "戚继光",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_005",
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_007",
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_014",
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_017"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "胡宗宪",
+      "predicate": "related-to",
+      "object": "倭寇",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_005"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "胡宗宪",
+      "predicate": "related-to",
+      "object": "改稻为桑",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_005"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "郑泌昌",
+      "predicate": "related-to",
+      "object": "何茂才",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_005",
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_006"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "郑泌昌",
+      "predicate": "related-to",
+      "object": "沈一石",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_005"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "齐大柱",
+      "predicate": "related-to",
+      "object": "井上十四郎",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_005",
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_020"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "海瑞",
+      "predicate": "related-to",
+      "object": "淳安",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_005"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "站笼",
+      "predicate": "related-to",
+      "object": "齐大柱",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_005"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "阳明心学",
+      "predicate": "related-to",
+      "object": "胡宗宪",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_005"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "阳明心学",
+      "predicate": "related-to",
+      "object": "赵贞吉",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_005"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "钱塘",
+      "predicate": "part-of",
+      "object": "浙江",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_005"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "海瑞",
+      "predicate": "is-a",
+      "object": "淳安知县",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_006",
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_008",
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_010"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "海瑞",
+      "predicate": "related-to",
+      "object": "裕王",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_006",
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_007",
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_009"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "高翰文",
+      "predicate": "is-a",
+      "object": "杭州知府",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_006"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "郑泌昌",
+      "predicate": "is-a",
+      "object": "浙江巡抚",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_006"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "何茂才",
+      "predicate": "is-a",
+      "object": "浙江按察使",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_006"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "胡宗宪",
+      "predicate": "is-a",
+      "object": "浙直总督",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_006",
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_008"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "李时珍",
+      "predicate": "related-to",
+      "object": "嘉靖帝",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_006"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "芸娘",
+      "predicate": "related-to",
+      "object": "高翰文",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_006",
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_007",
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_014",
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_019",
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_024"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "改稻为桑",
+      "predicate": "causes",
+      "object": "土地兼并",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_006"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "北镇抚司",
+      "predicate": "part-of",
+      "object": "锦衣卫",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_006",
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_014",
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_020"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "玉熙宫",
+      "predicate": "part-of",
+      "object": "西苑",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_006",
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_008",
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_009",
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_014"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "鸳鸯板子",
+      "predicate": "is-a",
+      "object": "明朝刑罚",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_006"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "江南织造局",
+      "predicate": "related-to",
+      "object": "司礼监",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_006"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "谭纶",
+      "predicate": "related-to",
+      "object": "海瑞",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_006"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "王用汲",
+      "predicate": "is-a",
+      "object": "建德知县",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_006",
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_008"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "王用汲",
+      "predicate": "related-to",
+      "object": "裕王",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_006",
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_009"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "田有禄",
+      "predicate": "is-a",
+      "object": "淳安县丞",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_006"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "田有禄",
+      "predicate": "related-to",
+      "object": "海瑞",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_006",
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_010",
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_020"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "严嵩",
+      "predicate": "related-to",
+      "object": "严世蕃",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_006"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "广陵散",
+      "predicate": "related-to",
+      "object": "沈一石",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_006",
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_007"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "胡宗宪",
+      "predicate": "requires",
+      "object": "军饷",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_007"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "戚家军",
+      "predicate": "implements",
+      "object": "鸳鸯阵",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_007"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "鸳鸯阵",
+      "predicate": "causes",
+      "object": "倭寇战败",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_007"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "倭寇",
+      "predicate": "causes",
+      "object": "桃渚失陷",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_007"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "郑泌昌",
+      "predicate": "depends-on",
+      "object": "严嵩",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_007"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "何茂才",
+      "predicate": "depends-on",
+      "object": "严嵩",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_007"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "改稻为桑",
+      "predicate": "contradicts",
+      "object": "抗倭战争",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_007"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "廷寄",
+      "predicate": "requires",
+      "object": "批红",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_007"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "井上十三郎",
+      "predicate": "is-a",
+      "object": "倭寇",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_007"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "桃渚",
+      "predicate": "part-of",
+      "object": "浙江",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_007"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "龙山",
+      "predicate": "part-of",
+      "object": "浙江",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_007"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "温岭",
+      "predicate": "part-of",
+      "object": "浙江",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_007"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "瓶窑",
+      "predicate": "part-of",
+      "object": "浙江",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_007",
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_012"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "胡宗宪",
+      "predicate": "related-to",
+      "object": "高翰文",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_007"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "高翰文",
+      "predicate": "related-to",
+      "object": "海瑞",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_007"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "严嵩",
+      "predicate": "requires",
+      "object": "胡宗宪",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_008"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "郑泌昌",
+      "predicate": "caused-by",
+      "object": "严世蕃",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_008"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "何茂才",
+      "predicate": "caused-by",
+      "object": "严世蕃",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_008"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "严世蕃",
+      "predicate": "is-a",
+      "object": "内阁阁员",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_008"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "高拱",
+      "predicate": "is-a",
+      "object": "内阁阁员",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_008"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "张居正",
+      "predicate": "is-a",
+      "object": "内阁阁员",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_008"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "李春芳",
+      "predicate": "is-a",
+      "object": "内阁阁员",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_008"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "陈以勤",
+      "predicate": "is-a",
+      "object": "内阁阁员",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_008"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "玉熙宫",
+      "predicate": "related-to",
+      "object": "嘉靖帝",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_008"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "针工局",
+      "predicate": "is-a",
+      "object": "明朝中央机构",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_008",
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_019"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "巾帽局",
+      "predicate": "is-a",
+      "object": "明朝中央机构",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_008",
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_019"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "尚衣监",
+      "predicate": "is-a",
+      "object": "明朝中央机构",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_008",
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_019"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "戚继光",
+      "predicate": "related-to",
+      "object": "抗倭战争",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_008"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "倭寇",
+      "predicate": "causes",
+      "object": "海运不通",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_008"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "海运不通",
+      "predicate": "causes",
+      "object": "丝绸价格下跌",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_008"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "赵贞吉",
+      "predicate": "related-to",
+      "object": "胡宗宪",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_008",
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_012",
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_013"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "新安江大堤决口",
+      "predicate": "causes",
+      "object": "淳安建德发大水",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_008"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "严嵩",
+      "predicate": "related-to",
+      "object": "玉熙宫精舍",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_008"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "胡宗宪",
+      "predicate": "related-to",
+      "object": "玉熙宫精舍",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_008"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "浙江官场贪墨",
+      "predicate": "causes",
+      "object": "沈一石家财被贪",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_008"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "严嵩",
+      "predicate": "related-to",
+      "object": "胡宗宪",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_008"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "嘉靖帝",
+      "predicate": "regulates",
+      "object": "内阁",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_008"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "嘉靖帝",
+      "predicate": "related-to",
+      "object": "胡宗宪",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_008"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "壬寅宫变",
+      "predicate": "causes",
+      "object": "嘉靖帝迁往西苑",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_009"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "西苑",
+      "predicate": "part-of",
+      "object": "明朝宫廷",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_009"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "海子",
+      "predicate": "part-of",
+      "object": "西苑",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_009"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "内阁值房",
+      "predicate": "part-of",
+      "object": "西苑",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_009"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "文华殿",
+      "predicate": "part-of",
+      "object": "紫禁城",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_009"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "午门",
+      "predicate": "part-of",
+      "object": "紫禁城",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_009"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "胡宗宪",
+      "predicate": "contradicts",
+      "object": "改稻为桑",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_009"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "高翰文",
+      "predicate": "contradicts",
+      "object": "改稻为桑",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_009"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "胡宗宪",
+      "predicate": "related-to",
+      "object": "抗倭战争",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_009"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "工部",
+      "predicate": "is-a",
+      "object": "明朝中央机构",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_009"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "票拟",
+      "predicate": "related-to",
+      "object": "内阁",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_009"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "批红",
+      "predicate": "related-to",
+      "object": "司礼监",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_009"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "廷杖",
+      "predicate": "related-to",
+      "object": "午门",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_009"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "中南海",
+      "predicate": "part-of",
+      "object": "西苑",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_009"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "什刹海",
+      "predicate": "part-of",
+      "object": "西苑",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_009"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "通惠河",
+      "predicate": "related-to",
+      "object": "西苑",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_009"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "严世蕃",
+      "predicate": "contradicts",
+      "object": "高拱",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_009"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "严世蕃",
+      "predicate": "contradicts",
+      "object": "张居正",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_009"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "张居正",
+      "predicate": "related-to",
+      "object": "徐阶",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_009",
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_017"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "海瑞",
+      "predicate": "related-to",
+      "object": "戚继光",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_010"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "海瑞",
+      "predicate": "related-to",
+      "object": "李时珍",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_010",
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_014",
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_023",
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_024"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "海母",
+      "predicate": "related-to",
+      "object": "海瑞",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_010",
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_011",
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_013",
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_020"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "李时珍",
+      "predicate": "related-to",
+      "object": "淳安",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_010"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "桑田",
+      "predicate": "related-to",
+      "object": "改稻为桑",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_010"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "淳安县衙",
+      "predicate": "part-of",
+      "object": "淳安",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_010"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "王牢头",
+      "predicate": "related-to",
+      "object": "淳安县衙",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_010"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "李时珍",
+      "predicate": "contradicts",
+      "object": "嘉靖帝",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_011"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "李时珍",
+      "predicate": "part-of",
+      "object": "太医院",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_011"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "李时珍",
+      "predicate": "related-to",
+      "object": "海母",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_011"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "李时珍",
+      "predicate": "related-to",
+      "object": "海瑞",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_011",
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_012"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "嘉靖帝",
+      "predicate": "related-to",
+      "object": "方士",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_011"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "太医院",
+      "predicate": "related-to",
+      "object": "方士",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_011"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "海瑞",
+      "predicate": "has-a",
+      "object": "海夫人",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_012"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "海瑞",
+      "predicate": "has-a",
+      "object": "海母",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_012"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "李时珍",
+      "predicate": "is-a",
+      "object": "明朝名医",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_012"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "海母",
+      "predicate": "causes",
+      "object": "海瑞夫妻关系淡薄",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_012"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "极阳之体",
+      "predicate": "causes",
+      "object": "抗寒之体",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_012"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "海母",
+      "predicate": "has-a",
+      "object": "极阳之体",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_012"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "海瑞",
+      "predicate": "has-a",
+      "object": "极阳之体",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_012"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "赵贞吉",
+      "predicate": "is-a",
+      "object": "明朝中央官员",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_012",
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_013",
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_015"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "赵贞吉",
+      "predicate": "related-to",
+      "object": "郑泌昌",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_012"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "沈一石",
+      "predicate": "has-a",
+      "object": "作坊",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_012"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "沈一石",
+      "predicate": "has-a",
+      "object": "桑田",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_012"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "江南织造局",
+      "predicate": "has-a",
+      "object": "杨金水",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_012"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "郑泌昌",
+      "predicate": "related-to",
+      "object": "沈一石作坊",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_012"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "何茂才",
+      "predicate": "related-to",
+      "object": "沈一石作坊",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_012"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "田有禄",
+      "predicate": "is-a",
+      "object": "明朝地方官",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_012",
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_020"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "田有禄",
+      "predicate": "depends-on",
+      "object": "海瑞",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_012"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "赵贞吉",
+      "predicate": "related-to",
+      "object": "高拱",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_012"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "海夫人",
+      "predicate": "is-a",
+      "object": "明朝百姓",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_012"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "海母",
+      "predicate": "is-a",
+      "object": "明朝百姓",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_012",
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_020"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "齐大柱",
+      "predicate": "is-a",
+      "object": "明朝武将",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_013",
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_019",
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_020"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "齐大柱",
+      "predicate": "related-to",
+      "object": "戚继光",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_013",
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_020"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "胡震",
+      "predicate": "is-a",
+      "object": "明朝武将",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_013"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "陈濠",
+      "predicate": "is-a",
+      "object": "明朝武将",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_013"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "长沙之战",
+      "predicate": "causes",
+      "object": "倭寇水寨被攻破",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_013"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "长沙之战",
+      "predicate": "related-to",
+      "object": "戚继光",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_013"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "长沙之战",
+      "predicate": "related-to",
+      "object": "胡宗宪",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_013"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "义兵",
+      "predicate": "part-of",
+      "object": "长沙之战",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_013"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "徽商",
+      "predicate": "related-to",
+      "object": "胡宗宪",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_013"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "徽商",
+      "predicate": "related-to",
+      "object": "沈一石",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_013"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "海夫人",
+      "predicate": "related-to",
+      "object": "海瑞",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_013"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "台州卫",
+      "predicate": "part-of",
+      "object": "戚家军",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_013"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "长沙",
+      "predicate": "part-of",
+      "object": "温岭",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_013"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "新安江决堤",
+      "predicate": "caused-by",
+      "object": "何茂才",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_013"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "沈一石家产转卖",
+      "predicate": "caused-by",
+      "object": "郑泌昌",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_013"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "沈一石家产转卖",
+      "predicate": "caused-by",
+      "object": "何茂才",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_013"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "杨金水",
+      "predicate": "part-of",
+      "object": "江南织造局",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_014"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "黄锦",
+      "predicate": "is-a",
+      "object": "明朝宦官",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_014",
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_016",
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_019",
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_024"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "黄锦",
+      "predicate": "related-to",
+      "object": "吕芳",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_014",
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_016",
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_019",
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_024"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "黄锦",
+      "predicate": "part-of",
+      "object": "司礼监",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_014",
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_024"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "赵贞吉",
+      "predicate": "related-to",
+      "object": "泰州学派",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_014",
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_015",
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_019"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "海瑞",
+      "predicate": "related-to",
+      "object": "王用汲",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_014",
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_016",
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_023",
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_024",
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_025"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "芸娘",
+      "predicate": "related-to",
+      "object": "对食",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_014"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "齐大柱",
+      "predicate": "part-of",
+      "object": "戚家军",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_014"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "台州卫",
+      "predicate": "part-of",
+      "object": "明朝军事",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_014"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "台州卫",
+      "predicate": "has-a",
+      "object": "戚家军",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_014"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "诏狱",
+      "predicate": "part-of",
+      "object": "北镇抚司",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_014",
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_025"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "泰州学派",
+      "predicate": "related-to",
+      "object": "阳明心学",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_014"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "胡宗宪",
+      "predicate": "related-to",
+      "object": "谭纶",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_014"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "沈一石",
+      "predicate": "related-to",
+      "object": "杨金水",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_014"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "海瑞提审郑泌昌何茂才",
+      "predicate": "causes",
+      "object": "杨金水疯癫",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_014"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "赵贞吉",
+      "predicate": "implements",
+      "object": "署理江南织造局",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_014"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "谭纶",
+      "predicate": "is-a",
+      "object": "明朝中央官员",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_015"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "浙江市舶司",
+      "predicate": "part-of",
+      "object": "江南织造局",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_015"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "南平教谕",
+      "predicate": "is-a",
+      "object": "教谕",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_015"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "明发上谕",
+      "predicate": "is-a",
+      "object": "圣旨",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_015"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "特发上谕",
+      "predicate": "is-a",
+      "object": "圣旨",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_015"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "口谕",
+      "predicate": "is-a",
+      "object": "圣旨",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_015"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "越中四谏",
+      "predicate": "related-to",
+      "object": "严嵩",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_015"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "越中四谏",
+      "predicate": "related-to",
+      "object": "徐阶",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_015"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "戊午三子",
+      "predicate": "related-to",
+      "object": "严嵩",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_015"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "戊午三子",
+      "predicate": "related-to",
+      "object": "徐阶",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_015"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "何茂才",
+      "predicate": "related-to",
+      "object": "严世蕃",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_015"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "郑泌昌",
+      "predicate": "related-to",
+      "object": "严世蕃",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_015"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "杨金水",
+      "predicate": "related-to",
+      "object": "司礼监",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_015"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "沈一石",
+      "predicate": "related-to",
+      "object": "尚衣监",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_015"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "沈一石",
+      "predicate": "related-to",
+      "object": "针工局",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_015"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "沈一石",
+      "predicate": "related-to",
+      "object": "巾帽局",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_015"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "浙江按察使",
+      "predicate": "related-to",
+      "object": "按察使衙门",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_015"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "海瑞",
+      "predicate": "related-to",
+      "object": "大明律",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_015"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "陈洪",
+      "predicate": "is-a",
+      "object": "明朝宦官",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_016",
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_019",
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_024"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "陈洪",
+      "predicate": "is-a",
+      "object": "司礼监秉笔太监",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_016"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "黄锦",
+      "predicate": "is-a",
+      "object": "司礼监秉笔太监",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_016"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "刚峰",
+      "predicate": "related-to",
+      "object": "海瑞",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_016"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "陈洪",
+      "predicate": "related-to",
+      "object": "吕芳",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_016",
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_018",
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_019",
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_023",
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_024"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "谭纶",
+      "predicate": "causes",
+      "object": "海瑞被举荐",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_016"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "谭纶",
+      "predicate": "causes",
+      "object": "王用汲被举荐",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_016"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "海瑞",
+      "predicate": "causes",
+      "object": "郑泌昌何茂才供词",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_016"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "陈洪",
+      "predicate": "causes",
+      "object": "吕芳失势",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_016"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "嘉靖帝",
+      "predicate": "causes",
+      "object": "吕芳被派督修永陵",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_016"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "嘉靖帝",
+      "predicate": "causes",
+      "object": "陈洪掌司礼监印",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_016"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "嘉靖帝",
+      "predicate": "causes",
+      "object": "徐阶入住内阁值房",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_016"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "嘉靖帝",
+      "predicate": "causes",
+      "object": "严嵩居家养病",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_016"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "精舍",
+      "predicate": "part-of",
+      "object": "玉熙宫",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_016"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "永陵",
+      "predicate": "related-to",
+      "object": "嘉靖帝",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_016"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "酒醋面局",
+      "predicate": "is-a",
+      "object": "明朝中央机构",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_016"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "廷寄",
+      "predicate": "is-a",
+      "object": "圣旨",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_016"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "吕芳",
+      "predicate": "related-to",
+      "object": "严嵩",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_016"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "吕芳",
+      "predicate": "related-to",
+      "object": "徐阶",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_016"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "严嵩",
+      "predicate": "related-to",
+      "object": "徐阶",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_016"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "黄锦",
+      "predicate": "related-to",
+      "object": "扬州",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_016"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "吕芳",
+      "predicate": "part-of",
+      "object": "司礼监",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_017"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "吕芳",
+      "predicate": "caused-by",
+      "object": "嘉靖帝",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_017"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "永陵",
+      "predicate": "has-a",
+      "object": "吉壤",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_017"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "永陵",
+      "predicate": "part-of",
+      "object": "嘉靖帝",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_017"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "徐阶",
+      "predicate": "related-to",
+      "object": "内阁值房",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_017"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "严嵩",
+      "predicate": "related-to",
+      "object": "地安门",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_017"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "严世蕃",
+      "predicate": "related-to",
+      "object": "罗龙文",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_017"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "严世蕃",
+      "predicate": "related-to",
+      "object": "鄢懋卿",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_017"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "罗龙文",
+      "predicate": "part-of",
+      "object": "通政司",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_017"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "鄢懋卿",
+      "predicate": "part-of",
+      "object": "盐务司",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_017"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "石公公",
+      "predicate": "part-of",
+      "object": "司礼监",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_017"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "冯保",
+      "predicate": "related-to",
+      "object": "李妃",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_017"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "冯保",
+      "predicate": "related-to",
+      "object": "日月兴酒楼",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_017"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "日月兴酒楼",
+      "predicate": "related-to",
+      "object": "严嵩",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_017"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "张居正",
+      "predicate": "part-of",
+      "object": "兵部",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_017"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "高拱",
+      "predicate": "part-of",
+      "object": "户部",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_017"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "俺答",
+      "predicate": "causes",
+      "object": "蓟辽",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_017"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "胡宗宪",
+      "predicate": "related-to",
+      "object": "台州",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_017"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "晒书",
+      "predicate": "related-to",
+      "object": "中元节",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_017"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "严嵩",
+      "predicate": "related-to",
+      "object": "晒书",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_017"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "裕王",
+      "predicate": "related-to",
+      "object": "朱子语类",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_017"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "八百里急递",
+      "predicate": "enables",
+      "object": "兵部",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_017"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "西苑禁门",
+      "predicate": "part-of",
+      "object": "西苑",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_017"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "德胜门",
+      "predicate": "related-to",
+      "object": "永陵",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_017"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "赵贞吉",
+      "predicate": "related-to",
+      "object": "浙江",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_017"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "海瑞",
+      "predicate": "related-to",
+      "object": "郑泌昌",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_017"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "海瑞",
+      "predicate": "related-to",
+      "object": "何茂才",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_017"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "严世蕃",
+      "predicate": "related-to",
+      "object": "郑泌昌",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_017"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "严世蕃",
+      "predicate": "related-to",
+      "object": "何茂才",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_017"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "金印盒",
+      "predicate": "related-to",
+      "object": "玉玺",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_018"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "陈洪",
+      "predicate": "is-a",
+      "object": "司礼监掌印太监",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_018"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "司礼监值房",
+      "predicate": "has-a",
+      "object": "五张大案",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_018"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "内阁票拟",
+      "predicate": "related-to",
+      "object": "司礼监值房",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_018"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "玉玺",
+      "predicate": "related-to",
+      "object": "大明江山",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_018"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "金印盒",
+      "predicate": "related-to",
+      "object": "司礼监",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_018"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "高翰文",
+      "predicate": "is-a",
+      "object": "明朝官员",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_019",
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_021",
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_024"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "台州大捷",
+      "predicate": "causes",
+      "object": "倭患肃清在即",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_019"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "胡宗宪",
+      "predicate": "causes",
+      "object": "台州大捷",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_019"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "嘉靖帝",
+      "predicate": "causes",
+      "object": "吕芳被派去永陵",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_019"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "吕芳被派去永陵",
+      "predicate": "causes",
+      "object": "陈洪暂署掌印太监",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_019"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "海瑞审出毁堤淹田供词",
+      "predicate": "causes",
+      "object": "朝廷震动",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_019"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "严嵩",
+      "predicate": "causes",
+      "object": "抓捕齐大柱",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_019"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "朝天观",
+      "predicate": "is-a",
+      "object": "宗教场所",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_019"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "浣衣局",
+      "predicate": "is-a",
+      "object": "明朝中央机构",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_019"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "上驷监",
+      "predicate": "is-a",
+      "object": "明朝中央机构",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_019"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "永定门",
+      "predicate": "is-a",
+      "object": "北京",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_019"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "乾卦",
+      "predicate": "related-to",
+      "object": "海瑞",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_019"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "蓝真人",
+      "predicate": "is-a",
+      "object": "方士",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_019"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "齐大柱",
+      "predicate": "related-to",
+      "object": "胡宗宪",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_020"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "海妻",
+      "predicate": "is-a",
+      "object": "明朝百姓",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_020"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "海妻",
+      "predicate": "related-to",
+      "object": "海瑞",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_020"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "海瑞小女儿",
+      "predicate": "is-a",
+      "object": "明朝百姓",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_020"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "海瑞小女儿",
+      "predicate": "related-to",
+      "object": "海瑞",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_020"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "齐大柱妻子",
+      "predicate": "is-a",
+      "object": "明朝百姓",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_020"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "齐大柱妻子",
+      "predicate": "related-to",
+      "object": "齐大柱",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_020",
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_022"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "胡宗宪",
+      "predicate": "related-to",
+      "object": "海瑞",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_020"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "赵贞吉",
+      "predicate": "related-to",
+      "object": "海瑞",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_020"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "赵贞吉",
+      "predicate": "related-to",
+      "object": "齐大柱",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_020"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "王用汲",
+      "predicate": "related-to",
+      "object": "齐大柱",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_020"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "王用汲",
+      "predicate": "related-to",
+      "object": "齐大柱妻子",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_020"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "谭纶",
+      "predicate": "related-to",
+      "object": "齐大柱",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_020"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "齐大柱",
+      "predicate": "related-to",
+      "object": "裕王",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_020"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "台州大战",
+      "predicate": "causes",
+      "object": "倭寇肃清",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_020"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "河图洛书",
+      "predicate": "enables",
+      "object": "围棋",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_020"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "县丞",
+      "predicate": "is-a",
+      "object": "地方行政",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_020"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "芸娘",
+      "predicate": "has-a",
+      "object": "司礼监牒文",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_021"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "司礼监牒文",
+      "predicate": "caused-by",
+      "object": "吕芳",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_021"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "高翰文",
+      "predicate": "related-to",
+      "object": "芸娘",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_021",
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_022"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "王用汲",
+      "predicate": "related-to",
+      "object": "高翰文",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_021"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "齐大柱妻子",
+      "predicate": "related-to",
+      "object": "芸娘",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_021"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "司礼监牒文",
+      "predicate": "part-of",
+      "object": "司礼监",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_021"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "芸娘",
+      "predicate": "is-a",
+      "object": "明朝百姓",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_021"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "朱七",
+      "predicate": "is-a",
+      "object": "十三太保",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_022",
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_023",
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_025"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "十三太保",
+      "predicate": "part-of",
+      "object": "锦衣卫",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_022",
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_023"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "鄢懋卿",
+      "predicate": "is-a",
+      "object": "严党成员",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_022"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "罗龙文",
+      "predicate": "is-a",
+      "object": "严党成员",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_022"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "叶镗",
+      "predicate": "is-a",
+      "object": "严党成员",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_022"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "万寀",
+      "predicate": "is-a",
+      "object": "严党成员",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_022"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "严世蕃",
+      "predicate": "is-a",
+      "object": "严党成员",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_022"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "邹应龙参劾奏疏",
+      "predicate": "causes",
+      "object": "严党倒台",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_022"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "血经",
+      "predicate": "causes",
+      "object": "齐大柱获赦",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_022"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "李妃",
+      "predicate": "causes",
+      "object": "齐大柱获赦",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_022"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "提刑司",
+      "predicate": "part-of",
+      "object": "司礼监",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_022",
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_023",
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_025"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "陈洪",
+      "predicate": "regulates",
+      "object": "提刑司",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_022"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "陈洪",
+      "predicate": "regulates",
+      "object": "镇抚司",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_022"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "六必居",
+      "predicate": "related-to",
+      "object": "严嵩",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_022"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "六必居",
+      "predicate": "related-to",
+      "object": "嘉靖帝",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_022"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "张三丰",
+      "predicate": "related-to",
+      "object": "血经",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_022"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "嘉靖帝",
+      "predicate": "related-to",
+      "object": "张三丰",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_022"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "京杭大运河",
+      "predicate": "related-to",
+      "object": "通州",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_022"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "东便门",
+      "predicate": "part-of",
+      "object": "北京",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_022"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "烟袋斜街",
+      "predicate": "part-of",
+      "object": "北京",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_022"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "通州",
+      "predicate": "part-of",
+      "object": "北京",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_022"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "蓝道行",
+      "predicate": "is-a",
+      "object": "方士",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_022"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "蓝道行",
+      "predicate": "related-to",
+      "object": "朝天观",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_022"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "齐大柱妻子",
+      "predicate": "related-to",
+      "object": "血经",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_022"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "昆曲",
+      "predicate": "related-to",
+      "object": "严嵩",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_022"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "浣纱记",
+      "predicate": "is-a",
+      "object": "昆曲",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_022"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "日月兴酒楼",
+      "predicate": "related-to",
+      "object": "罗龙文",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_022"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "日月兴酒楼",
+      "predicate": "related-to",
+      "object": "鄢懋卿",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_022"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "赵贞吉",
+      "predicate": "related-to",
+      "object": "内阁",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_023"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "冯保",
+      "predicate": "related-to",
+      "object": "朝天观",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_023"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "吕芳",
+      "predicate": "related-to",
+      "object": "南京",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_023"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "海瑞",
+      "predicate": "causes",
+      "object": "六必居事件",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_023"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "严世蕃",
+      "predicate": "caused-by",
+      "object": "严党倒台",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_023"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "黄锦",
+      "predicate": "related-to",
+      "object": "司礼监首席秉笔太监",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_023"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "齐大柱",
+      "predicate": "is-a",
+      "object": "十三太保",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_023",
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_025"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "李时珍",
+      "predicate": "related-to",
+      "object": "裕王",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_023"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "李时珍",
+      "predicate": "related-to",
+      "object": "海妻",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_023"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "嘉靖帝",
+      "predicate": "causes",
+      "object": "吕芳发配",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_023"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "陈洪",
+      "predicate": "related-to",
+      "object": "朱七",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_023"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "陈洪",
+      "predicate": "related-to",
+      "object": "齐大柱",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_023"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "李妃",
+      "predicate": "related-to",
+      "object": "陈洪",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_023"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "海瑞",
+      "predicate": "related-to",
+      "object": "齐大柱",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_023",
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_025"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "吕芳",
+      "predicate": "related-to",
+      "object": "冯保",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_023"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "吕芳",
+      "predicate": "related-to",
+      "object": "杨金水",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_023"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "徐阶",
+      "predicate": "related-to",
+      "object": "徐璠",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_023",
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_024"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "徐阶",
+      "predicate": "related-to",
+      "object": "赵贞吉",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_023",
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_024"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "裕王",
+      "predicate": "related-to",
+      "object": "世子",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_023"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "裕王",
+      "predicate": "related-to",
+      "object": "李妃",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_023"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "万寿宫",
+      "predicate": "part-of",
+      "object": "西苑",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_023"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "钱粮胡同",
+      "predicate": "part-of",
+      "object": "北京",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_023"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "广盈库",
+      "predicate": "part-of",
+      "object": "户部",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_024"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "十三清吏司",
+      "predicate": "part-of",
+      "object": "户部",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_024"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "御医堂",
+      "predicate": "part-of",
+      "object": "太医院",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_024"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "海瑞",
+      "predicate": "is-a",
+      "object": "明朝官员",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_024"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "王用汲",
+      "predicate": "is-a",
+      "object": "明朝官员",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_024"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "李清源",
+      "predicate": "is-a",
+      "object": "明朝官员",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_024"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "李清源",
+      "predicate": "part-of",
+      "object": "国子监",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_024"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "赵贞吉",
+      "predicate": "is-a",
+      "object": "明朝官员",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_024"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "赵贞吉",
+      "predicate": "part-of",
+      "object": "内阁",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_024"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "李春芳",
+      "predicate": "is-a",
+      "object": "明朝官员",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_024"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "李春芳",
+      "predicate": "part-of",
+      "object": "内阁",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_024"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "陈洪",
+      "predicate": "part-of",
+      "object": "司礼监",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_024"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "冯保",
+      "predicate": "is-a",
+      "object": "明朝宦官",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_024"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "冯保",
+      "predicate": "part-of",
+      "object": "东厂",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_024"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "徐璠",
+      "predicate": "is-a",
+      "object": "明朝官员",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_024"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "徐璠",
+      "predicate": "part-of",
+      "object": "工部",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_024"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "李奇",
+      "predicate": "is-a",
+      "object": "明朝皇族",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_024"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "李奇",
+      "predicate": "related-to",
+      "object": "李妃",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_024"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "治安疏",
+      "predicate": "caused-by",
+      "object": "海瑞",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_024"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "治安疏",
+      "predicate": "causes",
+      "object": "嘉靖帝震怒",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_024"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "百官上疏事件",
+      "predicate": "causes",
+      "object": "廷杖",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_024"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "陈洪",
+      "predicate": "causes",
+      "object": "廷杖",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_024"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "国库空虚",
+      "predicate": "causes",
+      "object": "官员欠俸",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_024"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "官员欠俸",
+      "predicate": "causes",
+      "object": "百官上疏事件",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_024"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "棉业专营",
+      "predicate": "causes",
+      "object": "国库增收",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_024"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "高翰文",
+      "predicate": "implements",
+      "object": "棉业专营",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_024"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "芸娘",
+      "predicate": "related-to",
+      "object": "血经",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_024"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "李时珍",
+      "predicate": "causes",
+      "object": "海瑞康复",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_024"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "李时珍",
+      "predicate": "causes",
+      "object": "嘉靖帝服药",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_024"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "冯保",
+      "predicate": "related-to",
+      "object": "裕王",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_024"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "冯保",
+      "predicate": "related-to",
+      "object": "世子",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_024"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "海瑞",
+      "predicate": "related-to",
+      "object": "海母",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_024"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "海瑞",
+      "predicate": "related-to",
+      "object": "海妻",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_024"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "徐阶",
+      "predicate": "related-to",
+      "object": "张居正",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_024"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "徐阶",
+      "predicate": "related-to",
+      "object": "高拱",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_024"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "李清源",
+      "predicate": "related-to",
+      "object": "越中四谏",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_024"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "芸娘",
+      "predicate": "related-to",
+      "object": "越中四谏",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_024"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "贺表",
+      "predicate": "is-a",
+      "object": "奏疏",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_024"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "治安疏",
+      "predicate": "is-a",
+      "object": "奏疏",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_024"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "大兴县",
+      "predicate": "part-of",
+      "object": "北京",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_024"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "铜磬",
+      "predicate": "has-a",
+      "object": "磬杵",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_024"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "嘉靖帝",
+      "predicate": "related-to",
+      "object": "黄锦",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_024"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "嘉靖帝",
+      "predicate": "related-to",
+      "object": "陈洪",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_024"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "嘉靖帝",
+      "predicate": "related-to",
+      "object": "吕芳",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_024"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "嘉靖帝",
+      "predicate": "related-to",
+      "object": "裕王",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_024"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "嘉靖帝",
+      "predicate": "related-to",
+      "object": "海瑞",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_024"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "嘉靖帝",
+      "predicate": "related-to",
+      "object": "李时珍",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_024"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "海瑞",
+      "predicate": "causes",
+      "object": "嘉靖帝震怒",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_025"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "治安疏",
+      "predicate": "causes",
+      "object": "海瑞下诏狱",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_025"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "三法司",
+      "predicate": "has-a",
+      "object": "刑部",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_025"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "三法司",
+      "predicate": "has-a",
+      "object": "大理寺",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_025"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "三法司",
+      "predicate": "has-a",
+      "object": "都察院",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_025"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "虎狼套",
+      "predicate": "is-a",
+      "object": "刑具",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_025"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "秋决",
+      "predicate": "is-a",
+      "object": "死刑制度",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_025"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "绞刑",
+      "predicate": "is-a",
+      "object": "死刑",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_025"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "隆庆帝",
+      "predicate": "is-a",
+      "object": "裕王",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_025"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "嘉靖帝",
+      "predicate": "causes",
+      "object": "海瑞赦免",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_025"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "遗诏",
+      "predicate": "causes",
+      "object": "海瑞赦免",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_025"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "嘉靖帝驾崩",
+      "predicate": "causes",
+      "object": "隆庆帝继位",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_025"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "景阳钟",
+      "predicate": "related-to",
+      "object": "嘉靖帝驾崩",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_025"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "黄锦",
+      "predicate": "causes",
+      "object": "海瑞赦免",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_025"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "徐阶",
+      "predicate": "related-to",
+      "object": "海瑞赦免",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_025"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "张居正",
+      "predicate": "related-to",
+      "object": "海瑞赦免",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_025"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "世子",
+      "predicate": "related-to",
+      "object": "海瑞赦免",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_025"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "海瑞",
+      "predicate": "related-to",
+      "object": "朱七",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_025"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "陈洪",
+      "predicate": "causes",
+      "object": "黄锦被关押",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_025"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "陈洪",
+      "predicate": "causes",
+      "object": "王用汲被捕",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_025"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "陈洪",
+      "predicate": "causes",
+      "object": "朱七被关押",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_025"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "陈洪",
+      "predicate": "causes",
+      "object": "齐大柱被关押",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_025"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "遗诏",
+      "predicate": "has-a",
+      "object": "赦免谏言诸臣",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_025"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "遗诏",
+      "predicate": "has-a",
+      "object": "退发楚王庄田",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_025"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "遗诏",
+      "predicate": "has-a",
+      "object": "辅政大臣安排",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_025"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "徐阶",
+      "predicate": "is-a",
+      "object": "辅政大臣",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_025"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "高拱",
+      "predicate": "is-a",
+      "object": "辅政大臣",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_025"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "张居正",
+      "predicate": "is-a",
+      "object": "辅政大臣",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_025"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "海瑞",
+      "predicate": "is-a",
+      "object": "户部主事",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_025"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "赵贞吉",
+      "predicate": "is-a",
+      "object": "户部尚书",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_025"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "申时行",
+      "predicate": "is-a",
+      "object": "刑部尚书",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_025"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "李清源",
+      "predicate": "is-a",
+      "object": "国子监司业",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_025"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "石公公",
+      "predicate": "is-a",
+      "object": "司礼监首席秉笔太监",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_025"
+      ],
+      "confidence": null
+    },
+    {
+      "subject": "世子",
+      "predicate": "is-a",
+      "object": "万历帝",
+      "source_chunks": [
+        "大明王朝1566 -- 刘和平 -- 2007 -- 人民文学出版社 -- da743986510057bfacb8992d9eeda188 -- Anna's Archive_chunk_025"
+      ],
+      "confidence": null
+    }
+  ]
+}
